@@ -1,0 +1,10 @@
+<xml>
+
+<plugin>
+    <title>[B][COLORwhite]LAOLA 1.TV SPORTS & VOD[/COLOR][/B]</title>
+  <thumbnail>http://www.deceitaddon.co.uk/Artwork/Mainart/sportsstreams.png</thumbnail>
+ <link>plugin://script.module.laola1tv</link>
+</plugin>
+
+</xml>
+
