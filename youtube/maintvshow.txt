@@ -1,0 +1,52 @@
+name="Zeg een aaa, the best of"
+section="false"
+search="false"
+subid="false"
+playlistid="PLELZIlp7BGDyk80BlI95-18xBxcl_vlcO"
+channelid="false"
+videoid="false"
+icon="https://onsverleden.files.wordpress.com/2010/11/vara-zeg-ns-aaa.jpg?w=620"
+fanart="http://cy4root.000webhostapp.com/xml-master/icons/fanart.jpg"
+description="zeg eens aaa 200 videos"
+
+name="Flodder serie reeds"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="UC3u3qyF6dNkr6O6BEOW2fRQ/playlists"
+videoid="false"
+icon="https://m.media-amazon.com/images/M/MV5BYmVjMTViYWEtODQ0My00ODZjLTg4YjAtNDY2OGQwMTMyNzE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+fanart="http://cy4root.000webhostapp.com/xml-master/icons/fanart.jpg"
+description="Flodder reeds"
+
+name="Toen was geluk heel gewoon"
+section="false"
+search="false"
+subid="false"
+playlistid="PL0aiMOiC-qdYYff_aRQe3RYh09ecDMpW7"
+channelid="false"
+videoid="false"
+icon="https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/0/6/6/1002004013436606.jpg"
+fanart="http://cy4root.000webhostapp.com/xml-master/icons/fanart.jpg"
+description="serie"
+
+name="Bananasplit"
+section="false"
+search="false"
+subid="false"
+playlistid="PLcJV2-MF3wByDmwZ9tnqw9oTWlSGC72LG"
+channelid="false"
+videoid="false"
+icon="http://www.bodyheal.nl/wp-content/uploads/2014/08/banaan.jpg"
+fanart="http://cy4root.000webhostapp.com/xml-master/icons/fanart.jpg"
+description="tvshow"
+
+
+
+
+
+
+
+
+
