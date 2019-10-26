@@ -49,7 +49,7 @@ subid="false"
 playlistid="false"
 channelid="UCxrp2coE9wRrnlOO3V3UmdQ"
 videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/icons/ggd.jpg"
+icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/ggd.jpg"
 fanart="http://"
 description="The channel was created by then-college student, Carrie Anne, to inspire other geeky girls to pursue what they love."
 
