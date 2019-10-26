@@ -19,42 +19,46 @@
  <link>plugin://script.module.laola1tv</link>
 </plugin>
 
-<dir>
-    <title>Deceit Lite version</title>
-    <link>https://daanbanaan75.000webhostapp.com/xml-master/xmls/deceit.xml</link>
-    <thumbnail>https://kodiforu.com/wp-content/uploads/2018/05/highcompress-Screenshot_20-1-300x200.jpg</thumbnail>
-</dir>
 
 <dir>
-    <title>FluxusTV</title>
-    <link>http://daanbanaan75.000webhostapp.com/xml-master/url/FluxIptv/FluxIptv.txt</link>
+    <title>AllTv</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/AllPTV.xml</link>
     <thumbnail>https://1.bp.blogspot.com/-_-7n-gpLtrc/W9UZEG7eOKI/AAAAAAAAEJY/8Wue7tEfF283fMa0J1WvdGFQQ02a5MRQgCLcBGAs/s1600/fluxustv.png</thumbnail>
 </dir>
 
 
 <dir>
-    <title>StratusTV</title>
-    <link>http://daanbanaan75.000webhostapp.com/xml-master/url/StratusTv.txt</link>
+    <title>CinemaTv</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/CinemaIPTV.xml</link>
     <thumbnail>https://4.bp.blogspot.com/-oQNkqrqPQ98/W1jECk8g7YI/AAAAAAAADjU/FxPmjwup0QI6_2ni2icom0WpHSpx2gt2gCLcBGAs/s1600/Stratus_TV_Playlist.png</thumbnail>
 </dir>
 
 
 <dir>
-    <title>LodgeTV</title>
-    <link>http://daanbanaan75.000webhostapp.com/xml-master/url/LodgeTV.txt</link>
+    <title>FaithTv</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/FaithIPTV.xml</link>
+    <thumbnail>https://4.bp.blogspot.com/-oQNkqrqPQ98/W1jECk8g7YI/AAAAAAAADjU/FxPmjwup0QI6_2ni2icom0WpHSpx2gt2gCLcBGAs/s1600/Stratus_TV_Playlist.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>LodgeTv</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/LodgeIPTV.xml</link>
+    <thumbnail>https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s280/FluxusLustH.png</thumbnail>
+</dir>
+
+<dir>
+    <title>RadioTv</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/RadioIPTV.xml</link>
     <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
 </dir>
 
-    <dir>
-        <title>Fluxus Lust</title>
-        <link>https://pastebin.com/raw/jMe87UHE</link>
-        <thumbnail>https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s280/FluxusLustH.png</thumbnail>
-    </dir>
 
-    <dir>
-        <title>Iptv music</title>
-        <link>https://pastebin.com/raw/qL3G7Kby/myiptv.m3u</link>
-        <thumbnail>https://static.apkupdate.com/images/cover/veg.iptv.mediaplayer.pro.png</thumbnail>
-    </dir>
+
+<dir>
+    <title>MyTv</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/MyIptv.xml</link>
+    <thumbnail>https://static.apkupdate.com/images/cover/veg.iptv.mediaplayer.pro.png</thumbnail>
+</dir>
 
 </xml>
