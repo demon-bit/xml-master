@@ -1,0 +1,22 @@
+<xml>
+
+<plugin>
+    <title>Sport365</title>
+    <link>plugin://plugin.video.sport365.live</link>
+    <thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
+</plugin>
+
+
+<plugin>
+    <title>TVTap</title>
+      <link>plugin://script.module.tt</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
+
+<plugin>
+    <title>LaolaTv Sports</title>
+  <thumbnail>http://www.deceitaddon.co.uk/Artwork/Mainart/sportsstreams.png</thumbnail>
+ <link>plugin://script.module.laola1tv</link>
+</plugin>
+
+</xml>
