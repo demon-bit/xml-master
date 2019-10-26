@@ -5,7 +5,7 @@ subid="false"
 playlistid="false"
 channelid="false"
 videoid="false"
-https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.pngfanart="https://"
+https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png
 description="Pre-Workout items such as Stretching and so on"
 
 name="10 Best Mobility/Flexibility Drills (PRE-WORKOUT)"
@@ -15,7 +15,7 @@ subid="false"
 playlistid="false"
 channelid="false"
 videoid="7dT4KHtMM-A"
-https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.pngfanart="https://"
+https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png
 description="10 Best Mobility/Flexibility Drills (PRE-WORKOUT)"
 
 name="Warm Up Stretches"
@@ -25,7 +25,7 @@ subid="false"
 playlistid="PL3nu2-xwAZhGjslf5yP2IVwkBQ2qlb_PK"
 channelid="false"
 videoid="false"
-https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.pngfanart="https://"
+https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png
 description="Warm Up Stretches"
 
 name="Flexibility, Warm Up, and Cool Down"
@@ -35,7 +35,7 @@ subid="false"
 playlistid="PLFD9A7697E965FB1B"
 channelid="false"
 videoid="false"
-https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.pngfanart="https://"
+https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png
 description="Flexibility, Stretching, Warm Up and Cool Down"
 
 name="Stretching and Training"
@@ -45,7 +45,7 @@ subid="false"
 playlistid="PLXQuhz1WOUgb7TswnY7bVZGy0F3TyIt1S"
 channelid="false"
 videoid="false"
-https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.pngfanart="https://"
+https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png
 description="Stretching and Training"
 
 name="Stretch Workout"
@@ -55,7 +55,7 @@ subid="false"
 playlistid="PLBVK6-QShOldbo17I4xbx_LAb1mOFV8rR"
 channelid="false"
 videoid="false"
-https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.pngfanart="https://"
+https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png
 description="Stretch Workout"
 
 name="Warmup and Stretching for Beginners"
