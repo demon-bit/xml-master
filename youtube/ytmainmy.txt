@@ -132,7 +132,7 @@ icon="http://s389751341.onlinehome.fr/wp-content/uploads/2018/07/images-1.png"
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="live cam"
 
-name="Cy$Root Channel"
+name="Cy4Root Channel"
 section="false"
 search="false"
 subid="false"
