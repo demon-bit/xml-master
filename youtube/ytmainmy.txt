@@ -131,3 +131,16 @@ videoid="false"
 icon="http://s389751341.onlinehome.fr/wp-content/uploads/2018/07/images-1.png"
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="live cam"
+
+name="Mirror V2"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="43RLMg1W6aY"
+icon="https://www.vpnranks.com/wp-content/uploads/2016/08/Best-Kodi-Addons.jpg"
+fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
+description="kodi addon"
+
+
