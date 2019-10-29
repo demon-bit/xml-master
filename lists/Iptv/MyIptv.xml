@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="80",Radio 10 80's Hits
 http://20103.live.streamtheworld.com/TLPSTR20.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="80",test
+http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Sky Radio 80's
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Veronica 80's Hits
