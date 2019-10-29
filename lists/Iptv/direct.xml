@@ -1,16 +1,34 @@
 #EXTM3U
 
+#EXTM3U
+ 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 10.25.2019",- Update: 10.25.2019
+https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
+http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 10.29.2019",- Update: 10.25.2019 Direct streams free RealDebrid
-#EXTINF:0 group-title="Debrid",Anna.2019.2160p.UHD.BluRay.x265
+#EXTINF:1 group-title="Debrid",Anna.2019.2160p.UHD.BluRay.x265
 http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8
-#EXTINF:0 group-title="Debrid",It.Chapter.Two.2019.1080p.HC.HDRip.X264
+#EXTINF:1 group-title="Debrid",It.Chapter.Two.2019.1080p.HC.HDRip.X264
 http://31.download.real-debrid.com/d/QM3YMZARQUTQE/It.Chapter.Two.2019.1080p.HC.HDRip.X264-EVO.mkv
-#EXTINF:0 group-title="Debrid",/El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265
+#EXTINF:1 group-title="Debrid",/El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265
 http://34.download.real-debrid.com/d/A7B3BOIC5MAD4/El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265-TrollUHD.mkv
-#EXTINF:0 group-title="Debrid",47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264
+#EXTINF:1 group-title="Debrid",47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264
 http://31.download.real-debrid.com/d/K5XNTTXNEC7HW/47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv
-#EXTINF:0 group-title="Debrid",Rambo.Last.Blood.2019.1080p.HDTS.x264
+#EXTINF:1 group-title="Debrid",Rambo.Last.Blood.2019.1080p.HDTS.x264
 http://40.download.real-debrid.com/d/GKLMRB72UY44Y/Rambo.Last.Blood.2019.1080p.HDTS.x264.MKV.mkv
 
 
