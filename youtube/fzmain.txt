@@ -5,7 +5,7 @@ subid="false"
 playlistid="false"
 videoid="false"
 videoid="false"
-icon="https://cdn4.iconfinder.com/data/icons/dance-fitness-color/300/04-512.png"
+icon="https://cdn4.iconfinder.com/data/icons/medical-and-health-16/128/173-512.png"
 fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_life-begins-at-the-end-of-your-comfort-zone.jpg"
 description="Pre-Workout items such as Stretching and so on"
 
