@@ -226,7 +226,7 @@ subid="false"
 playlistid="false"
 channelid="UCpVm7bg6pXKo1Pr6k5kxG9A"
 videoid="false"
-icon="https://daanbanaan75.000webhostapp.com/xml-master/youtube/icons/natgeo.png"
+icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/natgeo.png"
 fanart="https://dbcloud.000webhostapp.com/xml-master/youtube/icons/ytfanart.jpg"
 description="Inspiring people to care about the planet! National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible."
 
