@@ -281,7 +281,7 @@ subid="snowboarding"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/iconssnowboarding.jpg"
+icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/snowboarding.jpg"
 fanart="https://dbcloud.000webhostapp.com/xml-master/youtube/icons/ytfanart.jpg"
 description="YouTube Snowboaring videos"
 
