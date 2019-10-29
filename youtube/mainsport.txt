@@ -41,10 +41,3 @@ videoid="false"
 icon="http://www.clker.com/cliparts/d/9/a/6/13665393891197772252free-red-cloud-sexy_girl-hi.png"
 fanart="https://daanbanaan75.000webhostapp.com/xml-master/icons/fanart.jpg"
 description="HotSport"
-
-
-
-
-
-
-
