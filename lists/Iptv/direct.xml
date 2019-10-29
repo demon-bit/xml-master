@@ -1,23 +1,19 @@
 #EXTM3U
 
-
- 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 10.25.2019",- Update: 10.25.2019
-https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
-http://45.126.83.51/qwr9ew/s/s17/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="80",Radio 10 80's Hits
+http://20103.live.streamtheworld.com/TLPSTR20.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Sky Radio 80's
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Veronica 80's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",100% Schlager
+http://streams.schlagerplanet.com/schlager/mp3-192
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Trance
+http://stream.sunshine-live.de/trance/mp3-192	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Radio2
+http://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",100%NL
+http://stream.100p.nl/100pctnl.mp3	
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 10.29.2019",- Update: 10.25.2019 Direct streams free RealDebrid
 #EXTINF:1 group-title="Debrid",Anna.2019.2160p.UHD.BluRay.x265
