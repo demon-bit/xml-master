@@ -76,7 +76,7 @@ fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_l
 description="Warmup and Stretching for Beginners"
 
 name="[COLOR limegreen]*** Targetted Workout Videos ***[/COLOR]"
-section="true"
+section="false"
 search="Targetted Workout Videos"
 subid="false"
 playlistid="false"
@@ -186,7 +186,7 @@ fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_l
 description="Tricep Workout Videos"
 
 name="[COLOR limegreen]*** Fitness Channels ***[/COLOR]"
-section="true"
+section="false"
 search="Fitness Channels "
 subid="false"
 playlistid="false"
@@ -483,7 +483,7 @@ fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_l
 description="Zuzka Light Channel"
 
 name="[COLOR limegreen]*** Yoga Channels ***[/COLOR]"
-section="true"
+section="false"
 search="Yoga Channels"
 subid="false"
 playlistid="false"
@@ -604,7 +604,7 @@ fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_l
 description="Yoga With Tim"
 
 name="[COLOR limegreen]*** Trainer Workout Collections ***[/COLOR]"
-section="true"
+section="false"
 search="Trainer Workout Collections"
 subid="false"
 playlistid="false"
