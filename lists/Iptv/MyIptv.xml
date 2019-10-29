@@ -1,14 +1,367 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv
-http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",It.Chapter.Two.2019.1080p.HC.HDRip.X264-EVO.mkv
-http://31.download.real-debrid.com/d/QM3YMZARQUTQE/It.Chapter.Two.2019.1080p.HC.HDRip.X264-EVO.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265
-http://34.download.real-debrid.com/d/A7B3BOIC5MAD4/El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265-TrollUHD.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264
-http://31.download.real-debrid.com/d/K5XNTTXNEC7HW/47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",Rambo.Last.Blood.2019.1080p.HDTS.x264
-http://40.download.real-debrid.com/d/GKLMRB72UY44Y/Rambo.Last.Blood.2019.1080p.HDTS.x264.MKV.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="80",Radio 10 80's Hits
+http://20103.live.streamtheworld.com/TLPSTR20.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Sky Radio 80's
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Veronica 80's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",100% Schlager
+http://streams.schlagerplanet.com/schlager/mp3-192
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Trance
+http://stream.sunshine-live.de/trance/mp3-192	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",Radio2
+http://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",100%NL
+http://stream.100p.nl/100pctnl.mp3	
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title=""
+
+#EXTINF:0 group-title="Radio",Friesepiraten.nl
+https://friesepiraten.nl/luisterlinks/friesepiraten-stream192.pls
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Adult Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Alt R&B
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Brits + Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Dance / EDM
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Hip-Hop + R&B
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Hit List
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Indie
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Love Songs
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Metal
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Music Choice Max
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Pop & Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Pop Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",R&B + Soul
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Rap
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Rap 2K
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Reggae
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Soft Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Teen Beats
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-051/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Today's Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-003/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Underground Hip-Hop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-149/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",'70s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-036/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",'80s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-038/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",'80s Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",'90s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-039/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Classic Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-146/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Classic Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-027/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Classic Dance
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-162/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Classic Metal
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-153/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Classic Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Country Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-040/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Emo X Screamo
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-164/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Funk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-161/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Hip-Hop Classics
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-019/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",New Wave
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-166/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Punk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-152/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",R&B Classics
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-043/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Rock Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-035/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Solid Gold Oldies
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-004/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Throwback Jamz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-042/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Y2K
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-048/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Latin Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-157/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Mexicana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-026/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Musica Urbana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Pop Latino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-041/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Rock Latino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Romances
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-031/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Teen Ritmos
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-159/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Tropicales
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-025/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",All Xmas
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Americana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-147/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Bluegrass
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-148/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Blues
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-046/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Classical Masterpieces
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-017/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Contemporary Christian
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-016/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Easy Listening
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-009/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Folk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Gospel
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-023/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-012/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Light Classical
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-008/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Lounge
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-150/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Opera
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-167/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Party Favorites
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-033/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Singers & Swing
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-018/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Smooth Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-007/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Sounds of The Seasons
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-032/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Soundscapes
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-045/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Stage & Screen
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-028/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Kids Movie Soundtracks
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-160/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Kidz Only!
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-021/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Toddler Tunes
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-020/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Brazilian Pop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",Filipino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="MUSIC CHOICE RADIO",K-Pop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",00's Club Hits
+http://goo.gl/KLlY6m
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Ambient
+http://goo.gl/KYZEXC
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Atmospheric Breaks
+http://goo.gl/XmKWuw
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Bass and Jackin' House
+http://goo.gl/pnw00c
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Bassline
+http://goo.gl/85abPX
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Big Beat
+http://goo.gl/JwUoct
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Big Room House
+http://goo.gl/ISwkMI
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Breaks
+http://goo.gl/yj8z7Y
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Chill And Tropical House
+http://goo.gl/01HCeN
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",ChillHop
+http://goo.gl/pTM8kz
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Chillout Dreams
+http://goo.gl/4MOhZ0
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Chillout
+http://goo.gl/3DbFWl
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Chillstep
+http://goo.gl/25gJhg
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Classic EuroDance
+http://goo.gl/DeKh27
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Classic EuroDisco
+http://goo.gl/UxM6Yb
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Classic Trance
+http://goo.gl/i9aMBc
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Classic Vocal Trance
+http://goo.gl/oRGdGC
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Club Dubstep
+http://goo.gl/aAfDRG
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Club Sounds
+http://goo.gl/fDWPji
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Dark Dnb
+http://goo.gl/azQjDe
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Deep House
+http://goo.gl/eOdJwq
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Deep Nu-Disco
+http://goo.gl/kzXHzG
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Deep Tech
+http://goo.gl/rlVpld
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Disco House
+http://goo.gl/lg4So9
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",DJ Mixes
+http://goo.gl/X53iEH
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Downtempo Lounge
+http://goo.gl/NaLOZo
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Drum and Bass
+http://goo.gl/7G6L6V
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Dub Techno
+http://goo.gl/2ZT65b
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Dubstep
+http://goo.gl/4axAH2
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",EcLectronica
+http://goo.gl/bOqlaA
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Electro House
+http://goo.gl/IhRGd0
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Electropop
+http://goo.gl/s4aCi9
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Electro Swing
+http://goo.gl/isFjag
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Epic Trance
+http://goo.gl/FHIWp2
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",EuroDance
+http://goo.gl/ueUBHy
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Funky House
+http://goo.gl/fpm2GG
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Future Garage
+http://goo.gl/4YvOGo
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Future Synthpop
+http://goo.gl/P5vuQV
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Gabber
+http://goo.gl/ec6aYi
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Goa & Psychedelic Trance
+http://goo.gl/ddexWK
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Hands Up
+http://goo.gl/dpZkzN
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Hard Dance
+http://goo.gl/A92JIT
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Hard Techno
+http://goo.gl/N6iXwj
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Hardcore
+http://goo.gl/I7OU5k
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Hardstyle
+http://goo.gl/NUYmUL
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",House
+http://goo.gl/yRVD3a
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Indie Dance
+http://goo.gl/gZkyqW
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Jazz House
+http://goo.gl/OxIqr6
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Jungle
+http://goo.gl/pCfHuS
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Latin House
+http://goo.gl/KyPgyu
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Liquid DnB
+http://goo.gl/jRo2SK
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Liquid Dubstep
+http://goo.gl/anLo9d
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Liquid Trap
+http://goo.gl/TJ8XGc
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Lounge
+http://goo.gl/4qBh16
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Mainstage
+http://goo.gl/OB3tA8
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Melodic Progressive
+http://goo.gl/LJkeIJ
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Minimal
+http://goo.gl/cE3bOu
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Nightcore
+http://goo.gl/scbPIu
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Nu Disco
+http://goo.gl/RBmvSw
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Oldschool Acid
+http://goo.gl/FHGBfH
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Oldschool House
+http://goo.gl/v8Nnss
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Oldschool Rave
+http://goo.gl/kIRcKG
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Oldschool Techno & Trance
+http://goo.gl/MWeysQ
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Progressive Psy
+http://goo.gl/Zabv14
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Progressive
+http://goo.gl/JpO8XX
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Psybient
+http://goo.gl/RKuUMG
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",PsyChill
+http://goo.gl/R9bhl3
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Russian Club Hits
+http://goo.gl/YvvXGc
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Soulful House
+http://goo.gl/kNnFCq
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Space Dreams
+http://goo.gl/AjnKj8
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Tech House
+http://goo.gl/2BkS6G
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Techno
+http://goo.gl/wfHVU7
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Trance
+http://goo.gl/YLTTGa
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Trap
+http://goo.gl/yvHGfr
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Tribal House
+http://goo.gl/bknInV
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",UMF Radio
+http://goo.gl/vGWUrW
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Underground Techno
+http://goo.gl/FpzkBK
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Vocal Chillout
+http://goo.gl/qLs0Oj
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Vocal Lounge
+http://goo.gl/Xsh9a1
+#EXTINF:0 tvg-logo="https://i.imgur.com/njthuLS.jpg" group-title="DIGITALLY IMPORTED RADIO",Vocal Trance
+http://goo.gl/nvbDmd
+
+#EXTINF:0 group-title="TV",NPO Live Uitzendingen
+https://smoote1h.omroep.nl/urishieldv2/l2fm141f19fa249c43ad005c4c40ea000000.2ddaa4815889b002fa2dc85d2e7148c7/live/nos/events/nos_event02/nos_event02.isml/nos_event02-audio_1=128000-video=1099968.m3u8
+#EXTINF:0 group-title="TV",NPO Nieuws
+https://smoote1a.omroep.nl/urishieldv2/l2fm20dea777111d8227005c4d9d7e000000.0f33e2702bbe63835fbde217f0028064/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+#EXTINF:0 group-title="TV",Music choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 group-title="TV",Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0 group-title="TV",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:0 group-title="TV",JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+
+#EXTINF:0 group-title="empty",
+#EXTINF:0 group-title="empty",
+#EXTINF:0 group-title="empty",
+#EXTINF:0 group-title="empty",
+
 
 
 
