@@ -20,7 +20,6 @@ icon="https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png"
 fanart="https://daanbanaan75.000webhostapp.com/xml-master/icons/fanart.jpg"
 description="Personal trainer"
 
-
 name="Hot Sport"
 section="https://dbcloud.000webhostapp.com/xml-master/menu/"
 search="false"
