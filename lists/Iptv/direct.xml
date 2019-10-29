@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= OCT-30-2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
 #EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/real-debrid-addon.png" group-title="Debrid",Anna.2019.2160p.UHD.BluRay.x265
 http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8
 #EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/real-debrid-addon.png" group-title="Debrid",It.Chapter.Two.2019.1080p.HC.HDRip.X264
