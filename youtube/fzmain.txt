@@ -6,7 +6,7 @@ playlistid="false"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png"
-fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_life-begins-at-the-end-of-your-comfort-zone.jpg
+fanart="http://quotivee.com/wp-content/uploads/2013/05/quotivee_1920x1200_0013_life-begins-at-the-end-of-your-comfort-zone.jpg"
 description="Pre-Workout items such as Stretching and so on"
 
 name="10 Best Mobility/Flexibility Drills (PRE-WORKOUT)"
