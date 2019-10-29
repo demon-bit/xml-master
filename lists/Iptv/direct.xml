@@ -15,7 +15,6 @@ http://icecast.omroep.nl/radio2-bb-mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8xVtn8.jpg" group-title="",100%NL
 http://stream.100p.nl/100pctnl.mp3	
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 10.29.2019",- Update: 10.25.2019 Direct streams free RealDebrid
 #EXTINF:1 group-title="Debrid",Anna.2019.2160p.UHD.BluRay.x265
 http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8
 #EXTINF:1 group-title="Debrid",It.Chapter.Two.2019.1080p.HC.HDRip.X264
