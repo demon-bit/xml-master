@@ -87,9 +87,9 @@ icon="https://www.starzel.de/blog/four-options-to-try-plone-5-2-on-python-3/@@im
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="python3"
 
-name="the best kodi addon oktober 2019"
+name="the best kodi addon November 2019"
 section="false"
-search="best kodi addon oktober 2019"
+search="best kodi addon November 2019"
 subid="false"
 playlistid="false"
 channelid="false"
