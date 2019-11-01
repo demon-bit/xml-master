@@ -1,24 +1,18 @@
-#EXTM3U
-#EXTINF:-0 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="- Update: 10.29.2019",- Update: 10.28.2019 Direct 4k 
-http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8
-
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv
-http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",It.Chapter.Two.2019.1080p.HC.HDRip.X264-EVO.mkv
-http://31.download.real-debrid.com/d/QM3YMZARQUTQE/It.Chapter.Two.2019.1080p.HC.HDRip.X264-EVO.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265
-http://34.download.real-debrid.com/d/A7B3BOIC5MAD4/El.Camino.A.Breaking.Bad.Movie.2019.2160p.HDR.WEBRip.Atmos.DDP5.1.x265-TrollUHD.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264
-http://31.download.real-debrid.com/d/K5XNTTXNEC7HW/47.Meters.Down.Uncaged.2019.1080p.HC.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",Rambo.Last.Blood.2019.1080p.HDTS.x264
-http://40.download.real-debrid.com/d/GKLMRB72UY44Y/Rambo.Last.Blood.2019.1080p.HDTS.x264.MKV.mkv
-#EXTINF:-1 tvg-logo="https://mediastax.files.wordpress.com/2018/03/real-debrid-icon.png" group-title="4k",The.Dark.Knight.2008.IMAX.BluRay.2160p.x265.HDR.DD.5.1
-http://36.download.real-debrid.com/d/UVK5GBZBV2YYK/The.Dark.Knight.2008.IMAX.BluRay.2160p.x265.HDR.DD.5.1%5BEn.Hi%5D-DTOne.mkv
-
-
-
-
-
-
+<item>
+<title>[COLOR gold]The Convent (2019)[/COLOR]</title>
+<link>
+<sublink>http://30.download.real-debrid.com/d/5LP3TBWIFNNGE/Anna.2019.2160p.UHD.BluRay.x265-AAAUHD.mkv-audio_1=128000-video=1099968.m3u8(Link 1=1080p-Bluray)</sublink>
+<sublink>https://uptobox.com/7qp4yuhukird(Link 2=1080p)</sublink>
+<sublink>https://youtu.be/LnCdTCr1FAI(Trailer)</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5em2vB8UOd6iimdSw3QwLF50Haz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vwLgh6VUMSDQdDfL4LIGA6Xd6si.jpg</fanart>
+        <meta>
+            <content>movie</content>
+            <imdb>tt3111516</imdb>	
+            <title>The Convent</title> 		
+            <year>2019</year>
+        </meta>
+</item>
 
 
