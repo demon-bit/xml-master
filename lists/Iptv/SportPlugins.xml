@@ -2,7 +2,7 @@
 
 <plugin>
     <title>Sport365</title>
-    <link>plugin://plugin.video.sport365.live</link>
+    <link>plugin://plugin.video.sport365.live/?ex_link&amp;foldername=Sport365%20LIVE&amp;mode=site</link>
     <thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
 </plugin>
     
