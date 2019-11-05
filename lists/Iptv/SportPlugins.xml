@@ -5,6 +5,13 @@
     <link>plugin://plugin.video.sport365.live</link>
     <thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
 </plugin>
+    
+<plugin>
+    <title>Sportowo</title>
+    <link>plugin.video.PLsportowo</link>
+    <thumbnail>https://kodi-addons.club/data/52/520665ef02031cc63a058d938ff6fc62.png</thumbnail>
+</plugin>
+    
 
 
 <plugin>
