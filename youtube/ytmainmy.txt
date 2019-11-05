@@ -87,6 +87,17 @@ icon="https://www.starzel.de/blog/four-options-to-try-plone-5-2-on-python-3/@@im
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="python3"
 
+name="You, GitHub, DigitalOcean, and SSH key pair"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="1bm8FTM12kw"
+icon="https://image.freepik.com/free-icon/github-logo-in-a-rounded-square_318-40761.jpg"
+fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
+description="ssh key pair"
+
 name="the best kodi addon November 2019"
 section="false"
 search="best kodi addon November 2019"
