@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="",1Twente
-http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" tvg-country="NL" tvg-url="" group-title="",AAVISIE
+https://b-hls-eu1.stripcdn.com/hls/18962530-720p/18962530-720p.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" tvg-country="NL" tvg-url="" group-title="",AAVISIE
 http://media.streamone.net/hlslive/account=nYRIFIaZSIY2/livestream=CZAJjY-KKkc2/events.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-country="BE" tvg-url="" group-title="Local",Antenne Centre
 http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
