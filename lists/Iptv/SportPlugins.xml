@@ -8,7 +8,7 @@
     
 <plugin>
     <title>Sportowo</title>
-    <link>plugin.video.PLsportowo</link>
+     <link>plugin://plugin.video.PLsportowo</link>
     <thumbnail>https://kodi-addons.club/data/52/520665ef02031cc63a058d938ff6fc62.png</thumbnail>
 </plugin>
     
