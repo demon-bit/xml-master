@@ -98,9 +98,9 @@ icon="https://image.freepik.com/free-icon/github-logo-in-a-rounded-square_318-40
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="ssh key pair"
 
-name="the best kodi addon November 2019"
+name="the best kodi addon December 2019"
 section="false"
-search="best kodi addon November 2019"
+search="the best kodi addon December 2019"
 subid="false"
 playlistid="false"
 channelid="false"
