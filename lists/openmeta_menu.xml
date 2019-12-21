@@ -4,7 +4,7 @@
 
 <plugin>
 <title>[B][COLOR blue]• [/COLOR][/B][COLOR ghostwhite]EIM Movies[/COLOR]</title>
-<link>plugin://script.extendedinfo&quot;,return</link>
+<link>plugin://script.extendedinfo</link>
 <thumbnail>special://home/addons/script.numbersbynumbers.artwork/resources/media/numbers/portal.png</thumbnail>
 <fanart>special://home/addons/script.numbersbynumbers.artwork/resources/media/numbers/fanart.jpg</fanart>
 </plugin>
