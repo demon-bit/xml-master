@@ -5,14 +5,14 @@
 <plugin>
 <title>Movies</title>
 <link>plugin://script.extendedinfo/?info=allmovies&quot;,return</link>
-<thumbnail>https://2.bp.blogspot.com/-TzV3KQfBNf4/WYMd7WRQgcI/AAAAAAAAC78/g9A4YWRZ5V8B7aWYMLJga1Gzgl-jlNR3ACLcBGAs/s1600/tmdb-logo.jpg</thumbnail>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/food-icons-3/512/popcorn-512.png</thumbnail>
 <fanart>special://home/addons/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>TVShow</title>
 <link>plugin://script.extendedinfo/?info=alltvshows&quot;,return</link>
-<thumbnail>https://2.bp.blogspot.com/-TzV3KQfBNf4/WYMd7WRQgcI/AAAAAAAAC78/g9A4YWRZ5V8B7aWYMLJga1Gzgl-jlNR3ACLcBGAs/s1600/tmdb-logo.jpg</thumbnail>
+<thumbnail>https://kodiupdate.com/wp-content/uploads/2017/02/What-is-kodi-Tv-show2-icon.png</thumbnail>
 <fanart>special://home/addons/fanart.jpg</fanart>
 </plugin>
 
