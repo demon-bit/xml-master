@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+
+<plugin>
+<title>[B][COLOR blue]• [/COLOR][/B][COLOR ghostwhite]EIM Movies[/COLOR]</title>
+<link>plugin://script.extendedinfo/?info=allmovies&quot;,return</link>
+<thumbnail>special://home/addons/script.numbersbynumbers.artwork/resources/media/numbers/portal.png</thumbnail>
+<fanart>special://home/addons/script.numbersbynumbers.artwork/resources/media/numbers/fanart.jpg</fanart>
+</plugin>
+
