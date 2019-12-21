@@ -3,7 +3,7 @@
 <layoutype>fuckOFF</layoutype>
 
 <plugin>
-<title>[COLOR Openmeta[/COLOR]</title>
+<title>Openmeta</title>
 <link>plugin://script.extendedinfo/?info&quot;,return</link>
 <thumbnail>https://raw.githubusercontent.com/a4k-openproject/plugin.video.openmeta/master/resources/icon.png</thumbnail>
 <fanart>special://home/addons/script.numbersbynumbers.artwork/resources/media/numbers/fanart.jpg</fanart>
