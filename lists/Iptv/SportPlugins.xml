@@ -2,7 +2,8 @@
      
 <plugin>
     <title>test</title>
-    <link>plugin://script.module.swiftstreamz</link>    <thumbnail></thumbnail>
+     <link>http://ignora.me</link> <thumbnail></thumbnail>
+     <jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>   
 </plugin>
    
     
