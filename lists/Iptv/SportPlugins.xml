@@ -1,6 +1,12 @@
 <xml>
    
 <plugin>
+    <title>test root</title>
+    <link>plugin://script.module.limitless-tvtap</link>
+    <thumbnail></thumbnail>
+</plugin>   
+
+<plugin>
     <title>test</title>
     <link>plugin://script.module.limitless-tvtap/list_channels/5</link>
     <thumbnail></thumbnail>
