@@ -26,8 +26,8 @@
 
 
 <plugin>
-    <title>TVTap Sport-Channels</title>
-      <link>plugin://script.module.tt/list_channels/5&quot;,return</link>
+    <title>TVTap Sport-test</title>
+      <link>plugin://script.module.tt</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
 
