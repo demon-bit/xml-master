@@ -30,13 +30,13 @@
     </plugin>
     
 <plugin>
-    <title>TVTap Sport-channel 1</title>
+    <title>TVTap Sport-channels</title>
       <link>plugin://script.module.tt/list_channels/5</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
     
 <plugin>
-    <title>TVTap Sport-channel 2</title>
+    <title>TVTap Channels</title>
       <link>plugin://script.module.tt/list_channels/6</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
