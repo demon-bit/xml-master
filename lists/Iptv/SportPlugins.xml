@@ -2,7 +2,7 @@
      
 <plugin>
     <title>test</title>
-    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=219</link>    <thumbnail></thumbnail>
+    <link>plugin://script.module.swiftstreamz</link>    <thumbnail></thumbnail>
 </plugin>
    
     
