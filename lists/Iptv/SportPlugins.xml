@@ -8,7 +8,7 @@
     
 <plugin>
     <title>test</title>
-    <link>plugin://script.module.limitless-swiftstreamz/mode=listTV&quot;,return</link>
+    <link>plugin://script.module.limitless-tvtap/list_channels/5</link>
     <thumbnail></thumbnail>
 </plugin>
     
