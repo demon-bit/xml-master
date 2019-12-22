@@ -8,7 +8,7 @@
     
 <plugin>
     <title>test</title>
-    <link>plugin://script.module.limitless-swiftstreamz/list_channels/8&quot;,return</link>
+    <link>plugin://script.module.limitless-swiftstreamz/list_channels/&quot;,return</link>
     <thumbnail></thumbnail>
 </plugin>
     
