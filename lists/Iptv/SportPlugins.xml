@@ -8,7 +8,7 @@
     
 <plugin>
     <title>test</title>
-    <link>plugin://script.module.limitless-tvtap/?info=list_channels/5&quot;,return</link>
+    <link>plugin://script.module.limitless-tvtap/</link>
     <thumbnail></thumbnail>
 </plugin>
     
