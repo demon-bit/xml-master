@@ -13,6 +13,11 @@
 </plugin>
     
 <plugin>
+    <title>test2</title>
+    <link>plugin://script.module.limitless-swiftstreamz/list_channels/7&quot;,return</link>    <thumbnail></thumbnail>
+</plugin>
+    
+<plugin>
     <title>Sportowo</title>
     <link>plugin://plugin.video.PLsportowo/?ex_link</link>
     <thumbnail>https://kodi-addons.club/data/52/520665ef02031cc63a058d938ff6fc62.png</thumbnail>
