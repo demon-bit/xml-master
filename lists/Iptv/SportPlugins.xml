@@ -7,8 +7,18 @@
     <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
    
 </plugin>
+     
+<plugin>
+    <title>[COLOR gold][B]**WORLD TV 1**[/B][/COLOR]</title>
+    <link>http://ignora.me</link>
+    <jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>
+    <thumbnail>http://steptoesplace.net/lot/LIVETV.png</thumbnail>
+    <fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
    
-    
+</plugin>
+     
+
 <plugin>
     <title>Sportowo</title>
     <link>plugin://plugin.video.PLsportowo/?ex_link</link>
