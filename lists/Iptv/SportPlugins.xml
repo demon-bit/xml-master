@@ -2,8 +2,7 @@
      
 <plugin>
     <title>test</title>
-     <link>http://ignora.me</link> <thumbnail></thumbnail>
-     <jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>   
+     <link>plugin://script.module.swiftstreamz/list_channels/8</link> 
 </plugin>
    
     
