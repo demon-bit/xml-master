@@ -8,7 +8,7 @@
     
 <plugin>
     <title>test</title>
-    <link>plugin://plugin.video.PLsportowo%2fresources%2ftvpsport.png&amp;mode=listTVP</link>
+    <link>plugin://plugin.video.PLsportowo/?ex_link&amp;mode=listTVP</link>
     <thumbnail></thumbnail>
 </plugin>
     
