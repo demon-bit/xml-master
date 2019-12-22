@@ -8,8 +8,8 @@
 </plugin>
      
 <plugin>
-    <title>test2</title>
-    <link>plugin://script.module.swiftstreamz</link> 
+    <title>Swiftstreamz-Sport Channels</title>
+    <link>plugin://script.module.swiftstreamz/list_channels/7</link> 
     <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
    
 </plugin>
