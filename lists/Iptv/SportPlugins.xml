@@ -37,7 +37,7 @@
     
 <plugin>
     <title>TVTap Sport-channel 2</title>
-      <link>plugin://script.module.tt/list_channels/8</link>
+      <link>plugin://script.module.tt/list_channels/6</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
 
