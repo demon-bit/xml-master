@@ -2,7 +2,10 @@
      
 <plugin>
     <title>test</title>
-     <link>plugin://script.module.swiftstreamz/list_channels/8</link> 
+    <link>plugin://script.module.swiftstreamz/list_channels/8</link> 
+    <link>plugin://plugin.video.PLsportowo/?ex_link</link>
+    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
+   
 </plugin>
    
     
