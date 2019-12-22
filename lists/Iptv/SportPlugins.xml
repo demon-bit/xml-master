@@ -1,11 +1,5 @@
 <xml>
-
-<plugin>
-    <title>Sport365</title>
-    <link>plugin://plugin.video.sport365.live/?ex_link</link>
-    <thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
-</plugin>
-    
+   
 <plugin>
     <title>test</title>
     <link>plugin://script.module.limitless-tvtap/list_channels/5</link>
@@ -23,11 +17,21 @@
     <thumbnail>https://kodi-addons.club/data/52/520665ef02031cc63a058d938ff6fc62.png</thumbnail>
 </plugin>
     
-
-
 <plugin>
-    <title>TVTap Sport-test</title>
+    <title>TVTap Sport-Menu</title>
+      <link>plugin://script.module.tt</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
+    
+<plugin>
+    <title>TVTap Sport-channel 1</title>
       <link>plugin://script.module.tt/list_channels/5</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
+    
+<plugin>
+    <title>TVTap Sport-channel 2</title>
+      <link>plugin://script.module.tt/list_channels/8</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
 
