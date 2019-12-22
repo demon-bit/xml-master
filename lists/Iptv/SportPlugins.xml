@@ -16,6 +16,15 @@
     <title>test2</title>
     <link>plugin://script.module.limitless-swiftstreamz/list_channels/8&quot;,return</link>    <thumbnail></thumbnail>
 </plugin>
+   
+<plugin>
+  <title>Fight Network Live</title>
+  <link>
+  <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=219</sublink>
+  </link>
+  <thumbnail>http://luxurywizard.space/xmls/icons2/sports.jpg</thumbnail>
+  <fanart></fanart>
+</plugin>
     
 <plugin>
     <title>Sportowo</title>
