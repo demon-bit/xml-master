@@ -1,22 +1,19 @@
 <xml>
      
 <plugin>
-    <title>test</title>
-    <link>plugin://script.module.swiftstreamz/list_channels/8</link> 
-    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
-   
-</plugin>
-     
-<plugin>
     <title>Swiftstreamz-Sport Channels</title>
     <link>plugin://script.module.swiftstreamz/list_channels/7</link> 
     <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
    
 </plugin>
      
-
-     
-
+<plugin>
+    <title>Swiftstreamz-test</title>
+    <link>plugin://script.module.swiftstreamz</link> 
+    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
+   
+</plugin>
+       
 <plugin>
     <title>Sportowo</title>
     <link>plugin://plugin.video.PLsportowo/?ex_link</link>
