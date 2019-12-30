@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
+
 <item>
-    <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] </title>
+    <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]COUNTRIES[/COLOR][/B] </title>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </item>
+
 <dir>
     <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BY CATEGORIES[/COLOR][/B] </title>
     <link>https://bitbucket.org/team-crew/xmls/raw/master/iptv/category.xml</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </dir>
-<item>
-    <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]COUNTRIES[/COLOR][/B] </title>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</item>
-<plugin>
-    <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]UNITED STATES[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/us.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</plugin>
+
 <plugin>
     <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]AFGANISTAN[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/af.m3u</link>
@@ -923,6 +915,14 @@
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </plugin>
+
+<plugin>
+    <title> [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]UNITED STATES[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/us.m3u</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</plugin>
+
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]URUGUAY[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/uy.m3u</link>
