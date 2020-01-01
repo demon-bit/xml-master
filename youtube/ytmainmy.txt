@@ -27,7 +27,7 @@ subid="mainwoman"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/youtube.png"
+icon="https://static.vecteezy.com/system/resources/previews/000/107/518/non_2x/free-women-stuff-vector.jpg"
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="Woman Stuff"
 
