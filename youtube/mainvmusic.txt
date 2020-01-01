@@ -7,7 +7,7 @@ channelid="false"
 videoid="false"
 icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
-description="Marloes"
+description=""
 
 name="Best of The 80s Songs"
 section="false"
