@@ -60,7 +60,7 @@ subid="false"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://cdnb1.fastestvpn.com/wp-content/uploads/2019/03/imgpsh_fullsize_anim.png"
+icon="https://koditips.com/wp-content/uploads/best-kodi-addons.png"
 fanart="http://daanbanaan75.000webhostapp.com/xml-master/icons/mirrorfanar.png"
 description="addons"
 
