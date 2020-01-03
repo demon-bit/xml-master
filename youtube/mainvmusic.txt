@@ -176,7 +176,7 @@ icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="trance"
 
-name="[COLOR limegreen]***Some songs***[/COLOR]"
+name="[COLOR purple]***Some songs***[/COLOR]"
 section="true"
 search="false"
 subid="false"
@@ -186,6 +186,17 @@ videoid="false"
 icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="Root"
+
+name="Cherry Moon trax 1 : The house of house"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="hZMf716hCZw"
+icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
+fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
+description="Cherry Moon trax 1 : The house of house"
 
 
 
