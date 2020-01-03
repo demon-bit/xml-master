@@ -32,6 +32,18 @@ icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="Blues"
 
+name="bonzai  records"
+section="false"
+search="bonzai  records"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
+fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
+description="Blues"
+
+
 name="Country"
 section="false"
 search="the best of country"
@@ -163,6 +175,17 @@ videoid="false"
 icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="trance"
+
+name="[COLOR limegreen]***Some songs***[/COLOR]"
+section="true"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
+fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
+description="Root"
 
 
 
