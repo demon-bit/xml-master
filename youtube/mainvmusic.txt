@@ -198,6 +198,17 @@ icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="Cherry Moon trax 1 : The house of house"
 
+name="Cherrymoon Trax II - Let There Be House"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="hLA6QtyzOME"
+icon="https://i.ytimg.com/vi/E4CG3cteBME/hqdefault.jpg"
+fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
+description="Cherrymoon Trax II - Let There Be House"
+
 
 
 
