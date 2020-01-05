@@ -98,4 +98,8 @@ icon="https://yt3.ggpht.com/a-/AAuE7mBBiiJXka1ZvzHPESBoBBX0OrHT5_X13of3hhrQ=s288
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="channel"
 
-
+<plugin>
+<title>[COLOR turquoise]• [/COLOR][COLORcrimson]Search[/COLOR] [COLORlightgrey]You[/COLOR][COLORlightgrey]Tube[/COLOR][COLORmediumturquoise] › [/COLOR]</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
+</plugin>
