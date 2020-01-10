@@ -76,13 +76,13 @@ fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listeni
 description="addons"
 
 name="The Best Games"
-section="maingames"
+section="false"
 search="false"
-subid="false"
+subid="maingames"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fdownload_446191.png&f=1&nofb=1"
+icon="https://opengameart.org/sites/default/files/controllerCover.png"
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="addons"
 
