@@ -9,6 +9,17 @@ icon="https://kodi.tv/sites/default/files/addon_assets/plugin.video.fitnessblend
 fanart="http://pluspng.com/img-png/work-out-png-hd-10-minute-inner-thigh-workout-fitness-blender-inner-thigh-exercises-to-tone-youtube-1920.jpg"
 description="Fitnessblender"
 
+name="5 Exercises That Will Transform Your Body In Just 4 Weeks"
+section="true"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="aea-S3CtzIk"
+icon="https://png.pngtree.com/element_origin_min_pic/16/06/23/11576b5a0c25c71.jpg"
+fanart="http://pluspng.com/img-png/work-out-png-hd-10-minute-inner-thigh-workout-fitness-blender-inner-thigh-exercises-to-tone-youtube-1920.jpg"
+description="5 Exercises That Will Transform Your Body In Just 4 Weeks"
+
 name="PTV SPORTS"
 section="true"
 search="ptp sports"
