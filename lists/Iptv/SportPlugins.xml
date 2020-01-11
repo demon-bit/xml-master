@@ -21,7 +21,7 @@
        
 <plugin>
     <title>Sportoka</title>
-    <link>plugin.video.sportoka/?ex_link</link>
+     <link>plugin://video.sportoka/?ex_link</link>
     <thumbnail>https://www.minnetonkaschools.org/uploaded/photos/07/15-16/MHS/Athletics/Basketball/FallSportsIcon.png</thumbnail>
 </plugin>
      
