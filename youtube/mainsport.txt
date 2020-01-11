@@ -20,6 +20,17 @@ icon="http://icons.iconarchive.com/icons/martz90/circle-addon1/512/ct-sport-icon
 fanart="https://www.greenbiz.com/sites/default/files/styles/panopoly_image_full/public/images/articles/featured/sports-duda-sstock.jpg?itok=14b0zmNw"
 description="Sport"
 
+name="red bull sports extreme "
+section="true"
+search="red bull sports extreme "
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="http://7desktopthemes.com/images/red-bull-logo-transparent-background-wallpaper-4.jpg"
+fanart="http://a.fssta.com/content/dam/fsdigital/fscom/RedBull/Primary_Image_RedBullSports_1600x900.vresize.1200.675.high.67.jpg"
+description="red bull sports extreme "
+
 name="Fitnessblender"
 section="true"
 search="Fitnessblender"
