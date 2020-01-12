@@ -1,0 +1,121 @@
+#EXTM3U
+<layouttype>-=DONT STEAL MY FUCKIN LINKS=-</layouttype>
+
+#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/the-club-penguin-picture/images/6/64/Canada_Flag_Icon.png/revision/latest?cb=20130305032117" group-title="Canada",[COLOR royalblue]---- Playlist ----[/COLOR][COLORgreen]OnLine[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PwiQvkxz2FrVvHvO_Cq90yy4_P2KZw_K9ohvJnLZ8TGBGIT3" ,[COLOR gold]ICI RDI[/COLOR]
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Ottawa[/COLOR]
+http://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Saint Johns[/COLOR]
+http://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Toronto[/COLOR]
+http://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Vancouver[/COLOR]
+http://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Edmonton[/COLOR]
+http://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Calgary[/COLOR]
+http://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Regina[/COLOR]
+http://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Winnipeg[/COLOR]
+http://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI goldknife[/COLOR]
+http://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Windsor[/COLOR]
+http://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Halifax[/COLOR]
+http://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Fredericton[/COLOR]
+http://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Charlottetown[/COLOR]
+http://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]ICI RDI Montreal[/COLOR]
+http://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+
+===================================================================================================================================================
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png",TVA
+https://assimilator.be/allfrtvstrm/tkn/ca/tvaeco/ZGH2AmxkAQD1ZF0kAGL3BGH3ZwHkYGZ1ATIuLwWwZwHjA2Z3BGZ5AQN3LmV4LwH2BJZ1ZGIuYJAwMQWvBGH5BQMwMGuxZGAvATMvAGZjZTRmAJD0ZGOv/chunklist.m3u8?wowzasessionid=1038971912
+#EXTINF:0 tvg-id="TVAGAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA3" group-title="Canada",TVA Nouvelles Gatineau en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/chot.tva
+#EXTINF:0 tvg-id="TVAABI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA4" group-title="Canada",TVA Nouvelles Abitibi-Témiscamingue en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/cfem.tva
+EXTINF:0 tvg-id="RDI1" tvg-logo="rdi.png"  tvg-name="RDI" group-title="Canada",ICI RDI - [COLOR yellow]À partir de 20h les soirs de semaine[/COLOR]
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="RDI2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI2" group-title="Canada",ICI RDI 400 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_400_av-p.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="RDI3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI3" group-title="Canada",ICI RDI 800 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_800_av-p.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="RDI4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI4" group-title="Canada",ICI RDI 1200 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="RDI5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI5" group-title="Canada",ICI RDI HD
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="SRC1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC2" group-title="Canada",ICI Radio-Canada - Québec - CBVT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="SRC2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC2" group-title="Canada",ICI Radio-Canada - Ottawa-Gatineau - CBOFT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="SRC3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC3" group-title="Canada",ICI Radio-Canada - Trois-Rivières - CKTM-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+EXTINF:0  tvg-id="SRC4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC4" group-title="Canada",ICI Radio-Canada - Rimouski - CJBR-DT
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="SRC5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC5" group-title="Canada",ICI Radio-Canada - Saguenay - CKTV-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="SRC6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC6" group-title="Canada",ICI Radio-Canada - Sherbrooke - CKSH-DT
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+EXTINF:0 tvg-id="SRC7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC7" group-title="Canada",ICI Radio-Canada - Montréal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="Canada",CBC (FRE)(CAN)
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-p.m3u8
+
+=============================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]Amazing Discoveries TV[/COLOR]
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w1085779527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]Canada One[/COLOR]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]Canal 9[/COLOR]
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CBC News[/COLOR]
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CBC Vancouver HD[/COLOR]
+https://cbclivedai2-i.akamaihd.net/hls/live/566968-b/event2/CBUT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CBC Vancouver SD[/COLOR]
+https://cbclivedai2-i.akamaihd.net/hls/live/566968-b/event2/CBUT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CBC Yellowknife HD[/COLOR]
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CBC Yellowknife SD[/COLOR]
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master1.m3u8
+
+=================================================================== CTV ===============================================================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CTV News Live 1[/COLOR]
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CTV News Live 2[/COLOR]
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CTV News Live 3[/COLOR]
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]CTV News Live 4[/COLOR]
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+======================================================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1018100603/canada-flag-hockey-stick.png" group-title="canada",[COLOR gold]Space[/COLOR]
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/12/e8/92/12e8920c-cc56-e481-2092-d940ffa47353/source/512x512bb.jpg",[COLOR gold]TORONTO 360 TV[/COLOR]
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="",[COLOR orange][B]Test[/B][/COLOR]
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+===========================================================================================================================================================
