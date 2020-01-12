@@ -1,343 +1,183 @@
-name="4K misc"
-section="false"
-search="false"
-subid="4k"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/4k.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube 4k videos"
+<item>
+<title>[COLORwhite]Biography Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCBLlrBlEN1skMs2pGboan7_lfio_s8Z-/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
 
-name="Aliens"
-section="false"
-search="false"
-subid="aliens"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/alien.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Alien videos"
+<item>
+<title>[COLORwhite]British Serial Killer Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLf9O6B-f_J_RZKm3Xqy4lqppEZ3j-peXd/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
 
-name="Boating"
-section="false"
-search="false"
-subid="boats"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/boats.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Boating videos"
+<item>
+<title>[COLORwhite]BBC Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLDVZNJR18KqBfusnr5G4D6Ft6ge-lJhWK/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
 
-name="Comedy"
-section="false"
-search="false"
-subid="comedy"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/comedy.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Comedy videos"
-
-name="Conspiracy"
-section="false"
-search="false"
-subid="conspiracy"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/conspiracy.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Conspiracy ideos"
-
-name="Culinary"
-section="false"
-search="false"
-subid="food"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/culinary.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Culinary videos"
-
-name="Deep Sea"
-section="false"
-search="false"
-subid="deepsea"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/deepsea.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Deep Sea videos"
-
-name="Discovery Channel"
-section="true"
-search="false"
-subid="false"
-playlistid="false"
-channelid="UCqOoboPm3uhY_YXhvhmL-WA"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/discovery.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="Discovery Channel"
-
-name="Do-It-Yourself"
-section="false"
-search="false"
-subid="diy"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/diy.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Do-It-Yourself videos"
-
-name="Fails"
-section="false"
-search="false"
-subid="fails"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fails.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Fails videos"
-
-name="Fishing"
-section="false"
-search="false"
-subid="fishing"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fishing.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Fishing videos"
-
-name="Fitness Zone"
-section="false"
-search="false"
-subid="fzmain"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/fitness.png"
-fanart="https://"
-description="YouTube Fishing videos"
-
-name="Hunting"
-section="false"
-search="false"
-subid="hunting"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/hunting.png"
-fanart="https://"
-description="YouTube Hunting videos"
-
-name="All Indy Car"
-section="true"
-search="false"
-subid="false"
-playlistid="false"
-channelid="UCy1F61QvUUQXAXi2Voa_fUw"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/medieval.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="The Verizon IndyCar Series is the fastest and closest form of motorsports in the world.  Drivers pilot single-seat, open-cockpit cars that feature a 2.2-liter, twin turbocharged, direct-injected V-6 engine capable of speeds over 230 mph.  Featuring racing at a combination of superspeedways, short ovals, road courses and temporary street circuits, the IndyCar Series offers its international lineup of drivers the most diverse challenges in motorsports. "
-
-name="Kids Corner"
-section="false"
-search="false"
-subid="knmain"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/kidshut.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="Kids Videos"
-
-name="Kodi Tutorials"
-section="false"
-search="false"
-subid="kodi"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/kodi.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Kodi Tutorial videos"
+<item>
+<title>[COLORwhite]Boxing Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLJhruL0cOrLUvWf4iIJ-nlYZRr0As-Wu6/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
 
 
-name="Medieval Times"
-section="false"
-search="false"
-subid="medieval"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/medieval.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Medieval videos"
+<item>
+<title>[COLORwhite]British History Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqNTJTYxk5doK8esoWXSOFTEZvzpimLKZ/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
 
-name="Military"
-section="false"
-search="false"
-subid="military"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/military.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Military videos"
-
-name="Motocross"
-section="false"
-search="false"
-subid="motocross"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/motocross.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Motocross videos"
-
-name="Muziek video's"
-section="false"
-search="false"
-subid="mainvmusic"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/icon.png"
-fanart="https://"
-description="YouTube muziek videos"
-
-name="National Geographic"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="UCpVm7bg6pXKo1Pr6k5kxG9A"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/natgeo.png"
-fanart="https://dbcloud.000webhostapp.com/xml-master/youtube/icons/ytfanart.jpg"
-description="Inspiring people to care about the planet! National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible."
-
-name="NASCAR"
-section="false"
-search="false"
-subid="nascar"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/nascar.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube NASCAR videos"
-
-name="People Getting Roasted"
-section="false"
-search="false"
-subid="roasting"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/roasting.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Videos of People getting Roasted"
-
-name="Side by Sides"
-section="false"
-search="false"
-subid="sidebyside"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sidebyside.jpg"
-fanart="https://dbcloud.000webhostapp.com/xml-master/youtube/icons/ytfanart.jpg"
-description="YouTube Side by Sides videos"
-
-name="Skateboarding"
-section="false"
-search="false"
-subid="skateboarding"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/skateboarding.png"
-fanart="https://dbcloud.000webhostapp.com/xml-master/youtube/icons/ytfanart.jpg"
-description="YouTube Skateboarding videos"
-
-name="Snowboarding"
-section="false"
-search="false"
-subid="snowboarding"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/snowboarding.jpg"
-fanart="https://dbcloud.000webhostapp.com/xml-master/youtube/icons/ytfanart.jpg"
-description="YouTube Snowboaring videos"
-
-name="Sports Fails"
-section="false"
-search="false"
-subid="sportsfail"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportsfails.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Sports Fails videos"
-
-name="Sprint Car"
-section="false"
-search="false"
-subid="sprintcar"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sprintcar.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Sprint Car videos"
-
-name="Streetracing"
-section="false"
-search="false"
-subid="streetracing"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/streetracing.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Streetracing videos"
-
-name="Surfing"
-section="false"
-search="false"
-subid="surfing"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/surfing.jpg"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Surfing videos"
-
-name="Wakeboarding"
-section="false"
-search="false"
-subid="wakeboarding"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/wakeboarding.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Wakeboarding videos"
+<item>
+<title>[COLORwhite]Children Who Kill Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLfFy9AUfRGZ32aQ3oNHyc09122ja7OSUl/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
 
 
+
+<item>
+<title>[COLORwhite]FBI Files Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL5q8VRGX_yLL_CruUIU-ZE3d0L7JJH-ee/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gangsters America's Most Evil Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLGQlciwXZwLkxJbZ-s78XOA3u4I8ZA5wK/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]Gangland Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLaX6Zf0s0csiwcXsi4NYCF2bA1G2vIlUc/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghostly Encounters Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLecdSLVzv2CpHAflMWL7MrAWgEfWugLBJ/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Horror Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLbGl458JxxbhQwI0dat6EpycborhT2CuG/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]ITV Real Crime Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzVTO1PqBUxIrSzIy8yEgJ37jMeDA6-DS/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Military & War Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLEE2489E06F15D873/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mobsters, Biography Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqduaEP5i4pcH1S33OVxp0aBu4Wofd5GH/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Nature Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL5o3ll3G4acxgDMSO7JXvDsosQ-UDPL6n/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Serial Killer & Murder Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLEfZSmhbsA4NyEon3gwXu41PZGqa553J2/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Soccer Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLz3eRlovaeccEsjBUoroEso8-_NRJsJkX/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spy Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLKh8r07IjZ4riZvDv0m_DfDKeeu5EuRfE/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sports Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLES1-z8dEMzVqLUHMOEkFAtxIaXbpp46M/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Travel Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLchsaDnHCVnvOOakmuD0sl2lFDilWaHQt/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]True Crime Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLjYTdfYGUqXWJtE8YLBYaEeyTB_aze-ZN/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ufo Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCkYb3ptiRK2wDE8UimYIafQ/?page=0</jsonrpc>
+<thumbnail>https://images.unsplash.com/photo-1541918602878-4e1ebfc7b739?ixlib=rb-1.2.1&auto</thumbnail>
+<fanart></fanart>
+</item>
