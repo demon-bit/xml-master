@@ -1,565 +1,2081 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="600" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
- 
-#EXTINF:-1 tvg-id="601" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="602.2" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News
-http://92.43.140.249/s24/04.m3u8
- 
-#EXTINF:-1 tvg-id="603" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg Asia
-http://45.126.83.51/uq2663/h/h03/index.m3u8
- 
-#EXTINF:-1 tvg-id="604" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN
-http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
- 
-#EXTINF:-1 tvg-id="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA
-http://210.210.155.35/uq2663/h/h29/01.m3u8
- 
-#EXTINF:-1 tvg-id="607" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN
-http://ott-cdn.ucom.am/s27/index.m3u8
- 
-#EXTINF:-1 tvg-id="608" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW
-http://43.224.120.99:8080/dwenglish.m3u8
- 
-#EXTINF:-1 tvg-id="609" tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews
-http://45.126.83.51/qwr9ew/s/s15/index.m3u8
- 
-#EXTINF:-1 tvg-id="610" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
- 
-#EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS",i24 News
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
- 
-#EXTINF:-1 tvg-id="612" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
- 
-#EXTINF:-1 tvg-id="614" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America
-https://rt-usa.secure.footprint.net/1105.m3u8
- 
-#EXTINF:-1 tvg-id="615" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
- 
-#EXTINF:-1 tvg-id="616" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
- 
-#EXTINF:-1 tvg-id="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-id="620" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="USA",Bloomberg Television
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
- 
-#EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="USA",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-
-EXTINF:-1 tvg-id="625" tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="USA",Cheddar News
-https://live.chdrstatic.com/cbn/primary/1.m3u8
-
-#EXTINF:-1 tvg-id="626" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="USA",CNN
-http://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
-
-#EXTINF:-1 tvg-id="628" tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="USA",Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-
-#EXTINF:-1 tvg-id="629" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-
-#EXTINF:-1 tvg-id="630" tvg-logo="http://golikemariana.com/wp-content/uploads/2017/08/msnbc-blanco-1.png" group-title="USA",MSNBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="631" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="USA",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
- 
-#EXTINF:-1 tvg-id="632" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png" group-title="USA",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="633" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="USA",Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-
-#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="USA",UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
-#EXTINF:-1 tvg-id="635" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png" group-title="USA",Voice of America (PST)
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
- 
-#EXTINF:-1 tvg-id="636" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png" group-title="USA",Voice of America (EST)
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1 tvg-id="637" tvg-logo="https://i.imgur.com/uckThBl.png" group-title="USA",WSJ Live
-http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
-
-#EXTINF:-1 tvg-id="640" tvg-logo="https://i.imgur.com/Zg4xLEn.png" group-title="USA",Biz TV
-https://thegateway.online/BizAndYou/Roku/playlist.m3u8
-
-#EXTINF:-1 tvg-id="641" tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business
-https://live.chdrstatic.com/cheddar/primary/1.m3u8
-
-#EXTINF:-1 tvg-id="642" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
-
-#EXTINF:-1 tvg-id="643" tvg-logo="https://i.imgur.com/mfgSRzB.png" group-title="USA",Fox Business
-https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
-
-#EXTINF:-1 tvg-id="644" tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade
-https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
-
-#EXTINF:-1 tvg-id="645" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="UK",CNBC Europe
-http://ott-cdn.ucom.am/s65/index.m3u8
-
-#EXTINF:-1 tvg-id="646" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1 tvg-id="647" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="USA",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1 tvg-id="650" tvg-logo="https://i.imgur.com/dIOSEtQ.png" group-title="USA",A&E
-http://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
-
-#EXTINF:-1 tvg-id="651" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (PST)
-http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
- 
-#EXTINF:-1 tvg-id="652" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (EST)
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="654" tvg-logo="https://i.imgur.com/1E41Fs3.png" group-title="USA",Antenna TV
-http://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
-
-#EXTINF:-1 tvg-id="655" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-
-#EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/JS08AAb.png" group-title="USA",Bounce TV
-http://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-
-#EXTINF:-1 tvg-id="657" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
-
-#EXTINF:-1 tvg-id="658" tvg-logo="https://i.imgur.com/PbpvywI.png" group-title="USA",BYUtv
-http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="659" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (EST)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1 tvg-id="660" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1 tvg-id="661" tvg-logo="https://i.imgur.com/gzq7god.png" group-title="USA",Comet (KCTV)
-http://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8
- 
-#EXTINF:-1 tvg-id="662" tvg-logo="https://i.imgur.com/gzq7god.png" group-title="USA",Comet (KRCG)
-http://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
- 
-#EXTINF:-1 tvg-id="663" tvg-logo="https://i.imgur.com/gzq7god.png" group-title="USA",Comet (KTVO)
-http://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-
-#EXTINF:-1 tvg-id="664" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA",CONtv
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
- 
-#EXTINF:-1 tvg-id="666" tvg-logo="https://i.imgur.com/IcAM9uw.png" group-title="USA",Cozi TV
-http://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
-
-#EXTINF:-1 tvg-id="667" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="USA",CW (CST)
-http://cvtv.cvalley.net/hls/WGEMCW/WGEMCW.m3u8
- 
-#EXTINF:-1 tvg-id="668" tvg-logo="https://i.imgur.com/UbJ32O4.png"" group-title="USA",CW (EST)
-http://190.80.3.28/CW/CW.isml/index.m3u8
- 
-#EXTINF:-1 tvg-id="669" tvg-logo="https://i.imgur.com/4rUusB8.png" group-title="USA",DABL
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
-
-#EXTINF:-1 tvg-id="670" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-
-#EXTINF:-1 tvg-id="671" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="USA",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-
-#EXTINF:-1 tvg-id="672" tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-
-#EXTINF:-1 tvg-id="673" tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-id="674" tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
- 
-#EXTINF:-1 tvg-id="675" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
- 
-#EXTINF:-1 tvg-id="676" tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
- 
-#EXTINF:-1 tvg-id="677" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
- 
-#EXTINF:-1 tvg-id="678" tvg-logo="https://i.imgur.com/UueddD1.png" group-title="USA",Grit
-http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
- 
-#EXTINF:-1 tvg-id="679" tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="USA",H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
- 
-#EXTINF:-1 tvg-id="681" tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="USA",HGTV
-http://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
- 
-#EXTINF:-1 tvg-id="682" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="USA",History
-http://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
-
-#EXTINF:-1 tvg-id="683" tvg-logo="https://i.imgur.com/Zy8rt5g.png" group-title="USA",ION TV
-http://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-
-#EXTINF:-1 tvg-id="684" tvg-logo="https://i.imgur.com/lpyhmpO.png" group-title="USA",KMIZ ABC 17
-http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
- 
-#EXTINF:-1 tvg-id="685" tvg-logo="https://i.imgur.com/Fkc7MuP.png" group-title="USA",Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="686" tvg-logo="https://i.imgur.com/aZfaaUv.png" group-title="USA",KSMO-TV
-http://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
- 
-#EXTINF:-1 tvg-id="687" tvg-logo="https://i.imgur.com/KgqpY7U.png" group-title="USA",KYOU-TV
-http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
- 
-#EXTINF:-1 tvg-id="688" tvg-logo="https://i.imgur.com/cq2T7Bf.png" group-title="USA",Laff
-http://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
- 
-#EXTINF:-1 tvg-id="689" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="USA",Law & Crime Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
- 
-#EXTINF:-1 tvg-id="690" tvg-logo="https://i.imgur.com/o0Xm6Ca.png" group-title="USA",Lifetime
-http://cvtv.cvalley.net/hls/LifetimeHD/LifetimeHD.m3u8
-
-#EXTINF:-1 tvg-id="691" tvg-logo="https://i.imgur.com/r0UjyRH.png" group-title="USA",MeTV (KMIZ)
-http://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
- 
-#EXTINF:-1 tvg-id="692" tvg-logo="https://i.imgur.com/r0UjyRH.png" group-title="USA",MeTV (KMBC)
-http://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-
-#EXTINF:-1 tvg-id="694" tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
- 
-#EXTINF:-1 tvg-id="695" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
- 
-#EXTINF:-1 tvg-id="696" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
- 
-#EXTINF:-1 tvg-id="697" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (CST)
-http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
- 
-#EXTINF:-1 tvg-id="698" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
- 
-#EXTINF:-1 tvg-id="699" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (CST)
-http://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
- 
-#EXTINF:-1 tvg-id="700" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (EST)
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="702" tvg-logo="https://i.imgur.com/e7EDq02.png" group-title="USA",Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
-
-#EXTINF:-1 tvg-id="703" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="USA",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
- 
-#EXTINF:-1 tvg-id="704" tvg-logo="https://i.imgur.com/X53CnlC.png" group-title="USA",TBS
-http://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8
-
-#EXTINF:-1 tvg-id="705" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="USA",The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-
-#EXTINF:-1 tvg-id="706" tvg-logo="https://i.imgur.com/BvRObyp.png" group-title="USA",The Works
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
- 
-#EXTINF:-1 tvg-id="707" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
- 
-#EXTINF:-1 tvg-id="708" tvg-logo="https://i.imgur.com/5UYWQwQ.png" group-title="USA",TNT
-http://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8
-
-#EXTINF:-1 tvg-id="709" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="USA",USA Network
-http://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
-
-#EXTINF:-1 tvg-id="710" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA",VH1
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
- 
-#EXTINF:-1 tvg-id="711" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USA",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
- 
-#EXTINF:-1 tvg-id="715" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="CANADA",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-
-#EXTINF:-1 tvg-id="717" tvg-logo="https://i.imgur.com/C3LheXq.png" group-title="CANADA",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-
-#EXTINF:-1 tvg-id="720" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="721" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
- 
-#EXTINF:-1 tvg-id="722" tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA",American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="723" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="724" tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="USA",Apple Sauce Network
-https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="725" vg-logo="https://i.imgur.com/RgYEjYE.png" group-title="USA",Blush TV
-https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="726" tvg-logo="https://i.imgur.com/AOj9cgU.png" group-title="USA",Brut
-http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
-
-#EXTINF:-1 tvg-id="727" tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
-
-#EXTINF:-1 tvg-id="728" tvg-logo="https://i.imgur.com/Qq70J9t.png" group-title="USA",Classic TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="729" tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="USA",Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
-
-#EXTINF:-1 tvg-id="730" tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="USA",Dream TV
-https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="731" tvg-logo="https://i.imgur.com/9IlPgqf.png" group-title="USA",EZWay Network
-https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="732" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA",Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="733" tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-id="734" tvg-logo="https://i.imgur.com/FwXJj0L.png" group-title="USA",Honor TV
-https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
- 
-#EXTINF:-1 tvg-id="735" tvg-logo="https://i.imgur.com/Gh4kB7x.png" group-title="USA",Horrified TV
-https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8
-
-#EXTINF:-1 tvg-id="737" tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="USA",It's At The Movies
-https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-
-#EXTINF:-1 tvg-id="738" tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="739" tvg-logo="https://i.imgur.com/4otJeRo.png" group-title="USA",Kathryn Raaker's World
-https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8
-
-#EXTINF:-1 tvg-id="741" tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV
-https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="742" tvg-logo="https://i.imgur.com/S6Hcqoy.png" group-title="USA",Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="743" tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="744" tvg-logo="https://i.imgur.com/RZKS8XS.png" group-title="USA",My Life TV
-https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="745" tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA",NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
- 
-#EXTINF:-1 tvg-id="748" tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV
-https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="750" tvg-logo="https://i.imgur.com/zZRKYMd.png" group-title="USA",Regalia TV
-https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8
-
-#EXTINF:-1 tvg-id="751" tvg-logo="https://i.imgur.com/y9JXK2I.png" group-title="USA",Right Now TV
-https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="752" tvg-logo="https://i.imgur.com/3o9cG76.png" group-title="USA",Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="753" tvg-logo="https://i.imgur.com/sDGZCpL.png" group-title="USA",SafeTV4U2
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="754" tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
-https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="755" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
- 
-#EXTINF:-1 tvg-id="756" tvg-logo="https://i.imgur.com/ZNw2dfV.png" group-title="USA",She TV
-https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8
-
-#EXTINF:-1 tvg-id="759" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="USA",Spydar TV
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="759.2" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="USA",Spydar TV
-https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
-
-#EXTINF:-1 tvg-id="760" tvg-logo="https://i.imgur.com/nCB6LNt.png" group-title="USA",The Film Detective
-https://distro.akamaized.net/indexfd_1280x720.m3u8
- 
-#EXTINF:-1 tvg-id="761" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
- 
-#EXTINF:-1 tvg-id="762" tvg-logo="https://i.imgur.com/DPls9e7.png" group-title="USA",The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
- 
-#EXTINF:-1 tvg-id="763" tvg-logo="https://i.imgur.com/uIZpZky.png" group-title="USA",The Titanic Channel
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-
-#EXTINF:-1 tvg-id="764" tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="USA",Westerns 4U
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-
-#EXTINF:-1 tvg-id="766" tvg-logo="https://i.imgur.com/8JAnpoj.png" group-title="USA",Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
- 
-#EXTINF:-1 tvg-id="767" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="USA",Youtoo America
-https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/playlist.m3u8
-
-#EXTINF:-1 tvg-id="768" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USA",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
- 
-#EXTINF:-1 tvg-id="768.2" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USA",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
- 
-#EXTINF:-1 tvg-id="770" tvg-logo="https://i.imgur.com/QtAXTGj.png" group-title="USA",DocuBox
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-
-#EXTINF:-1 tvg-id="771" tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="USA",Documentaries 4U
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="772" tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="USA",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="773" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="USA",RT Documentary
-http://ott-cdn.ucom.am/s93/index.m3u8
- 
-#EXTINF:-1 tvg-id="774" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary
-http://livefr.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="775" tvg-logo="https://www.mobcrush.com/mobkit-page/assets/img/mc-logo-pineapple-yellow.png" group-title="USA",Mobcrush
-https://ott.mobcrush.com/hls/0/ott.m3u8
-
-#EXTINF:-1 tvg-id="776" tvg-logo="https://i.imgur.com/qg0QrUp.png" group-title="USA",TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="777" tvg-logo="https://i.imgur.com/AHmnFAw.png" group-title="USA",Fashion Channel
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="781" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
- 
-#EXTINF:-1 tvg-id="782" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="784" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" group-title="USA",Dancestar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-id="785" tvg-logo="https://i.imgur.com/07rLRZ9.png" group-title="USA",IndieWave
-https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
-
-#EXTINF:-1 tvg-id="786" tvg-logo="https://i.imgur.com/Tf0tlDV.png" group-title="USA",Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="790" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="USA",Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="791" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="USA",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
- 
-#EXTINF:-1 tvg-id="794" tvg-logo="https://i.imgur.com/Ib6qgru.png" group-title="USA",ESPN
-http://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
- 
-#EXTINF:-1 tvg-id="795" tvg-logo="https://i.imgur.com/kYhdM9c.png" group-title="USA",ESPN 2
-http://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-id="796" tvg-logo="https://i.imgur.com/0rfBAWY.png" group-title="USA",Exercise 4U
-https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="797" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="USA",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8
-
-#EXTINF:-1 tvg-id="798" tvg-logo="https://i.imgur.com/G6cIBwe.png" group-title="USA",Fox Sports 1
-http://cvtv.cvalley.net/hls/FS1/FS1.m3u8
-
-#EXTINF:-1 tvg-id="799" tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="USA",Gone Fishing
-https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="800" tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting
-https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
-
-#EXTINF:-1 tvg-id="801" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USA",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
-#EXTINF:-1 tvg-id="802" tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-
-#EXTINF:-1 tvg-id="803" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
- 
-#EXTINF:-1 tvg-id="804.3" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-id="805" tvg-logo="http://www.revntv.com/media/pcon/revn-logo-color-socialmedia-108.png" group-title="USA",Rev'n
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-
-#EXTINF:-1 tvg-id="806" tvg-logo="https://i.imgur.com/X72z8BW.png" group-title="USA",Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-
-#EXTINF:-1 tvg-id="807" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="USA",Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
-#EXTINF:-1 tvg-id="808" tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 tvg-id="810" tvg-logo="https://i.imgur.com/o93dyxT.png" group-title="USA",WOSN Sports
-http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="821" tvg-logo="https://i.imgur.com/7sithKp.png" group-title="USA",Hochanda TV
-https://d3jwlm43fjnwxe.cloudfront.net/ushochanda/2/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="822" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png" group-title="USA",HSN
-https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
- 
-#EXTINF:-1 tvg-id="823" tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png" group-title="USA",HSN 2
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-
-#EXTINF:-1 tvg-id="824" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="USA",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="825" tvg-logo="https://i.imgur.com/cR9FCTg.png" group-title="USA",Planet Cannabis
-https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
-
-#EXTINF:-1 tvg-id="826" tvg-logo="http://akamaicdn.shoplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png" group-title="USA",Shop LC
-https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
- 
-#EXTINF:-1 tvg-id="827" tvg-logo="https://i.imgur.com/woxovZh.png" group-title="USA",Shopping 4U
-https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
-
-#EXTINF:-1 tvg-id="828" tvg-logo="https://i.imgur.com/i3lItFB.png" group-title="CANADA",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-#EXTINF:-1 tvg-id="831" tvg-name="" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="USA",Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
- 
-#EXTINF:-1 tvg-id="832" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="833" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
- 
-#EXTINF:-1 tvg-id="834" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="835" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="USA",Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-
-#EXTINF:-1 tvg-id="836" tvg-logo="https://i.imgur.com/2MyiyMl.png" group-title="USA",New Orleans TV
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="838" tvg-logo="https://i.imgur.com/GFyJviy.png" group-title="USA",Travel 4U
-https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>~~~~~~~~~~[COLOR white][B]Status[/B][/COLOR]:[COLOR lime][B]Online[/B][/COLOR][COLOR white][B]~~~~~~~~~~[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>****[COLOR white][B]PLEASE REPORT ANY DEAD LINK[/B][/COLOR] [COLOR lime][B]@mullafabz[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>****[COLOR white][B]NOT ALL LINKS WORK ALL THE TIME.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]SOME CHANNELS WILL NOT WORK DUE TO ISPs REJECTING THE SERVER IP[/B][/COLOR][COLOR white][B][/B][/COLOR]</title>
+<link>http://ignore.me</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]YOU NEED 2 USE VPN AT SOME POINT[/B][/COLOR][COLOR white][B][/B][/COLOR]</title>
+<link>http://ignore.me</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>****[COLOR orange][B]Last Update:[/B][/COLOR][COLOR white][B][COLOR white][B][I]15/02/2019 12:30p UTC[/I] [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>===================================================================================[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 1[/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena1/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/40045_arena1.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 1[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena1-bckp/playlist.*?)[",']</expres>
+<page>http://wssfree.com/WSSphp/wssarenasport1/wssarenasport1.php</page>
+<referer>http://wssfree.com/WSSphp/wssarenasport1/wssarenasport1.php</referer>
+<agent>freeapppsss</agent>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/40045_arena1.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 2[/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena2/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/60939_arena2.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 2[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena2-bckp/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/60939_arena2.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 3[/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena3/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/34424_arena3.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 3[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena3-bckp/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/34424_arena3.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 4[/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena4/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena4.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/31674_arena4.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]RENA SPORTS 4[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/arena4-bckp/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/arena4.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/31674_arena4.jpg</thumbnail>
+<fanart>http://i.imgur.com/olvK4rc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]A[/B][/COLOR][COLOR white][B]t The Races [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/83.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/83.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/76359_races.jpg</thumbnail>
+<fanart>http://www.getthephonenumber.com/wp-content/uploads/2015/05/DSC7651.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 1 AR[/B][/COLOR] 576p</title> 
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports1ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/50740_bein1.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 1 AR[/B][/COLOR] 360p</title> 
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports1ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/50740_bein1.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 2 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports2ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/67308_bein2.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 2 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports2ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/67308_bein2.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 3 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports3ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/39971_bein3.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 3 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports3ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/39971_bein3.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 4 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports4ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein4.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/43193_bein4.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 4 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports4ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein4.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/43193_bein4.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 5 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports5ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein5.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/1093_bein5.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 5 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports5ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein5.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/1093_bein5.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 6 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports6ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein6.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/10061_bein6.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 6 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports6ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein6.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/10061_bein6.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 7 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports7ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein7.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/6981_bein7.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 7 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports7ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein7.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/6981_bein7.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 8 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports8ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein8.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/98831_bein8.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 8 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports8ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein8.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/98831_bein8.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 9 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports9ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein9.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/97544_bein9.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 9 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports9ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein9.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/97544_bein9.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 10 AR[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports10ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein10.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/66604_bein10.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 10 AR[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports10ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein10.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/66604_bein10.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 11 ENG[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports11ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein11.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/37997_bein11.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 11 ENG[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports11ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein11.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/37997_bein11.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 12 ENG[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports12ar-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein12.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/5758_bein12.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 12 ENG [/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/beinsports12ar-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bein12.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/5758_bein12.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 1 FR [/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/bein1fr-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/frbein1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/beinsport1fr.png</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 2 FR [/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/bein2fr-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/frbein2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/beinsport2fr.png</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport 3 FR [/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/bein3fr-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/frbein3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/beinsport3fr.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ein Sport USA[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/26.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/26.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2 [/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/7civ33j.jpg</thumbnail>
+<fanart>https://i.imgur.com/5cpUsld.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 1 [/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports1-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bt1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/49801_bt1.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 1 [/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports1-hq/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bt1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/49801_bt1.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports2-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bt2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/76380_bt2.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 2[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports2-hq/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bt2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/76380_bt2.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 3[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports3-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bt3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/71456_bt3.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport 3[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsports3-hq/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/bt3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/71456_bt3.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN [/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsportsespn-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/btespn.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/71456_bt3.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]T Sport ESPN [/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/btsportsespn-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/btespn.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/71456_bt3.jpg</thumbnail>
+<fanart>http://www.redbeecreative.com/storage/imagecache/poster_medium/work/bt_sport_00_main-24438.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]B[/B][/COLOR][COLOR white][B]ox Nation [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/780.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2 [/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/44.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/44.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://www.liveonlinetv247.info/images/boxnation.png</thumbnail>
+<fanart>http://mgm-scotland.co.uk/wp-content/uploads/2016/07/box-nation-mgm-682x351.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]anal +[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/canal+/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/canal.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://sportstv.club/pic/canal-.png</thumbnail>
+<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/CANAL_%2B_SPORT_HD_2013.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]anal + Sport[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/canal+sport/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/canalplus.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://sportstv.club/pic/canal-sport.png</thumbnail>
+<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/a/a0/CANAL_%2B_SPORT_HD_2013.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]C[/B][/COLOR][COLOR white][B]helsea TV [/B][/COLOR][2]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/148.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/148.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/95200_chelseatv.jpg</thumbnail>
+<fanart>http://pichdwallpaper.com/wp-content/uploads/2014/12/chelsea-football-club-3d-logo-wallpaper.jpg</fanart>
+</item>
+<!--
+-->
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN USA[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espn1.m3u8 ::LISTNAME:[COLOR white][B]ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espn1_540.m3u8 ::LISTNAME:[COLOR white][B]ESPN RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espn1_360.m3u8 ::LISTNAME:[COLOR white][B]ESPN RESOLUTION=640x360p[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/27554_espn.jpg</thumbnail>
+<fanart>http://loglatabases.com/wp-content/uploads/2012/05/espn-logo-wallpaper.jpg</fanart>
+</item>
+
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/48.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/48.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPN 2 US HD[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espn2.m3u8 ::LISTNAME:[COLOR white][B]ESPN2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espn2_540.m3u8 ::LISTNAME:[COLOR white][B]ESPN2 RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espn2_360.m3u8 ::LISTNAME:[COLOR white][B]ESPN2 RESOLUTION=640x360p[/B][/COLOR]::#
+</link>
+<thumbnail>https://vignette2.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png</thumbnail>
+<fanart>http://loglatabases.com/wp-content/uploads/2012/05/espn-logo-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]SPNews US HD[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espnews.m3u8 ::LISTNAME:[COLOR white][B]ESPNews RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espnews.m3u8 ::LISTNAME:[COLOR white][B]ESPNews RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://espn.clinicalkey.icu/cache/espnews.m3u8 ::LISTNAME:[COLOR white][B]ESPNews RESOLUTION=640x360p[/B][/COLOR]::#
+</link>
+<thumbnail>https://cdn.technadu.com/wp-content/uploads/2018/08/2000px-ESPNEWS_logo.svg_-696x392.png</thumbnail>
+<fanart>https://cdn.technadu.com/wp-content/uploads/2018/08/2000px-ESPNEWS_logo.svg_-696x392.png</fanart>
+</item>
+
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/49.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/49.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport One UK [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/50.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2156.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2158.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 3[/B][/COLOR]::#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg</thumbnail>
+<fanart>http://i.eurosport.com/2015/11/12/1731141-36621053-1600-900.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]E[/B][/COLOR][COLOR white][B]urosport Two UK [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/51.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2157.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2159.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 3[/B][/COLOR]::#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</thumbnail>
+<fanart>http://i.eurosport.com/2015/11/12/1731141-36621053-1600-900.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 1 NL [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/5.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/5.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 2 NL [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/4.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/4.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/91783_foxspnl2.jpg</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 3 NL [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/3.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/15335_foxspnl3.jpg</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 4 NL [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/75121_foxspnl4.jpg</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 5 NL [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/1.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/49385_foxspnl5.jpg</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 1 US[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/foxsports1-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/fox1usa.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/69943_foxspusa1.jpg</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]F[/B][/COLOR][COLOR white][B]ox Sports 2 US[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/foxsports2-576/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/fox2usa.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/75594_foxspusa2.jpg</thumbnail>
+<fanart>http://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_End.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]G[/B][/COLOR][COLOR white][B]TV[/B][/COLOR] 1</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/429.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/430.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://sportstv.club/pic/gtv.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/1i7pOuTwpHs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]G[/B][/COLOR][COLOR white][B]eo Super[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/238.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/239.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/vC8M9rI.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/1i7pOuTwpHs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]L[/B][/COLOR][COLOR white][B]iverpool TV [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/440.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/440.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/srwfjId.png</thumbnail>
+<fanart></fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]an United TV [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/145.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/145.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
+<fanart>http://images-1.smartsave.com/images/attractions/384/14643424447424.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]M[/B][/COLOR][COLOR white][B]LB Network[/B][/COLOR]</title>
+<link>
+sublink:http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20180703_1530604693065/3000K/3000_slide.m3u8#
+sublink:http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20180703_1530604693065/2400K/2400_slide.m3u8#
+sublink:http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20180703_1530604693065/1800K/1800_slide.m3u8#
+sublink:http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20180703_1530604693065/1200K/1200_slide.m3u8#
+sublink:http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20180703_1530604693065/800K/800_slide.m3u8#
+sublink:http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20180703_1530604693065/500K/500_slide.m3u8#
+</link>
+<thumbnail>https://i.ytimg.com/vi/fXvz3NPTAG8/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fXvz3NPTAG8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BCSN [/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/nbcsn-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/nbcsn.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/45155_nbcsn.jpg</thumbnail>
+<fanart>http://www.motorcycle-usa.com/wp-content/uploads/2015/11/nbcsn-logo-2015.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC Golf Channel[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/psGAPCdK</externallink>
+<thumbnail>http://www.golfchannel.com/public/images/gc-logo-16-9.png</thumbnail>
+<fanart>http://www.golfchannel.com/public/images/gc-logo-16-9.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]BC Sports Boston[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/dnf25/raw</externallink>
+<thumbnail>https://i.imgur.com/dXRdTOx.png</thumbnail>
+<fanart>https://i.imgur.com/M80xaad.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]FL Now [/B][/COLOR] [COLOR orange][B](360P,540P,720P,1080P)[/B][/COLOR]</title>
+<link>
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_200k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_464k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_664k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_964k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_2000k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_3000k.m3u8#
+sublink:https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8#
+</link>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]N[/B][/COLOR][COLOR white][B]HL Network HD[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaa/einefilneEt/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaa/einefilneEt/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2[/B][/COLOR]::#
+</link>
+<thumbnail>https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png</thumbnail>
+<fanart></fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 Arizona[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/PAC12%20ARIZONA</externallink>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg</thumbnail>
+<fanart>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 Los Angles[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/PAC%20LA</externallink>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg</thumbnail>
+<fanart>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 Mountain[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/PAC%20MOUNTAIN</externallink>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg</thumbnail>
+<fanart>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 National Network[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/NATIONAL%20NETWORK</externallink>
+<thumbnail>http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg</thumbnail>
+<fanart>http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 Oregon[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/Oregon.txt</externallink>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg</thumbnail>
+<fanart>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 Washington[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/Washington</externallink>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg</thumbnail>
+<fanart>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]AC 12 Bay Area[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/Bay%20Area</externallink>
+<thumbnail>http://i4atv.us/wp-content/uploads/2017/01/1483508572pac-12-bayarea-logo.png.png</thumbnail>
+<fanart>http://i4atv.us/wp-content/uploads/2017/01/1483508572pac-12-bayarea-logo.png.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]P[/B][/COLOR][COLOR white][B]remier Sports[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/56.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/56.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/39093_premiersports.jpg</thumbnail>
+<fanart>http://tv.linkstree.info/wp-content/uploads/2016/06/tv-tv-channels-sports-channels-Premier-sports.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]acing UK [/B][/COLOR][2]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/84.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/84.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/16203_ukracing.jpg</thumbnail>
+<fanart>http://beverley-racecourse.co.uk/uploads/generic/bev-800x400.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]R[/B][/COLOR][COLOR white][B]eal Madrid TV[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/mullafabz/TEMP/master/RMTV</externallink>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/10075_RealMadrid.jpg</thumbnail>
+<fanart>http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsmainevent-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysmainevent.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/43621_skymainevent.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/skyfanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Main Event[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsmainevent-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysmainevent.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/43621_skymainevent.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/skyfanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Cricket [/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportscricket-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skyscricket.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/27713_skycricket.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/cricfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Cricket [/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportscricket-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skyscricket.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/27713_skycricket.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/cricfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Action[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsaction-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysaction.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/30968_skyaction.jpg</thumbnail>
+<fanart>https://i.imgur.com/3g6HFnL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Action[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsaction-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysaction.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/30968_skyaction.jpg</thumbnail>
+<fanart>https://i.imgur.com/3g6HFnL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Golf[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsgolf-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysgolf.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/40768_skygolf.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/cricfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Golf[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsgolf-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysgolf.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/40768_skygolf.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/cricfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportspremierleague-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skyspremierleague.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/89284_skyleauge.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/cricfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Premier League[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportspremierleague-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skyspremierleague.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/89284_skyleauge.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/cricfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsarena-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysarena.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/17287_skyarena.jpg</thumbnail>
+<fanart>https://i.imgur.com/3g6HFnL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Arena[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsarena-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysarena.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/17287_skyarena.jpg</thumbnail>
+<fanart>https://i.imgur.com/3g6HFnL.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Football[/B][/COLOR] 576p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsfootball-576p/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysfootball.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/3243_skyfootball.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/footfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Football[/B][/COLOR] 360p</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/skysportsfootball-3g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/skysfootball.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/3243_skyfootball.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/footfan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports F1 UK [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/80.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/80.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2 [/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/13208_skyf1new.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/f1fan.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Mix[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/2108.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+sublink:LISTSOURCE:http://163.172.220.115:8080/rAMdannskysp/mix/index.m3u8|User-Agent=Lavf/56.15.102&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/65882_skymixnew.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/Sky/skyfanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports News UK [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/118.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/118.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/823.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 3[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/823.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 4[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/73040_skynewsnew.jpg</thumbnail>
+<fanart>http://www.lightwell.tv/images/custom/work/sky-sports/sky-sports-backdrop-design-hero1.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sports Bundesliga[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://103.77.116.184:8800/sportinter/sky_sports_bundesliga_1_360p.stream/playlist.m3u8?st=6x2LLLMTLRyefTrGFU32kg&e=1522260416 ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.77.116.184:8800/sportinter/sky_sports_bundesliga_1_360p.stream/playlist.m3u8?st=6x2LLLMTLRyefTrGFU32kg&e=1522260416 ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://app.doomovie4k.com/wp-content/uploads/2017/11/skysportbundesliga-185x278.jpg</thumbnail>
+<fanart>http://app.doomovie4k.com/wp-content/uploads/2017/11/skysportbundesliga-185x278.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 1 Italy[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1686.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1686.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://kabelmax.tv/files/logopack/Italy/sky%20sport%201.png</thumbnail>
+<fanart>http://www.italiabeachsoccer.com/images/itbsoccer/34.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 2 Italy [/B][/COLOR][2]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1687.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1687.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysport2italia.png</thumbnail>
+<fanart>http://www.italiabeachsoccer.com/images/itbsoccer/34.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 3 Italy [/B][/COLOR][2]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1688.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/1688.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://www.liveonlinetv247.info/images/skysport3italia.png</thumbnail>
+<fanart>http://www.italiabeachsoccer.com/images/itbsoccer/34.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ky Sport 24 Italy [/B][/COLOR][2]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/11.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/11.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/46/Sky_Sport24_2010.png/revision/latest?cb=20150524204026</thumbnail>
+<fanart>http://www.italiabeachsoccer.com/images/itbsoccer/34.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]portsNet World[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/467.ts|User-Agent=freeapppsss&amp;mode=36&quo|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/467.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 2 [/B][/COLOR]::#
+</link>
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/65930_sportnetworld.jpg</thumbnail>
+<fanart>http://cdn.nhle.com/canadiens/images/upload/2014/09/sportsnet2.JPG</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]portsNet One[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.webtv.ws/embed.php?live=ssone&vw=620&vh=490&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 1[/B][/COLOR]::# 
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/99913_sportnetone.jpg</thumbnail>
+<fanart>http://cdn.nhle.com/canadiens/images/upload/2014/09/sportsnet2.JPG</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]portsNet Ontario[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.webtv.ws/embed.php?live=ssontario&vw=620&vh=490&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 1[/B][/COLOR]::# 
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/59741_sportnetontario.jpg</thumbnail>
+<fanart>http://cdn.nhle.com/canadiens/images/upload/2014/09/sportsnet2.JPG</fanart>
+</item>
+
+-->
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sporttv1/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/sporttv1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/80902_sportstv1.jpg</thumbnail>
+<fanart>https://lh6.ggpht.com/RkfbeKZsIo23ggEr57YsIe7i6jQLxQ2A5RSFgdJV8asivpPs6DyXZsWCWKFsWup3VoU=h900</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 1 [/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sporttv1-bckp/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019/sporttv1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/80902_sportstv1.jpg</thumbnail>
+<fanart>https://lh6.ggpht.com/RkfbeKZsIo23ggEr57YsIe7i6jQLxQ2A5RSFgdJV8asivpPs6DyXZsWCWKFsWup3VoU=h900</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 2 [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/724.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 [/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/8.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/78786_sportstv2.jpg</thumbnail>
+<fanart>https://lh6.ggpht.com/RkfbeKZsIo23ggEr57YsIe7i6jQLxQ2A5RSFgdJV8asivpPs6DyXZsWCWKFsWup3VoU=h900</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]port TV 3 [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/9.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 [/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/9.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/58689_sportstv3.jpg</thumbnail>
+<fanart>https://lh6.ggpht.com/RkfbeKZsIo23ggEr57YsIe7i6jQLxQ2A5RSFgdJV8asivpPs6DyXZsWCWKFsWup3VoU=h900</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]portsNet Ontario[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaa/sprtNett-onTerro/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaa/sprtNett-onTerro/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/59741_sportnetontario.jpg</thumbnail>
+<fanart>http://cdn.nhle.com/canadiens/images/upload/2014/09/sportsnet2.JPG</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]portsNet 360[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaa/sprtNett-3ree60/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaa/sprtNett-3ree60/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 1[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/29084_sportnet360.jpg</thumbnail>
+<fanart>http://cdn.nhle.com/canadiens/images/upload/2014/09/sportsnet2.JPG</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony Six[/B][/COLOR] 1</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sonysix/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonysix.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/90_sonysixhd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony Six[/B][/COLOR] 2</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sonysix-2g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonysix.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/90_sonysixhd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony ESPN[/B][/COLOR] 1</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sonyespn/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyespn.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/92886_sonyespn.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]ony ESPN[/B][/COLOR] 2</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/sonyespn-2g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyespn.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://sportstv.club/pic/sonyespnhd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tar Sports 1 [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/115.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 0[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/115.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/54049_starsports1.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/578897627158220802/L9iGW8Ki.jpeg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tar Sports 2 [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/436.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 0[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/436.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/22647_86191_starsports2.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/578897627158220802/L9iGW8Ki.jpeg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tar Sports 3 [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/32980_starsports3.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/578897627158220802/L9iGW8Ki.jpeg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]S[/B][/COLOR][COLOR white][B]tar Sports 4 [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/82396_starsports4.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/578897627158220802/L9iGW8Ki.jpeg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en 1 [/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/ten1/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyten1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/29376_ten1.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en 1[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/ten1-2g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyten1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/t1nlLRW.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en 2 [/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/ten2/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyten2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/78034_ten2.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en 2[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/ten2-2g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyten2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/kGIZLuj.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en 3[/B][/COLOR] A</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/ten3/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyten3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/68249_ten3.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en 3[/B][/COLOR] B</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/ten3-2g/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//sonyten3.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/hjSHeDC.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en Golf [/B][/COLOR]</title>
+<link>http://bit.ly/2JpbOap</link>
+<thumbnail>https://i.imgur.com/bzuWHIz.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]en Cricket [/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaateein-cri/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.154.237.88:8080/MatH33Raaateein-cri/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 2[/B][/COLOR]::#
+</link>
+<thumbnail></thumbnail>
+<fanart>https://3.bp.blogspot.com/-RyO_G-Ex4tA/VYwk0myB3zI/AAAAAAAABLs/UvENVjdEdUk/s1600/Ten-Sports-TV-Channel-Logo.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN 1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/tsn1/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//Tsn1.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/67935_tsn1.jpg</thumbnail>
+<fanart>http://www.troika.tv/wp-content/uploads/TSN_OPEN_Design_R1_JE.003.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN 2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
+<regex>
+<name>get_sxstream</name>
+<expres>href=.*[",'](.*/tsn2/playlist.*?)[",']</expres>
+<page>$doregex[get_sxstream1]</page>
+<referer>$doregex[get_sxstream1]</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>href=.*[",'](.*12th_feb_2019//Tsn2.*?)[",']</expres>
+<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
+<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
+</regex>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/96819_tsn2.jpg</thumbnail>
+<fanart>http://www.troika.tv/wp-content/uploads/TSN_OPEN_Design_R1_JE.003.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN 3[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://whostreams.net/embed/5loar&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 1[/B][/COLOR]::# 
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://whostreams.net/embed/5loar&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 2[/B][/COLOR]::# 
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/56142_tsn3.jpg</thumbnail>
+<fanart>http://www.troika.tv/wp-content/uploads/TSN_OPEN_Design_R1_JE.003.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN 4[/B][/COLOR] 720p</title>
+<link>
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://whostreams.net/embed/xzlb0yiny&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 1[/B][/COLOR]::# 
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://whostreams.net/embed/xzlb0yiny&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 2[/B][/COLOR]::# 
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/96507_tsn4.jpg</thumbnail>
+<fanart>http://www.troika.tv/wp-content/uploads/TSN_OPEN_Design_R1_JE.003.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]T[/B][/COLOR][COLOR white][B]SN 5[/B][/COLOR] 720p</title>
+<link>
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://whostreams.net/embed/ps77q2d6o8lh1&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 1[/B][/COLOR]::# 
+sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://whostreams.net/embed/ps77q2d6o8lh1&amp;name=[COLOR red][B]List [/B][/COLOR] ::LISTNAME:[COLOR white][B]LINK 2[/B][/COLOR]::# 
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/5065_tsn5.jpg</thumbnail>
+<fanart>http://www.troika.tv/wp-content/uploads/TSN_OPEN_Design_R1_JE.003.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]ILLOW TV HD[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/117.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 0[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/434.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/YmVbBOW.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]W[/B][/COLOR][COLOR white][B]WE[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/146.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 0[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/286.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 1[/B][/COLOR]::#
+</link>
+<thumbnail>http://swiftstreamz.com/SwiftStreamz/images/87423_wwe.jpg</thumbnail>
+<fanart>https://nerdchairshot.files.wordpress.com/2015/06/wpid-wpid-wwe-network.jpeg</fanart>
+</item>
