@@ -1,221 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-#EXTM3U
+#FUCK OFF YOU LAZY FUCK 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A0RNQeF.png" group-title="+INFO",FOX SPORTS 1 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1308
-#EXTINF:0,NL | FOX SPORTS 1 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1308
-#EXTINF:0,NL | FOX SPORTS 2 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1309
-#EXTINF:0,NL | FOX SPORTS 3 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1310
-#EXTINF:0,NL | FOX SPORTS 4 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1311
-#EXTINF:0,NL | FOX SPORTS 5 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1312
-#EXTINF:0,NL | FOX SPORTS 6 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1313
-#EXTINF:0,NL | ZIGGO SPORT SELECT 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1299
-#EXTINF:0,NL | ZIGGO SPORT VOETBAL 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/1300
-#EXTINF:0,NL | ZIGGO SPORT RACING 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/34466
-#EXTINF:0,NL | ZIGGO SPORT GOLF 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/34465
-#EXTINF:0,NL | ZIGGO SPORT DOCU 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/34464
-#EXTINF:0,NL | ZIGGO SPORT EXTRA 4K+
-http://z.iptvsubscription.org:80/mohanad/mohanad/34463
-#EXTINF:0,NL | FOX SPORTS 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1316
-#EXTINF:0,NL | FOX SPORTS 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1317
-#EXTINF:0,NL | FOX SPORTS 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1318
-#EXTINF:0,NL | FOX SPORTS 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1319
-#EXTINF:0,NL | FOX SPORTS 5 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1320
-#EXTINF:0,NL | FOX SPORTS 6 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1321
-#EXTINF:0,NL | ZIGGO SPORT SELECT HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1314
-#EXTINF:0,NL | ZIGGO SPORT VOETBAL HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1315
-#EXTINF:0,NL | ZIGGO SPORT RACING HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1301
-#EXTINF:0,NL | ZIGGO SPORT GOLF HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1303
-#EXTINF:0,NL | ZIGGO SPORT DOCU HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1304
-#EXTINF:0,NL | ZIGGO SPORT EXTRA HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/1305
-#EXTINF:0,FR | EUROSPORT 1 FHD
-http://z.iptvsubscription.org:80/mohanad/mohanad/48735
-#EXTINF:0,FR4K+ | RMC SPORT LIVE 16 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32238
-#EXTINF:0,FR4K+ | RMC SPORT 3 ACCESS HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32247
-#EXTINF:0,FR4K+ | RMC SPORT 2 ACCESS HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32249
-#EXTINF:0,FR4K+ | RMC SPORT 1 ACCESS HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32251
-#EXTINF:0,FR4K+ | INFOSPORT  HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32307
-#EXTINF:0,FRHD+ | INFOSPORTS+
-http://z.iptvsubscription.org:80/mohanad/mohanad/48739
-#EXTINF:0,FR4K+ | EUROSPORT HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32327
-#EXTINF:0,FR4K+ | RMC SPORT 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32250
-#EXTINF:0,FR4K+ | FOOT  24/24 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32324
-#EXTINF:0,FR4K+ | RMC SPORT LIVE 10 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32244
-#EXTINF:0,FR4K+ | BEINSPORT 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32378
-#EXTINF:0,FR4K+ | RMC 4K
-http://z.iptvsubscription.org:80/mohanad/mohanad/32231
-#EXTINF:0,FR4K+ | RMC SPORT 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32245
-#EXTINF:0,FR4K+ | MOTORSPORT TV
-http://z.iptvsubscription.org:80/mohanad/mohanad/32292
-#EXTINF:0,FR4K+ | GOLF  HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/32314
-#EXTINF:0,FRHD+ | GOLF+
-http://z.iptvsubscription.org:80/mohanad/mohanad/48751
-#EXTINF:0,FR | BEIN SPORT 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27340
-#EXTINF:0,FR | BEIN SPORT 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27341
-#EXTINF:0,FR | BEIN SPORT 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27342
-#EXTINF:0,FR | RMC SPORT 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27343
-#EXTINF:0,FR | RMC SPORT 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27344
-#EXTINF:0,FR | RMC SPORT 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27345
-#EXTINF:0,FR | RMC SPORT 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/27346
-#EXTINF:0,GR | Cosmote Sport 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42743
-#EXTINF:0,GR | Cosmote Sport 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42744
-#EXTINF:0,GR | Cosmote Sport 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42745
-#EXTINF:0,GR | Cosmote Sport 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/43959
-#EXTINF:0,GR | Cosmote Sport 5 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42747
-#EXTINF:0,GR | Cosmote Sport 6 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42748
-#EXTINF:0,GR | Cosmote Sport 7 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42749
-#EXTINF:0,GR | Cosmote Sport 8 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42750
-#EXTINF:0,GR | Cosmote Sport 9 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/43960
-#EXTINF:0,GR | Nova Sport 1 FHD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42756
-#EXTINF:0,GR | Nova Sport 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42757
-#EXTINF:0,GR | Nova Sport 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42758
-#EXTINF:0,GR | Nova Sport 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42759
-#EXTINF:0,GR | Nova Sport 5 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/42760
-#EXTINF:0,TR | TIVIBU SPOR 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15632
-#EXTINF:0,TR | TIVIBU SPOR 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15633
-#EXTINF:0,TR | TIVIBU SPOR 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15634
-#EXTINF:0,TR | SMARTSPOR 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15635
-#EXTINF:0,TR | S SPORT HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15636
-#EXTINF:0,TR | TRT SPOR HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15637
-#EXTINF:0,TR | SPORTS TV HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15638
-#EXTINF:0,TR | A SPOR HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15639
-#EXTINF:0,TR | FB TV HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15641
-#EXTINF:0,TR | GS TV HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15642
-#EXTINF:0,TR | BJK TV HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15643
-#EXTINF:0,TR | NBA TV HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15645
-#EXTINF:0,TR | BEIN SPORT  IZ 1 4K
-http://z.iptvsubscription.org:80/mohanad/mohanad/15648
-#EXTINF:0,TR | BEIN SPORTS 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15649
-#EXTINF:0,TR | BEIN SPORTS 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15653
-#EXTINF:0,TR | BEIN SPORTS 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15655
-#EXTINF:0,TR | BEIN SPORTS 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15657
-#EXTINF:0,TR | BEIN SPORTS MAX 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15660
-#EXTINF:0,TR | BEIN SPORTS MAX 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15662
-#EXTINF:0,TR | BEiN SPORT HABER HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/15664
-#EXTINF:0,TR | Bein Sport HD1
-http://z.iptvsubscription.org:80/mohanad/mohanad/20317
-#EXTINF:0,TR | Bein Sport HD2
-http://z.iptvsubscription.org:80/mohanad/mohanad/20318
-#EXTINF:0,TR | Bein Sport HD3
-http://z.iptvsubscription.org:80/mohanad/mohanad/20319
-#EXTINF:0,TR | Bein Sport HD4
-http://z.iptvsubscription.org:80/mohanad/mohanad/20320
-#EXTINF:0,TR | Tivibu Sport 1
-http://z.iptvsubscription.org:80/mohanad/mohanad/20321
-#EXTINF:0,TR | Tivibu Sport 2
-http://z.iptvsubscription.org:80/mohanad/mohanad/20322
-#EXTINF:0,TR | SMART SPOR HD1
-http://z.iptvsubscription.org:80/mohanad/mohanad/20323
-#EXTINF:0,TR | TRT SPOR HD BKUP
-http://z.iptvsubscription.org:80/mohanad/mohanad/20324
-#EXTINF:0,TR | beIN SPORTS HD 1
-http://z.iptvsubscription.org:80/mohanad/mohanad/52200
-#EXTINF:0,TR | beIN SPORTS HD 2
-http://z.iptvsubscription.org:80/mohanad/mohanad/52201
-#EXTINF:0,TR | beIN SPORTS HD 3
-http://z.iptvsubscription.org:80/mohanad/mohanad/52202
-#EXTINF:0,TR | beIN SPORTS HD 4
-http://z.iptvsubscription.org:80/mohanad/mohanad/52203
-#EXTINF:0,TR | beIN SPORTS MAX HD 1
-http://z.iptvsubscription.org:80/mohanad/mohanad/52204
-#EXTINF:0,TR | beIN SPORTS MAX HD 2
-http://z.iptvsubscription.org:80/mohanad/mohanad/52205
-#EXTINF:0,KSA | KSA SPORTS 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/43371
-#EXTINF:0,KSA | KSA SPORTS 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/43372
-#EXTINF:0,KSA | KSA Sports 3 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/43373
-#EXTINF:0,KSA | KSA SPORTS 4HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/43374
-#EXTINF:0,AR OSN | SPORT CRICKET
-http://z.iptvsubscription.org:80/mohanad/mohanad/47946
-#EXTINF:0,AR OSN | WWE
-http://z.iptvsubscription.org:80/mohanad/mohanad/47947
-#EXTINF:0,AR OSN | Al KASS 1 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/47949
-#EXTINF:0,AR OSN | Al KASS 2 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/47950
-#EXTINF:0,AR OSN | Al KASS 4 HD
-http://z.iptvsubscription.org:80/mohanad/mohanad/47951
-#EXTINF:0,BR | SPORTV
-http://z.iptvsubscription.org:80/mohanad/mohanad/49511
-#EXTINF:0,BR | SPORTV 2
-http://z.iptvsubscription.org:80/mohanad/mohanad/49512
-#EXTINF:0,BR | SPORTV 3
-http://z.iptvsubscription.org:80/mohanad/mohanad/49513
+<item>
+    <title>[B][I][COLORorangered]Sports Channels From LiveSportsStreamNet[/B][/I][/COLOR]</title>
+    <vaughn>telemundo21</vaughn>
+    <thumbnail>http://img.over-blog-kiwi.com/1/18/59/20/20160411/ob_de3e23_sport-tv.png</thumbnail>
+    <info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+</item>
+
+<item>
+<title>[COLORorangered][B]Some Are Only Active During Live Events[/B][/COLOR]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer>http://www.sports-stream.net/</referer>
+<thumbnail>http://img.over-blog-kiwi.com/1/18/59/20/20160411/ob_de3e23_sport-tv.png</thumbnail>
+<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+<fanart></fanart>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel (1)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=1</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel (2)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=2</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel (3)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=3</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(4)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=4</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(5)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=5</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(6)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=6</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(7)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=7</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(8)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=8</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(9)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=9</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(10)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/embed/video.php?channel=10</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(11)[/COLOR]</title>
+        <sportsdevil>https://live-sports-stream.net/?channel=11</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(12)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/?channel=12</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(13)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/?channel=13</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(14)[/COLOR]</title>
+    <sportsdevil>https://live-sports-stream.net/?channel=14</sportsdevil>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(15)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=15</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(16)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=16</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(17)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=17</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(18)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>http://live-sports-stream.net/?channel=18</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(19)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=19</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(20)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=20</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(21)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=21</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(22)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=22</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(23)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=23</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(24)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=24</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(25)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=25</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(26)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=26</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(27)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=27</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(28)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>http://live-sports-stream.net/?channel=28</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(29)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=29</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(30)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=30</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(31)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>http://live-sports-stream.net/?channel=31</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(32)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=32</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(33)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=33</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(34)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=34</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(35)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=35</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(36)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=36</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(37)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=37</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(38)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>http://live-sports-stream.net/?channel=38</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(39)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=39</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(40)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=40</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(41)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=41</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(42)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=42</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(43)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>http://live-sports-stream.net/?channel=43</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(44)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=44</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(45)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=45</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(46)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=46</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(47)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=47</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(48)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=48</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(49)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=49</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(50)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=50</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
+
+<item>
+    <title>[COLOR yellow]Sports Stream channel(51)[/COLOR]</title>
+    <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+    <sportsdevil>https://live-sports-stream.net/?channel=51</sportsdevil>
+    <referer>http://live-sports-stream.net/</referer>
+</item>
