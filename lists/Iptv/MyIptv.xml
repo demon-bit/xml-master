@@ -1,4 +1,8 @@
-﻿#EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A0RNQeF.png" group-title="+INFO",LODGE TV ENGLISH
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 #EXTINF:0,NL | FOX SPORTS 1 4K+
 http://z.iptvsubscription.org:80/mohanad/mohanad/1308
 #EXTINF:0,NL | FOX SPORTS 2 4K+
