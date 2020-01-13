@@ -1,23 +1,5 @@
 <xml>
-     
-<plugin>
-    <title>Swiftstreamz</title>
-    <link>plugin://script.module.swiftstreamz</link> 
-    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
-   
-</plugin>
-     
-<plugin>
-    <title>TVTap</title>
-      <link>plugin://script.module.tt</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-     
-<plugin>
-    <title>TVTap test</title>
-      <link>plugin://plugin.video.temptv/script.module.tt/list_channels/5</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
+         
      
 <plugin>
     <title>LaolaTv Sports</title>
@@ -37,16 +19,16 @@
     <thumbnail>https://kodi-addons.club/data/52/520665ef02031cc63a058d938ff6fc62.png</thumbnail>
 </plugin>
      
-<plugin>
-    <title>Swiftstreamz-Sport Channels</title>
-    <link>plugin://script.module.swiftstreamz/list_channels/8</link> 
-    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
-   
-</plugin>
      
 <plugin>
     <title>TVTap Sport-channels</title>
       <link>plugin://script.module.tt/list_channels/5</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
+     
+<plugin>
+    <title>TVTap</title>
+      <link>plugin://script.module.tt</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
     
