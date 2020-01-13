@@ -14,6 +14,12 @@
     </plugin>
      
 <plugin>
+    <title>TVTap test</title>
+      <link>plugin.video.temptv/resources/lib/indexers/taptv</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
+     
+<plugin>
     <title>LaolaTv Sports</title>
   <thumbnail>https://vignette.wikia.nocookie.net/rom/images/d/dd/Bewahrer_Logo.png/revision/latest?cb=20091023155748&path-prefix=de</thumbnail>
  <link>plugin://script.module.laola1tv</link>
