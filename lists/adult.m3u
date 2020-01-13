@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="XXX",test
+http://185.63.254.79:4747/sports2020/ptvsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Teen
 http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dutch webcam girl (tested)" tvg-language="English" tvg-logo="https://www.eagleschools.net/sites/default/files/website/icons/test_356816.png" tvg-country="INT" tvg-url="" group-title="XXX",Webcam girl
