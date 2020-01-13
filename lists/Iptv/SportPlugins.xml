@@ -15,7 +15,7 @@
      
 <plugin>
     <title>TVTap test</title>
-      <link>plugin://plugin.video.temptv/script.module.tt</link>
+      <link>plugin://plugin.video.temptv/script.module.tt/?ex_link</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
      
