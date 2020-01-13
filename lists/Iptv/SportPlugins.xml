@@ -1,4 +1,12 @@
 <xml>
+
+<plugin>
+    <title>Sportzig</title>
+    <link>plugin://plugin.video.sportzig</link> 
+    <thumbnail>https://raw.githubusercontent.com/cy4root2/plugins/master/plugin.video.sportzig/icon.png</thumbnail>
+   
+</plugin>
+     
      
 <plugin>
     <title>Swiftstreamz</title>
