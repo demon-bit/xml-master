@@ -1,58 +1,1875 @@
-
-not used presently
-
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>fuckOFF</layoutype>
-
 <item>
-	<title>SKY SPORTS MAIN EVENT</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSMAINEVENT.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSMAINEVENT.png</fanart>
+<name>Tampa Bay Rays @ Toronto Blue Jays - Condensed - 26th July</name>
+<link>https://vidoza.net/3qc1n6qovwpt.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS FOOTBALL</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Football.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSFOOTBALL.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSFOOTBALL.png</fanart>
+<name>San Francisco Giants @ San Diego Padres - Condensed - 26th July</name>
+<link>https://vidoza.net/gxh0ci68au79.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS ACTION</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Action.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSACTION.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSACTION.png</fanart>
+<name>Pittsburgh Pirates @ New York Mets - Condensed - 26th July</name>
+<link>https://vidoza.net/l0i264cocycc.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS ARENA</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Arena.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSARENA.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSARENA.png</fanart>
+<name>New York Yankees @ Boston Red Sox - Condensed - 26th July</name>
+<link>https://vidoza.net/4y9n74p08qt3.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS PREMIER LEAGUE</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Premier-League.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSPL.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSPL.png</fanart>
+<name>Minnesota Twins @ Chicago White Sox - Condensed - 26th July</name>
+<link>https://vidoza.net/2e9uwxvszd5w.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS CRICKET</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Cricket.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSCRICKET.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSCRICKET.png</fanart>
+<name>Los Angeles Dodgers @ Washington Nationals - Condensed - 26th July</name>
+<link>https://vidoza.net/goirsflr5uek.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS GOLF</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/http://www.sports-stream.net/Sky-Sports-Golf.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSGOLF.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSGOLF.png</fanart>
+<name>Houston Astros @ Saint Louis Cardinals - Condensed - 26th July</name>
+<link>https://vidoza.net/th42vobd9eoo.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
 <item>
-	<title>SKY SPORTS FORMULA 1</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Formula-1.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSF1.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSF1.png</fanart>
+<name>Detroit Tigers @ Seattle Mariners - Condensed - 26th July</name>
+<link>https://vidoza.net/r5wutbw7lxe0.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
 </item>
-
-
+<item>
+<name>Colorado Rockies @ Washington Nationals - Condensed - 25th July</name>
+<link>https://vidoza.net/tpxrh44026ar.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Detroit Tigers @ Seattle Mariners - Condensed - 25th July</name>
+<link>https://vidoza.net/1zedru8b0sc0.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Yankees @ Boston Red Sox - Condensed - 25th July</name>
+<link>https://vidoza.net/1xxf9jkne41j.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Pittsburgh Pirates - Condensed - 25th July</name>
+<link>https://vidoza.net/ljyihz1gjad7.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Pittsburgh Pirates - Condensed - 24th July</name>
+<link>https://vidoza.net/mpcg7v5lj0ly.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ Detroit Tigers - Condensed - 24th July</name>
+<link>https://vidoza.net/okaoq8rds9w5.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Chicago White Sox - Condensed - 24th July</name>
+<link>https://vidoza.net/35d0kv6v8gtc.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Angels @ Los Angeles Dodgers - Condensed - 24th July</name>
+<link>https://vidoza.net/r5jhnbeshozi.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Colorado Rockies @ Washington Nationals - Condensed - 24th July</name>
+<link>https://vidoza.net/rw3v66oei0ah.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cleveland Indians @ Toronto Blue Jays - Condensed - 24th July</name>
+<link>https://vidoza.net/4bkw4obr6rxw.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ San Francisco Giants - Condensed - 24th July</name>
+<link>https://vidoza.net/smcqs843otyj.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Tampa Bay Rays - Condensed - 24th July</name>
+<link>https://vidoza.net/ugyzw6uoh31v.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Pittsburgh Pirates - Condensed - 23rd July</name>
+<link>https://vidoza.net/wz4tm165uxw8.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ Detroit Tigers - Condensed - 23rd July</name>
+<link>https://vidoza.net/j1dep7emhmu6.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Chicago White Sox - Condensed - 23rd July</name>
+<link>https://vidoza.net/0ba5p32rurlq.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Angels @ Los Angeles Dodgers - Condensed - 23rd July</name>
+<link>https://vidoza.net/7opw6s8l0fmf.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Colorado Rockies @ Washington Nationals - Condensed - 23rd July</name>
+<link>https://vidoza.net/tkghfc6u552d.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cleveland Indians @ Toronto Blue Jays - Condensed - 23rd July</name>
+<link>https://vidoza.net/tkui2ftn09sf.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ San Francisco Giants - Condensed - 23rd July</name>
+<link>https://vidoza.net/98uin87dxvl3.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Tampa Bay Rays - Condensed - 23rd July</name>
+<link>https://vidoza.net/r3wn4ygovmm7.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Pittsburgh Pirates - Condensed - 22nd July</name>
+<link>https://vidoza.net/cc0iadob38s0.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Chicago White Sox - Condensed - 22nd July</name>
+<link>https://vidoza.net/97ld8tz26d2d.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cleveland Indians @ Toronto Blue Jays - Condensed - 22nd July</name>
+<link>https://vidoza.net/dp5o2tixiujg.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ San Francisco Giants - Condensed - 22nd July</name>
+<link>https://vidoza.net/y43q6z1lbdvz.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Tampa Bay Rays - Condensed - 22nd July</name>
+<link>https://vidoza.net/oc8fnmyxurr7.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Detroit Tigers - Condensed - 21st July</name>
+<link>https://vidoza.net/r2hsvek96iaa.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Mets @ San Francisco Giants - Condensed - 21st July</name>
+<link>https://vidoza.net/msg14evxv4e6.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Los Angeles Dodgers - Condensed - 21st July</name>
+<link>https://vidoza.net/ivubkfwyjxew.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Angels @ Seattle Mariners - Condensed - 21st July</name>
+<link>https://vidoza.net/fig3h8yzint1.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Baltimore Orioles - Condensed - 21st July</name>
+<link>https://vidoza.net/b3zzpfp5a4tl.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ Pittsburgh Pirates - Condensed - 20th July</name>
+<link>https://vidoza.net/2ezz3w8yrmi7.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Mets @ San Francisco Giants - Condensed - 20th July</name>
+<link>https://vidoza.net/csv7ydk9sgde.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Los Angeles Dodgers - Condensed - 20th July</name>
+<link>https://vidoza.net/s38es513e6wd.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Angels @ Seattle Mariners - Condensed - 20th July</name>
+<link>https://vidoza.net/lmc3e5e3k7rt.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Baltimore Orioles - Condensed - 20th July</name>
+<link>https://vidoza.net/f17lt3szb5fi.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ Pittsburgh Pirates - Condensed - 19th July</name>
+<link>https://vidoza.net/fg4r2qg0bh4p.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Mets @ San Francisco Giants - Condensed - 19th July</name>
+<link>https://vidoza.net/ja8zzc87dw1j.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Los Angeles Dodgers - Condensed - 19th July</name>
+<link>https://vidoza.net/xmp6azta69mv.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Angels @ Seattle Mariners - Condensed - 19th July</name>
+<link>https://vidoza.net/dawcro6915nl.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Baltimore Orioles - Condensed - 19th July</name>
+<link>https://vidoza.net/n2cx8c4xgy24.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 18th July</name>
+<link>https://vidoza.net/a03y32r0a4wx.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 18th July</name>
+<link>https://vidoza.net/r6oe2kyx7jo0.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tampa Bay Rays @ New York Yankees - Condensed - 18th July</name>
+<link>https://vidoza.net/xy8vmded2sgq.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Miami Marlins - Condensed - 18th July</name>
+<link>https://vidoza.net/q25yroeqo5ib.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Mets @ San Francisco Giants - Condensed - 18th July</name>
+<link>https://vidoza.net/habcja39wwox.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Philadelphia Phillies - Condensed - 18th July</name>
+<link>https://vidoza.net/r42xpouh1y2b.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Los Angeles Angels - Condensed - 18th July</name>
+<link>https://vidoza.net/9gq8pzne1j0w.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 17th July</name>
+<link>https://vidoza.net/0phaudvm395k.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 17th July</name>
+<link>https://vidoza.net/iw9vagl63fme.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Seattle Mariners @ Oakland Athletics - Condensed - 17th July</name>
+<link>https://vidoza.net/u66j92cll57m.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Miami Marlins - Condensed - 17th July</name>
+<link>https://vidoza.net/kwza58mv9e92.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Saint Louis Cardinals - Condensed - 17th July</name>
+<link>https://vidoza.net/vwf6qch3vzv9.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Philadelphia Phillies - Condensed - 17th July</name>
+<link>https://vidoza.net/ui5dw07thiam.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Los Angeles Angels - Condensed - 17th July</name>
+<link>https://vidoza.net/ziqnmqlocg37.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cincinnati Reds @ Chicago Cubs - Condensed - 17th July</name>
+<link>https://vidoza.net/r2l53td1dnpw.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 16th July</name>
+<link>https://vidoza.net/nafdmws5zj4b.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 16th July</name>
+<link>https://vidoza.net/yhgmryeg9aep.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tampa Bay Rays @ New York Yankees - Condensed - 16th July</name>
+<link>https://vidoza.net/gi3hgu39vvze.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Seattle Mariners @ Oakland Athletics - Condensed - 16th July</name>
+<link>https://vidoza.net/3kow83fe8q8e.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Miami Marlins - Condensed - 16th July</name>
+<link>https://vidoza.net/v7d6iyjmluv5.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Saint Louis Cardinals - Condensed - 16th July</name>
+<link>https://vidoza.net/e94z4qd2cehg.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Philadelphia Phillies - Condensed - 16th July</name>
+<link>https://vidoza.net/5s5a495sg5kz.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Los Angeles Angels - Condensed - 16th July</name>
+<link>https://vidoza.net/2t3noc8nz5bl.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cincinnati Reds @ Chicago Cubs - Condensed - 16th July</name>
+<link>https://vidoza.net/lo3n6p20rer3.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 15th July</name>
+<link>hhttps://vidoza.net/q8q22drg74zo.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 15th July</name>
+<link>https://vidoza.net/3n6gqzix4xnn.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tampa Bay Rays @ New York Yankees - Condensed - 15th July</name>
+<link>https://vidoza.net/wtsbw55t719b.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Saint Louis Cardinals - Condensed - 15th July</name>
+<link>https://vidoza.net/0ouvb4ie922m.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Philadelphia Phillies - Condensed - 15th July</name>
+<link>https://vidoza.net/kh5to8efh0zd.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Los Angeles Angels - Condensed - 15th July</name>
+<link>https://vidoza.net/l1xe3rpc1bmh.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cincinnati Reds @ Chicago Cubs - Condensed - 15th July</name>
+<link>https://vidoza.net/7b85bua9t07p.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 14th July</name>
+<link>https://vidoza.net/ufsp1bctuxsg.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals @ Philadelphia Phillies - Condensed - 14th July</name>
+<link>https://vidoza.net/eiq288g437lm.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ New York Yankees - Condensed - 14th July</name>
+<link>https://vidoza.net/olcgasel6ptc.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Seattle Mariners @ Los Angeles Angels - Condensed - 14th July</name>
+<link>https://vidoza.net/pvektgzujpx2.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Chicago Cubs - Condensed - 14th July</name>
+<link>https://vidoza.net/mfb7j1qbyr9u.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Boston Red Sox - Condensed - 14th July</name>
+<link>https://vidoza.net/lws9t0k183hn.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Texas Rangers - Condensed - 14th July</name>
+<link>https://vidoza.net/612i9qi1w2cf.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals @ Philadelphia Phillies - Condensed - 13th July</name>
+<link>https://vidoza.net/u05r1qalzylg.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ New York Yankees - Condensed - 13th July</name>
+<link>https://vidoza.net/7ix7c1wexjj8.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Seattle Mariners @ Los Angeles Angels - Condensed - 13th July</name>
+<link>https://vidoza.net/jwwgmbbho0rx.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Chicago Cubs - Condensed - 13th July</name>
+<link>https://vidoza.net/b3v0il4ppx8y.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Boston Red Sox - Condensed - 13th July</name>
+<link>https://vidoza.net/n2jbvhoy6ixt.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Texas Rangers - Condensed - 13th July</name>
+<link>https://rapidvid.to/v/G5012GKXVE</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Detroit Tigers @ Kansas City Royals - 13th July</name>
+<link>https://rapidvid.to/v/G500O998JK</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 12th July</name>
+<link>https://vidoza.net/zo56k27bi1zl.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals @ Philadelphia Phillies - Condensed - 12th July</name>
+<link>https://vidoza.net/tjoxcycacmli.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ New York Yankees - Condensed - 12th July</name>
+<link>https://vidoza.net/efpu7fd3s6t3.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Seattle Mariners @ Los Angeles Angels - Condensed - 12th July</name>
+<link>https://vidoza.net/m16b1sjau3i6.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Chicago Cubs - Condensed - 12th July</name>
+<link>https://vidoza.net/5mykhfidsyki.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Dodgers @ Boston Red Sox - Condensed - 12th July</name>
+<link>https://vidoza.net/ssa7d3jwj91z.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Texas Rangers - Condensed - 12th July</name>
+<link>https://vidoza.net/r3wduv30b16i.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cincinnati Reds vs Colorado Rockies - 12th July</name>
+<link>https://vidoza.net/7ticszja5396.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>USPBL - All Star Game - 11th July</name>
+<link>https://rapidvid.to/v/G4XNXU2GJB</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>MLB Play Ball - Season 4 - Episode 8 - 11th July</name>
+<link>https://vidoza.net/j2cruih1fv70.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ Texas Rangers - Condensed - 11th July</name>
+<link>https://vidoza.net/za459nhv9sie.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>All Star Game - 9th July</name>
+<link>https://rapidvid.to/v/G4VBUF37VV</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>T-Mobile Home Run Derby - 8th July</name>
+<link>https://vidoza.net/6jhmnmdtlkdb.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>All Star Futures Game Team World vs Team USA - 7th July</name>
+<link>https://www.rapidvideo.com/v/G4T2O2WEUD</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Los Angeles Dodgers - Condensed - 7th July</name>
+<link>https://vidoza.net/cul1xofugt5p.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ San Francisco Giants - Condensed - 7th July</name>
+<link>https://vidoza.net/1s6rbkvfw5mu.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ New York Mets - Condensed - 7th July</name>
+<link>https://vidoza.net/vamv9prqc5vg.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Milwaukee Brewers @ Pittsburgh Pirates - Condensed - 7th July</name>
+<link>https://vidoza.net/uedvhtkq4nad.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Kansas City Royals @ Washington Nationals - Condensed - 7th July</name>
+<link>https://vidoza.net/mwmxfu38j0rk.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Chicago White Sox - Condensed - 7th July</name>
+<link>https://vidoza.net/3i7oxhj7zs1m.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 6th July</name>
+<link>https://vidoza.net/fnh7k53z7wsb.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Baltimore Orioles @ Toronto Blue Jays - Condensed - 6th July</name>
+<link>https://vidoza.net/b7f09l4gql2x.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Detroit Tigers - Condensed - 6th July</name>
+<link>https://vidoza.net/sdyyhgbm6pya.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Chicago White Sox - Condensed - 6th July</name>
+<link>https://vidoza.net/4dhm1ze91vew.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Kansas City Royals @ Washington Nationals - Condensed - 6th July</name>
+<link>https://vidoza.net/q0l8vocre90a.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Milwaukee Brewers @ Pittsburgh Pirates - Condensed - 6th July</name>
+<link>https://vidoza.net/br6roqgz9v3e.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ New York Mets - Condensed - 6th July</name>
+<link>https://vidoza.net/wsn8c78x9yyj.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ San Francisco Giants - Condensed - 6th July</name>
+<link>https://vidoza.net/41juycia70vj.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Los Angeles Dodgers - Condensed - 6th July</name>
+<link>https://vidoza.net/vohodtyou78a.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Los Angeles Dodgers - Condensed - 4th July</name>
+<link>https://vidoza.net/nz450fnrj514.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Seattle Mariners - Condensed - 4th July</name>
+<link>https://vidoza.net/58gzv648igql.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ Atlanta Braves - 4th July</name>
+<link>https://www.rapidvideo.com/v/G4PME22NJL</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Yankees @ Tampa Bay Rays - 4th July</name>
+<link>https://www.rapidvideo.com/v/G4PMA1Z8V8</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Los Angeles Angels @ Texas Rangers - 4th July</name>
+<link>https://www.rapidvideo.com/v/G4PM2PDYBJ</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Detroit Tigers @ Chicago White Sox - Condensed - 4th July</name>
+<link>https://www.rapidvideo.com/v/G4PLTNIBDW</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Pittsburgh Pirates - Condensed - 4th July</name>
+<link>https://vidoza.net/2sr4lmwe4sk8.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Toronto Blue Jays - Condensed - 4th July</name>
+<link>https://vidoza.net/5hr2eprquhjo.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Washington Nationals - 4th July</name>
+<link>https://vidoza.net/2ce685nhcl4k.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 3rd July</name>
+<link>https://vidoza.net/6rztk3284rtr.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ San Diego Padres - Condensed - 3rd July</name>
+<link>https://streamango.com/f/ndaebfntneeamrcl/MLB_San_Francisco_Giants_San_Diego_Padres_2019_07_03_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Seattle Mariners - Condensed - 3rd July</name>
+<link>https://vidoza.net/bw9vymktf6m0.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Yankees @ New York Mets - Condensed - 3rd July</name>
+<link>https://vidoza.net/ddrp9bx3o0v1.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Detroit Tigers @ Chicago White Sox - Condensed - 3rd July</name>
+<link>https://vidoza.net/lztbe1s08z3g.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Pittsburgh Pirates - Condensed - 3rd July</name>
+<link>https://vidoza.net/y51mgcbpzxq2.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Toronto Blue Jays - Condensed - 3rd July</name>
+<link>https://vidoza.net/fdn5crx5ky2z.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 2nd July</name>
+<link>https://vidoza.net/ng40dpu1tfzq.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ San Diego Padres - Condensed - 2nd July</name>
+<link>https://vidoza.net/pu7u3qm17wrj.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ Seattle Mariners - Condensed - 2nd July</name>
+<link>https://vidoza.net/a5e7gvydl0a1.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Yankees @ New York Mets - Condensed - 2nd July</name>
+<link>https://vidoza.net/hg01irg5bgp3.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Pittsburgh Pirates - Condensed - 2nd July</name>
+<link>https://vidoza.net/emvwii052lux.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Toronto Blue Jays - Condensed - 2nd July</name>
+<link>https://vidoza.net/il21v3t1cp2q.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 1st July</name>
+<link>https://vidoza.net/tt0juttesaj9.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ San Diego Padres - Condensed - 1st July</name>
+<link>https://vidoza.net/sgrh52lawalg.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Kansas City Royals @ Toronto Blue Jays - Condensed - 1st July</name>
+<link>https://vidoza.net/y7bja4pza3lr.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Pittsburgh Pirates - Condensed - 1st July</name>
+<link>https://vidoza.net/60bktdlt20og.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 30th June</name>
+<link>https://vidoza.net/jsysndhck0x5.html/link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals @ Detroit Tigers - Condensed - 30th June</name>
+<link>https://vidoza.net/v1mpa6x3d7wj.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ San Diego Padres - Condensed - 30th June</name>
+<link>https://vidoza.net/tnqh1qathl4i.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Oakland Athletics @ LA Angels - Condensed - 30th June</name>
+<link>https://vidoza.net/iuonnr4kxtfo.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Yankees @ Boston Red Sox - Condensed - 30th June</name>
+<link>https://vidoza.net/utfgis30hze3.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Kansas City Royals @ Toronto Blue Jays - Condensed - 30th June</name>
+<link>https://vidoza.net/3awk0c70io0e.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Cincinnati Reds - Condensed - 30th June</name>
+<link>https://vidoza.net/w3dt7duxaanc.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks @ San Francisco Giants - Condensed - 30th June</name>
+<link>https://www.rapidvideo.com/v/G4KX2CGR7J</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU7NMNON</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals @ Detroit Tigers - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU6F8CLO</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ San Diego Padres - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU5X21NJ</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Oakland Athletics @ LA Angels - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU785GLW</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Yankees @ Boston Red Sox - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU53DP0F</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Kansas City Royals @ Toronto Blue Jays - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU6W80F5</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Cincinnati Reds - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU614FWB</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks @ San Francisco Giants - Condensed - 29th June</name>
+<link>https://www.rapidvideo.com/v/G4JU5N61UI</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals @ Detroit Tigers - Condensed - 28th June</name>
+<link>https://vidoza.net/tl6hejj4ovvf.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals @ San Diego Padres - Condensed - 28th June</name>
+<link>https://vidoza.net/97g1cvfwl236.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Oakland Athletics @ LA Angels - Condensed - 28th June</name>
+<link>https://vidoza.net/qerutm0u4wx9.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Kansas City Royals @ Toronto Blue Jays - Condensed - 28th June</name>
+<link>https://vidoza.net/grqtqafend8j.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs @ Cincinatti Reds - Condensed - 28th June</name>
+<link>https://vidoza.net/fe74hec5ayum.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves @ NY Mets - 28th June</name>
+<link>https://www.rapidvideo.com/v/G4IOCUCUSM</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks @ San Francisco Giants - Condensed - 28th June</name>
+<link>https://streamango.com/f/lcnpdbkcobealqko/MLB_Arizona_Diamondbacks_San_Francisco_Giants_2019_06_28_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 27th June</name>
+<link>https://www.rapidvideo.com/v/G4HIO4X18F</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Houston Astros - Condensed - 27th June</name>
+<link>https://www.rapidvideo.com/v/G4HINV6OTG</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Oakland Athletics @ LA Angels - Condensed - 27th June</name>
+<link>https://www.rapidvideo.com/v/G4HIORC1QC</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets @ Philadelphia Phillies - Condensed - 27th June</name>
+<link>https://www.rapidvideo.com/v/G4HIOIE01D</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks @ San Francisco Giants - Condensed - 27th June</name>
+<link>https://www.rapidvideo.com/v/G4HIP1L1EB</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ NY Yankees - 26th June</name>
+<link>https://www.rapidvideo.com/v/G4GDQM2SMX</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Texas Rangers @ Detroit Tigers - 26th June</name>
+<link>https://www.rapidvideo.com/v/G4GDMOK2KW</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets @ Philadelphia Phillies - Condensed - 26th June</name>
+<link>https://www.rapidvideo.com/v/G4GCO35EXY</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago White Sox @ Boston Red Sox - Condensed - 26th June</name>
+<link>https://www.rapidvideo.com/v/G4GCMLO3GM</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves @ Chicago Cubs - 26th June</name>
+<link>https://www.rapidvideo.com/v/G4GDPWYHQC</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates @ Houston Astros - Condensed - 25th June</name>
+<link>https://www.rapidvideo.com/v/G4F0BRINH6</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets @ Philadelphia Phillies - Condensed - 25th June</name>
+<link>https://www.rapidvideo.com/v/G4F0BEVZT7</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Colorado Rockies @ San Francisco Giants - 25th June</name>
+<link>https://www.rapidvideo.com/v/G4F0GIXLUZ</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cincinnati Reds @ LA Angels - 25th June</name>
+<link>https://www.rapidvideo.com/v/G4F0ENKW3A</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago White Sox @ Boston Red Sox - 25th June</name>
+<link>https://www.rapidvideo.com/v/G4F0953ERX</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 24th June</name>
+<link>https://vidoza.net/2vrldv7fmjjy.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ NY Yankees - Condensed - 24th June</name>
+<link>https://vidoza.net/6pc05bzu3okn.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets @ Philadelphia Phillies - Condensed - 24th June</name>
+<link>https://vidoza.net/gf6y8sj8cbwt.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Colorado Rockies @ San Francisco Giants - 24th June</name>
+<link>https://streamango.com/f/apeclrptnnbfcldd/MLB_Colorado_Rockies_San_Francisco_Giants_24_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago White Sox @ Boston Red Sox - 24th June</name>
+<link>https://www.rapidvideo.com/v/G4E1HRI681</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves @ Chicago Cubs - 24th June</name>
+<link>https://www.rapidvideo.com/v/G4E1AOQP0L</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 23rd June</name>
+<link>https://www.rapidvideo.com/v/G4CXGJ9E98</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ Arizona Diamondbacks - Condensed - 23rd June</name>
+<link>https://www.rapidvideo.com/v/G4CXHIT6VL</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Pittsburgh Pirates - Condensed - 23rd June</name>
+<link>https://streamango.com/f/pdcfkabdbrnaetnd/MLB_San_Diego_Padres_Pittsburgh_Pirates_2019_06_23_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves @ Washington Nationals - Condensed - 23rd June</name>
+<link>https://streamango.com/f/odtetdenpqkfrfeq/MLB_Atlanta_Braves_Washington_Nationals_2019_06_23_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins @ Philadelphia Phillies - 23rd June</name>
+<link>https://streamango.com/f/fmcpootefrlpcnfo/MLB_23_06_2019_Miami_Marlins_Philadelphia_Phillies_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 22nd June</name>
+<link>https://streamango.com/f/rfoddtcotqmspkso/MLB_Toronto_Blue_Jays_Boston_Red_Sox_2019_06_22_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ Arizona Diamondbacks - Condensed - 22nd June</name>
+<link>https://www.rapidvideo.com/v/G4CX75BNDF</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Pittsburgh Pirates - Condensed - 22nd June</name>
+<link>https://www.rapidvideo.com/v/G4CX6NLUP0</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 22nd June</name>
+<link>https://www.rapidvideo.com/v/G4CX61U7UX</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves @ Washington Nationals - Condensed - 22nd June</name>
+<link>https://www.rapidvideo.com/v/G4CX7ED9EP</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Baltimore Orioles @ Seattle Mariners - 22nd June</name>
+<link>https://www.rapidvideo.com/v/G4CXGTH1UU</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays @ Boston Red Sox - Condensed - 21st June</name>
+<link>https://www.rapidvideo.com/v/G4CX329YJ1</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ Arizona Diamondbacks - Condensed - 21st June</name>
+<link>https://www.rapidvideo.com/v/G4CX2Q70GM</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres @ Pittsburgh Pirates - Condensed - 21st June</name>
+<link>https://www.rapidvideo.com/v/G4CX2E6Q84</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 21st June</name>
+<link>https://streamango.com/f/tmmlpakefnbbenmd/MLB_Quick_Pitch_Recap_2019_06_21_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves @ Washington Nationals - Condensed - 21st June</name>
+<link>https://streamango.com/f/pnfaooklqntllnkf/MLB_Atlanta_Braves_Washington_Nationals_2019_06_21_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cincinnati Reds @ Milwaukee Brewers - 21st June</name>
+<link>https://streamcherry.com/f/feabemrnefdkbepl/MLB_21_06_2019_Cincinnati_Reds_Milwaukee_Brewers_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ LA Dodgers - Condensed - 20th June</name>
+<link>https://www.rapidvideo.com/v/G49E77R74O</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>MLB - Quick Pitch Recap - 20th June</name>
+<link>https://www.rapidvideo.com/v/G49E7DM5M9</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies @ Washington Nationals - Condensed - 20th June</name>
+<link>https://www.rapidvideo.com/v/G49E6QDL5Z</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>LA Angels @ Toronto Blue Jays - Condensed - 20th June</name>
+<link>https://www.rapidvideo.com/v/G49E66P1Q7</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros @ NY Yankees - 20th June</name>
+<link>https://streamango.com/f/fbkalcoqoeeallqr/MLB_Houston_Astros_NY_Yankees_20_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tampa Bay Rays @ NY Yankees - 19th June</name>
+<link>https://streamango.com/f/sbmdlasoefenrtef/MLB_Tampa_Bay_Rays_New_York_Yankees_19_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants @ LA Dodgers - 19th June</name>
+<link>https://streamango.com/f/cqcasqldqnfdfmlf/MLB_San_Francisco_Giants_LA_Dodgers_19_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets @ Atlanta Braves - 19th June</name>
+<link>https://streamango.com/f/cdofnmessscdntll/MLB_New_York_Mets_Atlanta_Braves_19_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>LA Angels @ Toronto Blue Jays - Condensed - 19th June</name>
+<link>https://streamango.com/f/nldpbdssffsebrnk/MLB_LA_Angels_Toronto_Blue_Jays_2019_06_19_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Detroit Tigers @ Pittsburgh Pirates - 19th June</name>
+<link>https://streamango.com/f/kbcarpfocblmbrne/MLB_Detroit_Tigers_Pittsburgh_Pirates_19_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox @ Minnesota Twins - 19th June</name>
+<link>https://streamango.com/f/lnpqcncooqoeektf/MLB_Boston_Red_Sox_Minnesota_Twins_19_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>White Sox @ Cubs - 18th June</name>
+<link>https://streamango.com/f/cqoarcbqmackqrop/MLB_White_Sox_Cubs_2019_06_18_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Sox @ Twins - 18th June</name>
+<link></link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Rockies @ Diamondbacks - 18th June</name>
+<link>https://streamango.com/f/aspafqcnblatprqn/MLB_Rockies_Diamondbacks_18_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Giants @ Dodgers - 18th June</name>
+<link>https://streamango.com/f/ebmordekcnfcpden/MLB_Giants_Dodgers_2019_06_18_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Bay Rays @ Yankees - 18th June</name>
+<link>https://streamango.com/f/cdnfrkqlmmomprbs/MLB_Bay_Rays_Yankees_18_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Angels @ Blue Jays - 18th June</name>
+<link>https://streamango.com/f/fkdbnarqmfpqsdkb/MLB_Angels_Blue_Jays_18_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Texans @ Reds - 17th June</name>
+<link>https://www.rapidvideo.com/v/G45WNA35YU</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Red Sox @ Twins - 17th June</name>
+<link>https://www.rapidvideo.com/v/G45WAVXKAV</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Rays @ Yankees - 17th June</name>
+<link>https://www.rapidvideo.com/v/G45W6GAAY5</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Indiana @ Rangers - 17th June</name>
+<link>https://streamango.com/f/qktkdcbsqtkpetql/MLB_Giants_Dodgers_17_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Giants @ Dodgers - 17th June</name>
+<link>https://streamango.com/f/qktkdcbsqtkpetql/MLB_Giants_Dodgers_17_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Brewers @ Padres - 17th June</name>
+<link>https://streamango.com/f/adlklrqtkpaeqnro/MLB_Brewers_Padres_17_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Angels @ Blue Jays - 17th June</name>
+<link>https://streamango.com/f/attbknclnnoaofob/MLB_Angels_Blue_Jays_17_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Astros - 16th June</name>
+<link>https://streamango.com/f/cbaqleqokflprkpf/MLB_Blue_Jays_Astros_2019_06_16_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Dodgers - 16th June</name>
+<link>https://streamango.com/f/rrnckcpooeprfbls/MLB_Cubs_Dodgers_2019_06_16_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Mariners @ Athletics - 16th June</name>
+<link>https://streamango.com/f/pqmncfeslfnrqemk/MLB_Mariners_Athletics_2019_06_16_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Marlins - 16th June</name>
+<link>https://streamango.com/f/sobkaspnbbkmortf/MLB_Pirates_Marlins_2019_06_16_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>MLB - Quick Pitch Recap - 16th June</name>
+<link>https://streamango.com/f/asfefqlmplfdnlbs/MLB_Quick_Pitch_Recap_2019_06_16_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Dodgers - 15th June</name>
+<link>https://streamango.com/f/rksptoobfotrntrm/MLB_Cubs_Dodgers_2019_06_15_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Mariners @ Athletics - 15th June</name>
+<link>https://streamango.com/f/koqeetcfonerbkft/MLB_Mariners_Athletics_2019_06_15_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Marlins - 15th June</name>
+<link>https://streamango.com/f/fflftecnkpmtbtpm/MLB_Pirates_Marlins_2019_06_15_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 15th June</name>
+<link>https://streamango.com/f/pklkflactfbdftrl/MLB_Quick_Pitch_Recap_2019_06_15_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Astros - 14th June</name>
+<link>https://streamango.com/f/lsaospmmsfaalfeo/MLB_Blue_Jays_Astros_2019_06_14_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Mariners @ Athletics - 14th June</name>
+<link>https://streamango.com/f/fldcrstqqectmspr/MLB_Mariners_Athletics_2019_06_14_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Marlins - 14th June</name>
+<link>https://streamango.com/f/ecnbqlafrdafoelr/MLB_Pirates_Marlins_2019_06_14_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Orioles - 13th June</name>
+<link>https://streamango.com/f/pttakbepsqdtftnq/MLB_Blue_Jays_Orioles_2019_06_13_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Braves - 13th June</name>
+<link>https://streamango.com/f/neodfcnmcopotkct/MLB_Pirates_Braves_2019_06_13_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Orioles - 12th June</name>
+<link>https://streamango.com/f/mbednolmmrqsekel/MLB_Blue_Jays_Orioles_2019_06_12_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Braves - 12th June</name>
+<link>https://streamango.com/f/qpeosapclkclftce/MLB_Pirates_Braves_2019_06_12_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Rangers @ Red Sox - 12th June</name>
+<link>https://streamango.com/f/toeddmqlddldpmao/MLB_Rangers_Red_Sox_2019_06_12_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>MLB - Extra - 12th June</name>
+<link>https://streamango.com/f/nbbltfqsfpaleero/MLBExtra_12_06_2019_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Rangers @ Red Sox - 11th June</name>
+<link>https://streamango.com/f/olnebdntnpdafopm/MLB_Rangers_Red_Sox_2019_06_11_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Braves - 11th June</name>
+<link>https://streamango.com/f/patoceeopqtafbpc/MLB_Pirates_Braves_2019_06_11_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Nationals @ White Sox - 11th June</name>
+<link>https://streamango.com/f/addnkekrlbetdrkp/MLB_Nationals_White_Sox_2019_06_11_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays@ Orioles - 11th June</name>
+<link>https://streamango.com/f/qsennaqndmanaptd/MLB_Blue_Jays_Orioles_2019_06_11_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Rangers @ Red Sox - 10th June</name>
+<link>https://streamango.com/f/mebqrlqeoeptbmqp/MLB_Rangers_Red_Sox_2019_06_10_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Braves - 10th June</name>
+<link>https://streamango.com/f/mnetmkpppkopncbp/MLB_Pirates_Braves_2019_06_10_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Braves - 10th June</name>
+<link>https://streamango.com/f/mnetmkpppkopncbp/MLB_Pirates_Braves_2019_06_10_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Nationals @ White Sox - 10th June</name>
+<link>https://streamango.com/f/cfdrsqettaeeoekf/MLB_Nationals_White_Sox_2019_06_10_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Quick Pitch Recap - 9th June</name>
+<link>https://streamango.com/f/nkfntebtdrnrccco/MLB_Quick_Pitch_Recap_2019_06_09_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Play Ball Season 4 - #2 Honoring Jackie</name>
+<link>https://streamango.com/f/sfbeftferrmlbbqt/MLB_Play_Ball_Season_4_2_Honoring_Jackie_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Diamondbacks @ Blue Jays - 8th June</name>
+<link>https://www.rapidvideo.com/v/G3VG88HZWX</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Dodgers @ Giants - 8th June</name>
+<link>https://streamango.com/f/msctcrdlespmbnll/MLB_Dodgers_Giants_2019_06_08_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Reds @ Phillies - 8th June</name>
+<link>https://streamango.com/f/mmmnrkcmbmemqcca/MLB_Reds_Phillies_2019_06_08_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Reds @ Phillies - 7th June</name>
+<link>https://streamango.com/f/pdemmfcsknbaqpcd/MLB_Reds_Phillies_2019_06_07_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Dodgers @ Giants - 7th June</name>
+<link>https://streamango.com/f/sfndfoopqkektfqd/MLB_Dodgers_Giants_2019_06_07_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Diamondbacks @ Blue Jays - 7th June</name>
+<link>https://streamango.com/f/tnknlrnltftodsbm/MLB_Diamondbacks_Blue_Jays_2019_06_07_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cardinals @ Cubs - 7th June</name>
+<link>https://streamango.com/f/mldmpapfdrtqfmfb/MLB_Cardinals_Cubs_2019_06_07_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Braves @ Pirates - 6th June</name>
+<link>https://streamango.com/f/aafkfpdllartrtcp/MLBBraves_Pirates_2019_06_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Yankees @ Blue Jays - 6th June</name>
+<link>https://streamango.com/f/qkrcsltlcsortemr/MLB_Yankees_Blue_Jays_2019_06_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Reds @ Cardinals - 6th June</name>
+<link>https://streamango.com/f/tbtmqlmrfkderroc/MLB_Reds_Cardinals_2019_06_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Yankees @ Blue Jays - 5th June</name>
+<link>https://streamango.com/f/plrsacftoaffmbqc/MLB_Yankees_Blue_Jays_2019_06_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>White Sox @ Nationals - 5th June</name>
+<link>https://streamango.com/f/atftbtblkfdecdrq/MLB_White_Sox_Nationals_2019_06_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Braves @ Pirates - 5th June</name>
+<link>https://streamango.com/f/tatbrrdldotafmsf/MLB_Braves_Pirates_2019_06_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Giants @ Mets - 5th June</name>
+<link>https://streamango.com/f/ltfondbmrsdtknpo/MLB_Giants_Mets_05_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>White Sox @ Nationals - 4th June</name>
+<link>https://streamango.com/f/temnnoppbbrbtoda/MLB_White_Sox_Nationals_2019_06_04_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Reds @ Cardinals - 4th June</name>
+<link>https://streamango.com/f/tcarkdkcafqepfqs/MLB_Reds_Cardinals_2019_06_04_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Braves @ Pirates - 4th June</name>
+<link>https://streamango.com/f/mekkqktblamassrd/MLB_Braves_Pirates_2019_06_04_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Yankees @ Blue Jays - 4th June</name>
+<link>https://streamango.com/f/oplkqlpopekmfklt/MLBYankees_Blue_Jays_2019_06_04_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Dodgers @ Diamondbacks - 3rd June</name>
+<link>https://streamango.com/f/slkbofsfksmmqlpt/MLB_Dodgers_Diamondbacks_03_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Angels @ Cubs - 3rd June</name>
+<link>https://streamango.com/f/qctokmpcsndkpndt/MLB_Angels_Cubs_03_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Phillis @ Padres - 3rd June</name>
+<link>https://streamango.com/f/nlkppedpomblmokc/MLB_2019_Philadelphia_Phillis_vs_San_Diego_Padres_03_06_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Red Sox @ Yankees - 2nd June</name>
+<link>https://streamango.com/f/qnkqockrnkpormfk/MLB_Red_Sox_Yankees2019_06_02_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Red Sox @ Yankees - 2nd June</name>
+<link>https://streamango.com/f/qnkqockrnkpormfk/MLB_Red_Sox_Yankees2019_06_02_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Cardinals - 2nd June</name>
+<link>https://streamango.com/f/fsprqpomdpboscqo/MLB_Cubs_Cardinals_2019_06_02_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Rockies - 2nd June</name>
+<link>https://streamango.com/f/ormkcnporataaqnp/MLB_Blue_Jays_Rockies_2019_06_02_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Nationals @ Reds - 2nd June</name>
+<link>https://streamango.com/f/emnlsbebekfaoool/MLB_Nationals_Reds_2019_06_02_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tigers @ Braves - 1st June</name>
+<link>https://streamango.com/f/sdatrcotlbesltme/MLBTigers_Braves0106_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Reds @ Jaguares - 1st June</name>
+<link>https://streamango.com/f/qdddaabatemeocan/RedsJaguares01_06_19_mkv_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Jays @ Rockies - 1st June</name>
+<link>https://streamango.com/f/efqskdctsrotsqsk/MLBJays_Rockies20190601_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Nationals @ Reds - 1st June</name>
+<link>https://streamango.com/f/rfbasocccdmcoqad/MLBNationals_Reds20190601_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Sox @ Yankees - 1st June</name>
+<link>https://streamango.com/f/dqdolfbqmplqlrqd/MLBSox_Yankees20190601720p_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Cardinals - 1st June</name>
+<link>https://streamango.com/f/rebdepkqaqaeqfpd/MLBCubs_Cardinals20190601_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Cardinals - 1st June</name>
+<link>https://streamango.com/f/rebdepkqaqaeqfpd/MLBCubs_Cardinals20190601_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Reds - 29th May</name>
+<link>https://streamango.com/f/nekdtmtbckodcekd/MLB_Pirates_Reds_2019_05_29_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Padres @ Yankees - 29th May</name>
+<link>https://streamango.com/f/tfdtnpfmptntopfl/MLB_PadresvsYankees_29_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Nationals @ Braves - 29th May</name>
+<link>https://streamango.com/f/dmopamasnnroebne/MLB_Nationals_vs_Braves_29_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Jays @ Rays - 29th May</name>
+<link>https://streamango.com/f/stfkpbdlkckrlmea/MLB_Jays_Rays2019_05_29_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Indians @ Red Sox - 29th May</name>
+<link>https://streamango.com/f/dmlcqaobnpamdfkt/MLB_Indians_vs_Red_Sox_29_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Giants @ Marlins - 29th May</name>
+<link>https://streamango.com/f/bpcndrseaqpnnbfa/MLB_Giants_vs_Marlins_29_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Astros - 29th May</name>
+<link>https://streamango.com/f/qdamooddlsaapkol/MLB_Cubs_Astros_2019_05_29_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Angels @ Athletics - 29th May</name>
+<link>https://streamango.com/f/aapckolcqefeoocs/MLB_Angels_Athletics_2019_05_29_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Rangers @ Mariners - 28th May</name>
+<link>https://streamango.com/f/enafedfmrocklrod/MLB_Rangers_Mariners_28_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Reds - 28th May</name>
+<link>https://streamango.com/f/klmdcpatpbmfqtel/MLB_Pirates_Reds_2019_05_28_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Padres @ Yankees - 28th May</name>
+<link>https://streamango.com/f/mkknnpoqbqtlqfts/MLB_Padres_Yankees_28_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Nationals @ Braves - 28th May</name>
+<link>https://streamango.com/f/fmsaelqblealckpq/MLB_Nationals_Braves_28_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Rays - 28th May</name>
+<link>https://streamango.com/f/tnrstefsqfrrqaqk/MLB_BlueJays_Rays_2019_05_28_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Angels @ Athletics - 28th May</name>
+<link>https://streamango.com/f/obnknbfpstlqcslf/MLB_Angels_Athletics_2019_05_28_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Astros - 28th May</name>
+<link>https://streamango.com/f/kataqtbbenrcdlfc/MLB_2019-05-28_Cubs_Astros_mkv</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Royals @ White Sox - 28th May</name>
+<link>https://streamango.com/f/qemqbkqobcoetaal/MLB_2019_Royals_White_Sox_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Marlins @ Nationals - 27th May</name>
+<link>https://streamango.com/f/ctknabomcsrlepbf/MLB_2019_Marlins_Nationals_27_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Indians @ Red Sox - 27th May</name>
+<link>https://streamango.com/f/msfotqcdroapmmck/MLB_2019-05-27_Indians_Red_Sox_mkv</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cubs @ Astros - 27th May</name>
+<link>https://streamango.com/f/osstpanffecasted/MLB_Chicago_Cubs_Houston_Astros_2019_05_27_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Mets @ Dodgers - 27th May</name>
+<link>https://streamango.com/f/aqlfqpptbaanronc/MLB_Mets_Dodgers_27_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Padres @ Yankees - 27th May</name>
+<link>https://streamcherry.com/f/crmnopqstltksemq/MLB_Padres_vs_Yankees_27_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pirates @ Reds - 27th May</name>
+<link>https://streamango.com/f/qrfbeqnltmepsale/MLB_Pittsburgh_Pirates_Cincinatti_Reds_2019_05_27_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Blue Jays @ Rays - 27th May</name>
+<link>https://vidoza.net/dkwss9kckno1.html</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks vs San Francisco Giants - 26th May</name>
+<link>https://streamango.com/f/arcscptdmaeflopb/MLB_Arizona_Diamondbacks_San_Francisco_Giants_2019_05_26_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox vs Houston Astros - 26th May</name>
+<link>https://streamango.com/f/sqttqrktkrremtfm/MLB_Boston_Red_Sox_Houston_Astros_2019_05_26_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>LA Dodgers vs Pittsburgh Pirates - 26th May</name>
+<link>https://streamango.com/f/qkflpqqcemsfmmfk/MLB_Los_Angeles_Dodgers_Pittsburgh_Pirates_2019_05_26_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres vs Toronto Blue Jays - 26th May</name>
+<link>https://streamango.com/f/erornmsrstkfdodn/MLB_San_Diego_Padres_Toronto_Blue_Jays_2019_05_26_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks vs San Francisco Giants - 25th May</name>
+<link>https://streamango.com/f/cmtqesnsalpftnck/MLB_Arizona_Diamondbacks_San_Francisco_Giants_2019_05_25_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>LA Dodgers vs Pittsburgh Pirates - 25th May</name>
+<link>https://streamcherry.com/f/knmepamrlcamrsrk/MLB_Los_Angeles_Dodgers_Pittsburgh_Pirates_2019_05_25_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres vs Toronto Blue Jays - 25th May</name>
+<link>https://streamango.com/f/rkanfkrfddkbrape/MLB_San_Diego_Padres_Toronto_Blue_Jays_2019_05_25_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Arizona Diamondbacks vs San Francisco Giants - 24th May</name>
+<link>https://streamango.com/f/npbmrqefetssblmn/MLB_Arizona_Diamondbacks_San_Francisco_Giants_2019_05_24_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox vs Houston Astros - 24th May</name>
+<link>https://streamango.com/f/aesfqqedeemtadns/MLB_Boston_Red_Sox_Houston_Astros_2019_05_24_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>LA Dodgers vs Pittsburgh Pirates - 24th May</name>
+<link>https://streamango.com/f/lclfndppeooqfpcf/MLB_Los_Angeles_Dodgers_Pittsburgh_Pirates_2019_05_24_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres vs Toronto Blue Jays - 24th May</name>
+<link>https://streamango.com/f/amrslmsptbqmcrns/MLB_San_Diego_Padres_Toronto_Blue_Jays_2019_05_24_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals vs New York Mets - 23rd May</name>
+<link>https://streamango.com/f/aqnfpqrrbcssoqal/MLB_Washington_Nationals_New_York_Mets_2019_05_23_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies vs Chicago Cubs - 23rd May</name>
+<link>https://streamango.com/f/etcabncdrdnnnens/MLB_Philadelphia_Phillies_Chicago_Cubs_2019_05_23_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox vs Toronto Blue Jays - 23rd May</name>
+<link>https://streamango.com/f/lccccblnprtellna/MLB_Boston_Red_Sox_Toronto_Blue_Jays_2019_05_23_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves vs San Francisco Giants - 23rd May</name>
+<link>https://streamango.com/f/laenmrffmnssrqsc/MLB_Atlanta_Braves_San_Francisco_Giants_2019_05_23_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals vs New York Mets - 22nd May</name>
+<link>https://streamango.com/f/kbfnfsqpqdlndplf/MLB_Washington_Nationals_New_York_Mets_2019_05_22_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Miami Marlins vs Detroit Tigers - 22nd May</name>
+<link>https://streamango.com/f/ctddmmbokdotraqn/MLB_Miami_Marlins_vs_Detroit_Tigers_22_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox vs Toronto Blue Jays - 22nd May</name>
+<link>https://streamango.com/f/asaprtlskfcfmnka/MLB_Boston_Red_Sox_Toronto_Blue_Jays_2019_05_22_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves vs San Francisco Giants - 22nd May</name>
+<link>https://streamango.com/f/cfdsstnedrqbpobk/MLB_Atlanta_Braves_San_Francisco_Giants_2019_05_22_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tampa Bay Rays vs Los Angeles Dodgers - 21st May</name>
+<link>https://streamango.com/f/lbobrabfokcrtkta/Tampa_Bay_Rays_Los_Angeles_Dodgers_21_05_19_mkv</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals vs New York Mets - 21st May</name>
+<link>https://streamango.com/f/pdsmnlnlttsmtocb/MLB_Washington_Nationals_vs_New_York_Mets_21_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Seattle Mariners vs Texas Rangers - 21st May</name>
+<link>https://streamango.com/f/srndbbprsrqflfct/MLB_Seattle_Mariners_vs_Texas_Rangers_21_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies vs Chicago Cubs - 21st May</name>
+<link>https://streamango.com/f/dmqckedpeafdqdee/MLB_Philadelphia_Phillies_Chicago_Cubs_2019_05_21_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Yankees vs Baltimore Oriolers - 21st May</name>
+<link>https://streamango.com/f/sbbomqbmsrqbnfao/MLB_New_York_Yankees_vs_Baltimore_Oriolers_21_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox vs Toronto Blue Jays - 21st May</name>
+<link>https://streamango.com/f/aefabkpbaafmefps/MLB_Boston_Red_Sox_Toronto_Blue_Jays_2019_05_21_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves vs San Francisco Giants - 21st May</name>
+<link>https://streamango.com/f/mkeokeqpopebklql/MLB_Atlanta_Braves_vs_San_Francisco_Giants_21_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Washington Nationals vs New York Mets - 20th May</name>
+<link>https://streamango.com/f/rdpfdafmsblqcrco/MLB_Washington_Nationals_New_York_Mets_2019_05_20_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Philadelphia Phillies vs Chicago Cubs - 20th May</name>
+<link>https://streamango.com/f/kscbcrcpofkacota/MLB_Philadelphia_Phillies_Chicago_Cubs_2019_05_20_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Atlanta Braves vs San Francisco Giants - 20th May</name>
+<link>https://streamango.com/f/eekeqskckpboctbp/MLB_Atlanta_Braves_San_Francisco_Giants_2019_05_20_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Boston Red Sox vs Toronto Blue Jays - 20th May</name>
+<link>https://streamango.com/f/lolsktebpqrclkop/MLB_2019_Boston_Red_Sox_vs_Toronto_Blue_Jays_20_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants vs Arizona Diamondbacks - 19th May</name>
+<link>https://streamango.com/f/tmndcbdpqprdrrmt/MLBSan_Francisco_Giants_Arizona_Diamondbacks_2019_05_19_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays vs Chicago White Sox - 19th May</name>
+<link>https://streamango.com/f/llolqnctrbqpeotm/MLB_Toronto_Blue_Jays_Chicago_White_Sox_2019_05_19_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals vs Texas Rangers - 19th May</name>
+<link>https://streamango.com/f/sqsbfatpcorckktf/MLB_Saint_Louis_Cardinals_Texas_Rangers_2019_05_19_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs vs Washington Nationals - 19th May</name>
+<link>https://streamango.com/f/rpflcmasqqqmsred/MLB_Chicago_Cubs_Washington_Nationals_2019_05_19_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays vs Chicago White Sox - 18th May</name>
+<link>https://streamango.com/f/tbdtblrrbrdsdacc/MLB_Toronto_Blue_Jays_Chicago_White_Sox_2019_05_18_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals vs Texas Rangers - 18th May</name>
+<link>https://streamango.com/f/fobqacrlkmfqlbss/MLB_Saint_Louis_Cardinals_Texas_Rangers_2019_05_18_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>New York Mets vs Miami Marlins - 18th May</name>
+<link>https://streamango.com/f/eldaetombpnnqepn/MLB_2019_18_05_2019_New_York_Mets_Miami_Marlins_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Tampa Bay Rays vs NY Yankees - 17th May</name>
+<link>https://streamango.com/f/ebfcfemearccedab/MLB_Tampa_Bay_Rays_vs_New_York_Yankees_17_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants vs Arizona Diamondbacks - 17th May</name>
+<link>https://streamango.com/f/cocsarfbamqenasf/MLB_San_Francisco_Giants_vs_Arizona_Diamondbacks_17_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>LA Dodgers vs Cincinnati Reds - 17th May</name>
+<link>https://streamango.com/f/qerrkoonpaepcrnp/MLB_Los_Angeles_Dodgers_vs_Cincinnati_Reds_17_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros vs Boston Red Sox - 17th May</name>
+<link>https://streamango.com/f/rfetqotseememmap/MLB_Houston_Astors_vs_Boston_Red_Sox_17_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays vs Chicago White Sox - 17th May</name>
+<link>https://streamango.com/f/ddqflrptecqoofrd/MLB_Toronto_Blue_Jays_Chicago_White_Sox_2019_05_17_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Francisco Giants vs Arizona Diamondbacks - 17th May</name>
+<link>https://streamango.com/f/sbpemklreqfkcfkn/MLB_San_Francisco_Giants_Arizona_Diamondbacks_2019_05_17_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Saint Louis Cardinals vs Texas Rangers - 17th May</name>
+<link>https://streamango.com/f/dpteqtqtcsakdfcr/MLB_Saint_Louis_Cardinals_Texas_Rangers_2019_05_17_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Chicago Cubs vs Washington Nationals - 17th May</name>
+<link>https://streamango.com/f/cnorblbdeqdmtckr/MLB_Chicago_Cubs_Washington_Nationals_2019_05_17_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto Blue Jays vs Chicago White Sox - 16th May</name>
+<link>https://streamango.com/f/tknaopknepdlspsq/MLB_Toronto_Blue_Jays_vs_Chicago_White_Sox_16_05_720pEN30fps_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>St Louis Blues vs Atlanta Braves - 16th May</name>
+<link>https://streamango.com/f/mmprekrsafclfafk/MLB_St_Louis_Blues_vs_Atlanta_Braves_16_05_720pEN30fps_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Oakland Athletics vs Detroit Tigers - 16th May</name>
+<link>https://streamango.com/f/qkkedttocrsctaro/MLB_Oakland_Athletics_vs_Detroit_Tigers_16_05_720pEN30fps_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets vs Washington Nationals - 16th May</name>
+<link>https://streamango.com/f/ltlrlmmpbtsqddrb/MLB_NY_Mets_vs_Washington_Nationals_16_05_720pEN30fps_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Milwaukee Brewers vs Philadelphia Phillies - 16th May</name>
+<link>https://streamango.com/f/kmssdrffrbkdqnec/MLB_Milwaukee_Brewers_vs_Philadelphia_Phillies_16_05_720pEN30fps_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Toronto BlueJays vs San Francisco Giants - 14th May</name>
+<link>https://streamango.com/f/ccafmpqstdefolea/MLBTorontoBlueJaysSanFranciscoGiants20190514_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates vs Arizona Diamondbacks - 14th May</name>
+<link>https://streamango.com/f/crafdkqffqelkcmm/MLBPittsburghPiratesArizonaDiamondbacks20190514_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>NY Mets vs Wahington Nationals - 14th May</name>
+<link>https://streamango.com/f/olfpdctndamscrmf/MLBNewYorkMetsWahingtonNationals20190514_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>San Diego Padres vs LA Dodgers - 14th May</name>
+<link>https://streamango.com/f/lqltbnpftrbmslob/MLBSanDiegoPadresLosAngelesDodgers20190514_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Pittsburgh Pirates vs Arizona Diamondbacks - 13th May</name>
+<link>https://streamango.com/f/tmaklcdoplkecmfk/MLB_2019_Pittsburgh_Pirates_vs_Arizona_Diamondbacks_13_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Cleveland Browns vs Chicago White Sox - 13th May</name>
+<link>https://streamango.com/f/btqnraqmteetqtdt/MLB_2019_Cleveland_Browns_vs_Chicago_White_Sox_13_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Milwaukee Brewers vs Philadelphia Phillies - 13th May</name>
+<link>https://streamango.com/f/dktedcrfmmqmqsqe/MLB_2019_Milwaukee_Brewers_vs_Philadelphia_Phillies_13_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
+<item>
+<name>Houston Astros vs Detroit Tigers - 13th May</name>
+<link>https://streamango.com/f/sdoblskdmrccrkeb/MLB_2019_Houston_Astros_vs_Detroit_Tigers_13_05_mp4</link>
+<thumbnail>https://dealbreaker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMjc3MTE2OTEzNjkwMTAx/mlbtime.jpg</thumbnail>
+</item>
