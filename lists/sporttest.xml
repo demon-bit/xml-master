@@ -1,7 +1,7 @@
 <item>
 <title>First Row Sports eu</title>
 <link>egnorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dBoxing%2b%252F%2bWWE%2b%252F%2bUFC%26url%3dhttp%253A%252F%252Fwww.feed2allnow.eu%252Ftype%252Fboxing-wwe-ufc.html%26cfg%3dfirstrowsports.eu.links.cfg%26definedIn%3dlivesports%252Ffirstrowsports.eu.cfg%26director%3dFirstRowSports.eu%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FBoxing.png&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3d%252ASchedule%252A%26url%3dhttp%253A%252F%252Fwww.sports-stream.net%252Fschedule.html%26cfg%3dsports-stream.net.cfg%2540Schedule%26definedIn%3dlivesports%252Fsports-stream.net.cfg%26director%3dsports-stream.net%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FBoxing.png&amp;mode=1</jsonrpc>
 <thumbnail>http://www.firstrowsports.press/first%20row%20sports.jpg</thumbnail>
 <fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
 </item>
