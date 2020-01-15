@@ -41,6 +41,13 @@
 </item>
 
 <item>
+	<title>SKY SPORTS CRICKET</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Cricket.html</link>
+	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSCRICKET.png</thumbnail>
+	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSCRICKET.png</fanart>
+</item>
+
+<item>
 <title>BT Sport 1</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-1.html</link>
 <thumbnail></thumbnail>
