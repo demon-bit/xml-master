@@ -1,33 +1,169 @@
-<xml>
-         
-<plugin>
-    <title>TVTap Sport-channels</title>
-      <link>plugin://script.module.tt/list_channels/5</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-             
-<plugin>
-    <title>LaolaTv Sports</title>
-  <thumbnail>https://vignette.wikia.nocookie.net/rom/images/d/dd/Bewahrer_Logo.png/revision/latest?cb=20091023155748&path-prefix=de</thumbnail>
- <link>plugin://script.module.laola1tv</link>
-</plugin>
-       
-<plugin>
-    <title>test</title>
-    <link>plugin://plugin.video.sportoka&mode=livelooke?ex_link</link>
-    <thumbnail>https://www.minnetonkaschools.org/uploaded/photos/07/15-16/MHS/Athletics/Basketball/FallSportsIcon.png</thumbnail>
-</plugin>
-          
-<plugin>
-    <title>TVTap</title>
-      <link>plugin://script.module.tt</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-    
-<plugin>
-    <title>TVTap Channels</title>
-      <link>plugin://script.module.tt/list_channels/6</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
+<dir>
+<name>[B][COLOR neongreen]G[/COLOR]rind[COLOR  neongreen]Hous[/COLOR]E[/B]</name>
+<link>http://grindhousekodi.tk/grindhouse/ghmain.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/gd.png</thumbnail>
+<fanart>https://mercuryme.org/DS%20art/gd%20fan.jpg</fanart>
+</dir>
 
-</xml>
+<dir>
+<title>[B][COLOR gold]W[B][COLOR]O[COLOR gold]W[/COLOR][/B]</title>
+<link>http://mercuryme.org/WOW/main.xml</link>
+<thumbnail>http://mercuryme.org/DS%20art/wow%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/DS%20art/wow%20fanart.jpg</fanart>
+<summary>[B][/B]</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR red]G[COLOR white]hos[COLOR red]T[/COLOR][/B]</title>
+<link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/iconghost.png</thumbnail>
+<fanart>https://mercuryme.org/DS%20art/gd%20fan.jpg</fanart>
+<summary>[B][COLOR red]G[COLOR white]hos[COLOR red]T[/COLOR][/B]</summary>
+</dir>
+
+#dir>
+<title>[B][COLOR blue]Luxray[COLOR gold]Prim[COLOR gold]E[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/9R1iA1nh</link>
+<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
+<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
+<summary>[B][COLOR blue]G[COLOR gold]hos[COLOR blue]T[/COLOR][/B]</summary>
+</dir>
+
+<dir>
+<title>[B]M.E.T.V[/B]</title>
+<link>http://www.ezzer-mac.com/Addon/main.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/iconmetv.png</thumbnail>
+<fanart>https://mercuryme.org/DS%20art/fanartmetv.jpg</fanart>
+<summary>[B]EzzerAthena[/B]</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR gold]A[COLOR white]then[COLOR gold]A[/COLOR][/B]</title>
+<link>http://www.ezzer-mac.com/Ezzerman/Nel/nymeria1/main.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/iconathena.png</thumbnail>  
+<fanart>https://mercuryme.org/DS%20art/fanartnymeria.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR deepskyblue]M[COLOR white]ODUS[COLOR deepskyblue]OPERANDI[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/q7Vidqwp</link>
+<thumbnail>http://mercuryme.org/images/icon.png</thumbnail>
+<fanart></fanart>
+<summary>[B][COLOR deepskyblue]M[COLOR white]ODUS[COLOR deepskyblue]OPERANDI[/COLOR][/B]</summary>
+</dir>
+
+<dir>
+<name>[COLOR white][B]The Wasteland[/B][/COLOR]</name>
+<link>http://dystopiabuilds.xyz/waste/main.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/iconwaste.png</thumbnail>
+<fanart>https://mercuryme.org/DS%20art/fanartwaste.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B]DEVASTATION[/B]</title>
+<link>http://mercuryme.org/WORLD/main.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/devastation.png</thumbnail>
+<fanart>http://mercuryme.org/DS%20art/world.jpg</fanart>
+<summary>[B]DEVASTATION[/B]</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR deepskyblue]H[COLOR white]OUSE OF BLU[COLOR deepskyblue]E[/COLOR][/B]</title>
+<link>http://grindhousekodi.tk/grindhouse/hob/xml/main.xml</link>
+<thumbnail>http://grindhousekodi.tk/grindhouse/hob/media/icon.png</thumbnail>
+<fanart></fanart>
+<summary>[B][COLOR deepskyblue]H[COLOR white]OUSE OF BLU[COLOR deepskyblue]E[/COLOR][/B]</summary>
+</dir>
+
+
+<dir>
+<title>[B][COLOR gold]M[COLOR white]YSTERIOU[COLOR gold]S[/COLOR][/B]</title>
+<link>https://mercuryme.org/mysterious/main.xml</link>
+<thumbnail>http://mercuryme.org/mysterious/mimages/icon.png</thumbnail>
+<fanart>http://mercuryme.org/mysterious/mimages/fanart.jpg</fanart>
+<summary>[B][COLOR skyblue]M[COLOR white]YSTERIOU[COLOR skyblue]S[/COLOR][/B]</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR slategray]E[COLOR white]XPOS[COLOR slategray]E[/COLOR][/B]</title>
+<link>http://mercuryme.org/addons/exposemain</link>
+<thumbnail>https://mercuryme.org/DS%20art/exicon.png</thumbnail>
+<fanart>https://mercuryme.org/DS%20art/exfanart.jpg</fanart>
+<summary>[B]TEAM [COLOR slategray]E[COLOR white]XPOS[COLOR slategray]E[/COLOR][/B]</summary>
+</dir>
+
+<dir>
+<name>[COLOR red][B]The Red Queen[/B][/COLOR]</name>
+<link>http://racooncity.gq/redqueen/xmls/main.xml</link>
+<thumbnail>https://mercuryme.org/DS%20art/iconrac.png</thumbnail>
+<fanart>http://racooncity.gq/redqueen/images/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR red]P[COLOR white]ATRIO[COLOR red]T[/COLOR][/B]</title>
+<link>http://djaythemes.xyz/Patriot/xmls/main.xml</link>
+<thumbnail>https://i.imgur.com/A0hTiiZ.png</thumbnail>
+<fanart>https://i.imgur.com/tpAfSlL.jpg</fanart>
+<summary>[B][COLOR red]P[COLOR white]atrio[COLOR red]T[/COLOR][/B]</summary>
+</dir>
+
+<dir>
+<name>[B][COLOR gold]T[/COLOR]he[COLOR  gold]M[/COLOR]ad Titan[/B]</name>
+<link>http://magnetic.website/Mad%20Titan/main.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/icon.png</thumbnail>
+<fanart>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/fanart.jpg</fanart>
+<summary>[B]The Mad Titan[/B]</summary>
+</dir>
+
+<dir>
+<name>[B][COLOR silver]Ra[/COLOR][COLOR  silver]v[/COLOR]en[/B]</name>
+<link>http://grindhousekodi.tk/grindhouse/Raven/xmls/main.xml</link>
+<thumbnail>http://grindhousekodi.tk/grindhouse/Raven/Rimages/icon.png</thumbnail>
+<fanart>http://grindhousekodi.tk/grindhouse/Raven/Rimages/fanart.jpg</fanart>
+<summary>[B]Raven[/B]</summary>
+</dir>
+
+<dir>
+<title>[B]Deathstar Trailers[/B]</title>
+<link>https://mercuryme.org/test/trailers.xml</link>
+<thumbnail>http://mercuryme.org/images/eim%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/images/fanart.jpg</fanart>
+<summary>[B]Deathstar EIM SKin and Mx-wingDS[/B]</summary>
+</dir>
+
+<dir>
+<title>[B]Deathstar EIM[/B]</title>
+<link>plugin://script.extendedinfo</link>
+<thumbnail>http://mercuryme.org/images/eim%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/images/fanart.jpg</fanart>
+<summary>[B]Deathstar EIM SKin and Mx-wingDS[/B]</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR lightseagreen]My[/COLOR] Trakt [COLOR  lightseagreen]Movies[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+<thumbnail>http://mercuryme.org/images/eim%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/images/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR lightseagreen]My[/COLOR] Trakt [COLOR  lightseagreen]TVShows[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+<thumbnail>http://mercuryme.org/images/eim%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/images/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR lightseagreen]D[/COLOR]eath[COLOR  lightseagreen]S[/COLOR]tar [COLOR  lightseagreen]T[/COLOR]ools[/B]</title>
+<link>http://grindhousekodi.tk/grindhouse/tools.xml</link>
+<thumbnail>http://mercuryme.org/images/eim%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/images/fanart.jpg</fanart>
+<summary>[B][COLOR lightseagreen]D[/COLOR]eath[COLOR  lightseagreen]S[/COLOR]tar [COLOR  lightseagreen]T[/COLOR]ools[/B]</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR  lightseagreen]D[/COLOR]eath[COLOR  lightseagreen]S[/COLOR]tar [COLOR  lightseagreen]S[/COLOR]earch[/B]</title>
+<trakt>search</trakt>
+<thumbnail>http://mercuryme.org/images/eim%20icon.png</thumbnail>
+<fanart>http://mercuryme.org/images/fanart.jpg</fanart>
+</dir>
