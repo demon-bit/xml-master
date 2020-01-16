@@ -14,7 +14,7 @@
        
 <plugin>
     <title>test</title>
-    <link>plugin://plugin.video.sportoka/livelooke?ex_link</link>
+    <link>plugin://plugin.video.sportoka&mode=livelooke?ex_link</link>
     <thumbnail>https://www.minnetonkaschools.org/uploaded/photos/07/15-16/MHS/Athletics/Basketball/FallSportsIcon.png</thumbnail>
 </plugin>
           
