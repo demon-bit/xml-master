@@ -22,7 +22,7 @@
 </channel>
 	
 <channel>
-	<name>DevilTV</name>
+	<name>Devil TV</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sport.xml</externallink>
 	<thumbnail></thumbnail>
@@ -31,9 +31,9 @@
 </channel>
 	
 <channel>
-	<name>TVTap Sport-channels</name>
+	<name>Sport entertainment</name>
 	<link>ignore</link>
-	<externallink>plugin://script.module.tt/list_channels/5</externallink>
+	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sportplugs.xml</externallink>
 	<thumbnail></thumbnail>
 	<fanart>-</fanart>
 	<content></content>
