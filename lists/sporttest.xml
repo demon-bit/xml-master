@@ -18,12 +18,19 @@
 </channel>
 	
 <channel>
-	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC TV[/COLOR][COLORred][I] (SPORTS-IPTV)[/COLOR][/B][/I]</name>
+	<name>SPORTS-DEVTV</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/caussp.xml</externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
+</channel>
+	
+<channel>
+<name>Little Sports Devil main</name>
+<thumbnail>http://www.littleangelsofficial.com/site/images/devilnew.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Shark5588/list/master/LitleDevil.xml</externallink>
+<fanart>https://www.wallpaperflare.com/static/337/728/31/devil-fantasy-art-logo-illustration-wallpaper-preview.jpg</fanart>
 </channel>
 
 
@@ -35,12 +42,7 @@
 	<info>[COLORyellow]Latest Sportsdevil required[/COLOR]</info>
 </channel>
 
-<channel>
-<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] Little Sports Devil Inside[/COLOR][/B]</name>
-<thumbnail>http://www.littleangelsofficial.com/site/images/devilnew.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Shark5588/list/master/LitleDevil.xml</externallink>
-<fanart>https://www.wallpaperflare.com/static/337/728/31/devil-fantasy-art-logo-illustration-wallpaper-preview.jpg</fanart>
-</channel>
+
 
 
 <channel>
