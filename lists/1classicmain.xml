@@ -10,8 +10,8 @@
 	
 <channel>
 	<name>WorldTV</name>
-	<link>countries</link>
-	<externallink></externallink>
+	<link>ignore</link>
+	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/countries.xml</externallink>
 	<thumbnail></thumbnail>
 	<fanart>-</fanart>
 	<content></content>
