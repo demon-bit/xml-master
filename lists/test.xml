@@ -5,7 +5,11 @@
 
 <channels>
 
-
+<plugin>
+    <title>TVTap Sport-channels</title>
+      <link>plugin://script.module.tt/list_channels/5</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
 	
 	
 <channel>
@@ -21,6 +25,15 @@
 	<name>DevilTV</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sport.xml</externallink>
+	<thumbnail></thumbnail>
+	<fanart>-</fanart>
+	<content></content>
+</channel>
+	
+<channel>
+	<name>TVTap Sport-channels</name>
+	<link>ignore</link>
+	<externallink>plugin://script.module.tt/list_channels/5</externallink>
 	<thumbnail></thumbnail>
 	<fanart>-</fanart>
 	<content></content>
