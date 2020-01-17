@@ -18,6 +18,15 @@
 </channel>
 	
 <channel>
+	<name>DevilTV</name>
+	<link>ignore</link>
+	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sport.xml</externallink>
+	<thumbnail></thumbnail>
+	<fanart>-</fanart>
+	<content></content>
+</channel>
+	
+<channel>
 	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC TV[/COLOR][COLORred][I] (SPORTS-IPTV)[/COLOR][/B][/I]</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/caussp.xml</externallink>
