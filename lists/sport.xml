@@ -1,13 +1,13 @@
 <item>
 <title>Fight Night (Links Will be added 30min before start)</title>
-<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sky Sports Main Event</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=url=livesports.cfg</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -36,13 +36,6 @@
 <item>
 <title>Sky Sports Arena</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Arena.html</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>SKY SPORTS CRICKET</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Cricket.html</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -88,4 +81,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
