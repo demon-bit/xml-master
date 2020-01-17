@@ -1,0 +1,17 @@
+</streaminginfos>
+
+<item>
+<title>TVTap Sport-channels</title>
+<link>ignorme</link>
+<jsonrpc>plugin://script.module.tt/list_channels/5</jsonrpc>
+ <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LaolaTv Sports</title>
+<link>ignorme</link>
+<jsonrpc>plugin://script.module.laola1tv</jsonrpc>
+ <thumbnail></thumbnail>
+</item>
+
+</items>
