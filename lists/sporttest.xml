@@ -1,51 +1,34 @@
 <xml>
-
-<dir>
-    <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SPORTSDEVIL LIVE TV[/COLOR][/B][/I]</title>
-    <link>https://raw.githubusercontent.com/Shark5588/list/master/LitleDevil.xml</link>
-    <thumbnail>https://1.bp.blogspot.com/-_-7n-gpLtrc/W9UZEG7eOKI/AAAAAAAAEJY/8Wue7tEfF283fMa0J1WvdGFQQ02a5MRQgCLcBGAs/s1600/fluxustv.png</thumbnail>
-</dir>
+         
+<plugin>
+    <title>TVTap Sport-channels</title>
+      <link>plugin://script.module.tt/list_channels/5</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
+             
+<plugin>
+    <title>LaolaTv Sports</title>
+  <thumbnail>https://vignette.wikia.nocookie.net/rom/images/d/dd/Bewahrer_Logo.png/revision/latest?cb=20091023155748&path-prefix=de</thumbnail>
+ <link>plugin://script.module.laola1tv</link>
+</plugin>
+       
+<plugin>
+    <title>Sportoka(clone)</title>
+    <link>plugin://plugin.video.sportoka/?ex_link</link>
+    <thumbnail>https://www.minnetonkaschools.org/uploaded/photos/07/15-16/MHS/Athletics/Basketball/FallSportsIcon.png</thumbnail>
+</plugin>
+          
+<plugin>
+    <title>TVTap</title>
+      <link>plugin://script.module.tt</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
     
-<dir>
-    <title>Country-Choice</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/countries.xml
-</link>
-    <thumbnail>https://1.bp.blogspot.com/-_-7n-gpLtrc/W9UZEG7eOKI/AAAAAAAAEJY/8Wue7tEfF283fMa0J1WvdGFQQ02a5MRQgCLcBGAs/s1600/fluxustv.png</thumbnail>
-</dir>   
-
-
-<dir>
-    <title>CinemaTv</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/CinemaIPTV.xml</link>
-    <thumbnail>https://4.bp.blogspot.com/-oQNkqrqPQ98/W1jECk8g7YI/AAAAAAAADjU/FxPmjwup0QI6_2ni2icom0WpHSpx2gt2gCLcBGAs/s1600/Stratus_TV_Playlist.png</thumbnail>
-</dir>
-
-
-<dir>
-    <title>FaithTv</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/FaithIPTV.xml</link>
-    <thumbnail>https://4.bp.blogspot.com/-oQNkqrqPQ98/W1jECk8g7YI/AAAAAAAADjU/FxPmjwup0QI6_2ni2icom0WpHSpx2gt2gCLcBGAs/s1600/Stratus_TV_Playlist.png</thumbnail>
-</dir>
-
-
-<dir>
-    <title>LodgeTv</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/LodgeIPTV.xml</link>
-    <thumbnail>https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s280/FluxusLustH.png</thumbnail>
-</dir>
-
-<dir>
-    <title>RadioTv</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/RadioIPTV.xml</link>
-    <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
-</dir>
-
-
-
-<dir>
-    <title>MyTv</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/MyIptv.xml</link>
-    <thumbnail>https://static.apkupdate.com/images/cover/veg.iptv.mediaplayer.pro.png</thumbnail>
-</dir>
+<plugin>
+    <title>TVTap Channels</title>
+      <link>plugin://script.module.tt/list_channels/6</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
 
 </xml>
+
