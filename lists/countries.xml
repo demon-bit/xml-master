@@ -1,6 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>fuckOFF</layoutype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+#FUCK OFF YOU LAZY FUCK 
+
+<item>
+<title>[COLOR white][B]****[/B][/COLOR][COLOR orange][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]****[/B][/COLOR][COLOR orange][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]****[/B][/COLOR][COLOR orange][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]****[/B][/COLOR][COLOR orange][B]NOT ALL LINKS WORKS ALL THE TIME.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<link>http://ignore.me<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR skyblue]•[/COLOR]Primier Sport UK (SD)[/B]</title>
+<link>$doregex[file]|Referer=http://5streamking.co/premiersport&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>source: '(.*?)'</expres>
+<page>http://streamking.cc/player?channel=premiersport&amp;player=clappr</page>
+<referer>http://streamking.cc/premiesport</referer>
+</regex>
+<thumbnail>https://3.bp.blogspot.com/-pyyynvxizXc/VxU6dz5oQGI/AAAAAAAABcQ/RtRPAcUNRIoS9lWTMlzCxaOH0Mw1mLRBwCLcB/s1600/Premier-Sports.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
 <item>
     <title> [B][COLOR orange]COUNTRIES[/COLOR][/B] </title>
     <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/iptv.png</thumbnail>
