@@ -1,5 +1,19 @@
 <xml>
          
+<item>
+<title>Fight Night (Links Will be added 30min before start)</title>
+<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports Main Event</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=url=livesports.cfg</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+         
 <plugin>
     <title>test1s</title>
       <link>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</link>
