@@ -1,13 +1,13 @@
 <item>
 <title>Fight Night (Links Will be added 30min before start)</title>
-<link></link>
+<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sky Sports Main Event</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=url=livesports.cfg</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
