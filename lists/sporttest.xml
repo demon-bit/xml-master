@@ -1,15 +1,16 @@
 <xml>
          
 <plugin>
-    <title>TVTap Sport-channels</title>
-      <link>plugin://script.module.tt/list_channels/5</link>
+    <title>test1s</title>
+      <link>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
              
 <plugin>
-    <title>LaolaTv Sports</title>
+    <title>test2</title>
   <thumbnail>https://vignette.wikia.nocookie.net/rom/images/d/dd/Bewahrer_Logo.png/revision/latest?cb=20091023155748&path-prefix=de</thumbnail>
- <link>plugin://script.module.laola1tv</link>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 </plugin>
        
 <plugin>
