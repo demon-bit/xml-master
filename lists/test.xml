@@ -4,12 +4,6 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
-
-<plugin>
-    <title>TVTap Sport-channels</title>
-      <link>plugin://script.module.tt/list_channels/5</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
 	
 	
 <channel>
