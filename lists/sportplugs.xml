@@ -8,7 +8,7 @@
          
 <plugin>
     <title>Sportdevil</title>
-      <link>plugin://plugin.video.SportsDevil</link>
+      <link>plugin://plugin.video.SportsDevil/?item=director%3dfilmon.com%26url%3dcustoms%252Ffilmon.com.cfg%26definedIn%3dlivesports.cfg%26title%3dFilmOn.com%26icon%3dhttp%253A%252F%252Fwww.filmon.com%252Ftv%252Fthemes%252Ffilmontv%252Fimg%252Fnew-filmon-logo.png&amp;mode=1</link>
         <thumbnail></thumbnail>
     </plugin>
              
