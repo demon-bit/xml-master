@@ -5,6 +5,12 @@
       <link>plugin://script.module.tt/list_channels/5</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
+         
+<plugin>
+    <title>Sportdevil</title>
+      <link>plugin://plugin.video.SportsDevil</link>
+        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+    </plugin>
              
 <plugin>
     <title>LaolaTv Sports</title>
