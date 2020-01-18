@@ -9,7 +9,7 @@
 <plugin>
     <title>Sportdevil</title>
       <link>plugin://plugin.video.SportsDevil</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+        <thumbnail></thumbnail>
     </plugin>
              
 <plugin>
