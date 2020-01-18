@@ -41,3 +41,10 @@
 	<jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
+	
+<item>
+	<title>Swiftstreamz-Sport Channels</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
