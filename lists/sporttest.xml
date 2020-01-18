@@ -1,4 +1,12 @@
 <item>
+<title>test</title>
+<link>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>AtdheNet</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/atdee.net.cfg&amp;mode=1</jsonrpc>
