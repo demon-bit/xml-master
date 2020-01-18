@@ -14,7 +14,7 @@
 </channel>
 
 <channel>
-	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] WORLD[/COLOR][COLORred][I] (IPTV)[/COLOR][/B][/I]</name>
+	<name>[B] [COLORyellow] WORLD[/COLOR][COLORred][I] (IPTV)[/COLOR][/B][/I]</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/worldtv.xml</externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
@@ -24,20 +24,22 @@
 
 
 <channel>
-<name>test</name>
-<thumbnail>https://3.bp.blogspot.com/-IpVThipMVMU/Wd-my5Ul0oI/AAAAAAAACbo/m4b7izFN50wxYkUEr3WTs7e5J06bqVLAQCLcBGAs/s1600/flowRoot418g558.png</thumbnail>
-<externallink>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</externallink>
-<fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
-<info>Movies New Release</info>
-</channel>
-
-<channel>
-<name>Sportdevil</name>
+<name>[B] [COLORyellow]LIVE[/COLOR][COLORred][I](SPORTS)</name>
 <thumbnail>https://3.bp.blogspot.com/-IpVThipMVMU/Wd-my5Ul0oI/AAAAAAAACbo/m4b7izFN50wxYkUEr3WTs7e5J06bqVLAQCLcBGAs/s1600/flowRoot418g558.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sporttest.xml</externallink>
 <fanart>http://celebzmagazine.com/wp-content/uploads/2018/01/box.jpg</fanart>
 <info>[B][COLORyellow]BoxOffice IPTV[/COLOR][/B]</info>
 </channel>
+	
+<channel>
+<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]PLUGINS</name>
+<thumbnail>https://3.bp.blogspot.com/-IpVThipMVMU/Wd-my5Ul0oI/AAAAAAAACbo/m4b7izFN50wxYkUEr3WTs7e5J06bqVLAQCLcBGAs/s1600/flowRoot418g558.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sportplugs.xml</externallink>
+<fanart>http://celebzmagazine.com/wp-content/uploads/2018/01/box.jpg</fanart>
+<info>[B][COLORyellow]BoxOffice IPTV[/COLOR][/B]</info>
+</channel>
+	
+
 
 
 </channels>
