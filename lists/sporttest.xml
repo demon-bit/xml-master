@@ -7,7 +7,7 @@
 
 <item>
 <title>Sky Sports Main Event</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=livesports.cfg&amp;mode=1
+<link>plugin://plugin.video.SportsDevil/livesports.cfg&amp;mode=1
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
