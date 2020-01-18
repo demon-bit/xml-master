@@ -5,6 +5,12 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Bundesliga-Streams</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
