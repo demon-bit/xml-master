@@ -1,23 +1,8 @@
-<item>
-<title>test</title>
-<link>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>AtdheNet</title>
+item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SPORTSDEVIL LIVE TV[/COLOR][/B][/I]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/atdee.net.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bundesliga-Streams</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
 </item>
 
 <item>
