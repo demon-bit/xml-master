@@ -5,10 +5,10 @@
 <fanart></fanart>
 </item>
 
-plugin.video.SportsDevil%2f%3fitem%3durl%3dlivesports.cfg%26mode%3d1
+
 
 <item>
-<title>Sky Sports Main Event</title>
+<title>test</title>
 <link>plugin://plugin.video.SportsDevil%2f%3fitem%3durl%3dlivesports.cfg%26mode%3d1
 </link>
 <thumbnail></thumbnail>
