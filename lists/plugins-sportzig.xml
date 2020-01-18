@@ -1,12 +1,4 @@
 
-
-<item>
-<title>[COLOR white][B]****[/B][/COLOR][COLOR red][B] ====================================== [/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
-<link>http://ignore.me<link>
-<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 	<title>TVTap Sport-channels</title>
 	<link>ignorme</link>
@@ -15,9 +7,23 @@
 </item>
 
 <item>
+	<title>Swiftstreamz-Sport Channels</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
+<item>
 	<title>LaolaTv Sports</title>
 	<link>ignorme</link>
 	<jsonrpc>plugin://script.module.laola1tv</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
+<item>
+	<title>swiftstreamz</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
 
@@ -35,16 +41,6 @@
 	<thumbnail></thumbnail>
 </item>
 
-<item>
-	<title>swiftstreamz</title>
-	<link>ignorme</link>
-	<jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
+
 	
-<item>
-	<title>Swiftstreamz-Sport Channels</title>
-	<link>ignorme</link>
-	<jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
+
