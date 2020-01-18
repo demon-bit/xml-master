@@ -38,6 +38,6 @@
 <item>
 	<title>swiftstreamz</title>
 	<link>ignorme</link>
-	<jsonrpc>script.module.swiftstreamz</jsonrpc>
+	<jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
