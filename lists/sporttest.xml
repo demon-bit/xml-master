@@ -9,7 +9,14 @@
 
 <item>
 <title>test</title>
-<link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url=customs.cfg&amp;mode=1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>test2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=customs.cfg</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
