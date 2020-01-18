@@ -43,70 +43,35 @@ item>
 </item>
 
 <item>
-<title>DimSports</title>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]DimSports[/COLOR][/B][/I]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>FirstRowSports.eu</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FirstRowSports.ge</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LiveFootball</title>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]LiveFootball[/COLOR][/B][/I]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livefootball.ws.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>LiveFootballVideo</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livefootballvideo.com.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LiveTV</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LSHunter</title>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]LSHunter[/COLOR][/B][/I]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>RojaDirecta</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>StopStream</title>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]StopStream[/COLOR][/B][/I]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>VipBox</title>
+<title>[B][COLORchartreuse]VipBox[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/vipbox.tv.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
