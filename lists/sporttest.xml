@@ -9,8 +9,7 @@
 
 <item>
 <title>test</title>
-<link>plugin://plugin.video.SportsDevil/?url=livesports.cfg&mode%3d1
-</link>
+<link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
