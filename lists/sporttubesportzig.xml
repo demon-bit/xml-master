@@ -31,7 +31,14 @@
 <item>
 	<title>test4</title>
 	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U/?page=0</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.youtube/play/KKX3sYP3U4U/?page=0</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
+<item>
+	<title>test5</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/play/KKX3sYP3U4U</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
 
