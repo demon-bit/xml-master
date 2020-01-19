@@ -56,6 +56,20 @@
 	<fanart></fanart>
 </item>
 
+<item>	
+	<title>test11</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U</link>
+	<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>	
+	<title>test12</title>
+	<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ/?page=0</link>
+	<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
+	<fanart></fanart>
+</item>
+
 
 
 
