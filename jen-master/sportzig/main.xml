@@ -16,7 +16,7 @@
 <channel>
 	<name>[B] [COLORyellow] WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
 	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/worldtv.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/worldtv.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
@@ -25,7 +25,7 @@
 <channel>
 	<name>[B] [COLORyellow] SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</name>
 	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/sporttube.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
@@ -34,7 +34,7 @@
 <channel>
 <name>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/sportlive.xml</externallink>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</externallink>
 <fanart>-</fanart>
 <content></content>
 </channel>
@@ -42,7 +42,7 @@
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]PLUGINS[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/sportplugs.xml</externallink>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportplugs.xml</externallink>
 <fanart>-</fanart>
 <content></content>
 </channel>
@@ -50,7 +50,7 @@
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 1[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/sports-ch1.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</externallink>
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
@@ -59,7 +59,7 @@
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 2[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/sports-ch2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</externallink>
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
