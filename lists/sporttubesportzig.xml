@@ -30,39 +30,13 @@
 </item>
 
 <item>
-	<title>zoeken1</title>
+	<title>SEARCH YOUTUBE</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/kodion/search/list/</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
 
-<item>
-	<title>zoeken2</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/kodion/search/input%2</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
 
-<item>
-	<title>zoeken3</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/results?search_query=zoeken</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>zoeken4</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/kodion/search/zoeken</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
-
-<item>	
-	<title>zoeken5</title>
-	<link>plugin://plugin.video.youtube/search/?q=kodi</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</item>
 
 <item>
 	<title>zoeken6</title>
