@@ -24,7 +24,7 @@
 <item>
 	<title>test3</title>
 	<link>ignorme</link>
-	<jsonrpc>plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U</jsonrpc>
+	<jsonrpc>plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U/?page=0</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
 
