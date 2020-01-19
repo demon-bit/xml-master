@@ -73,23 +73,16 @@
 <item>	
 	<title>5 Exercises That Will Transform Your Body In Just 4 Weeks</title>
 	<link>plugin://plugin.video.youtube/play/?video_id=aea-S3CtzIk</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
 	<fanart></fanart>
 </item>
 
-
-<item>	
-	<title>test1</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</item>
 
 <item>
 	<title>SEARCH YOUTUBE</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/kodion/search/list/</jsonrpc>
-	<thumbnail></thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/search.png</thumbnail>
 </item>
 
 
