@@ -17,14 +17,21 @@
 <item>
 	<title>5 Exercises That Will Transform Your Body In Just 4 Weeks</title>
 	<link>ignorme</link>
-	<jsonrpc>plugin://plugin.video.youtube/play/?video_id=aea-S3CtzIk</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=aea-S3CtzIk</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
 
 <item>
 	<title>test3</title>
 	<link>ignorme</link>
-	<jsonrpc>plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U/?page=0</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U/?page=0</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
+<item>
+	<title>test4</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U/?page=0</jsonrpc>
 	<thumbnail></thumbnail>
 </item>
 
