@@ -57,6 +57,15 @@
 	<thumbnail></thumbnail>
 </item>
 
+<item>	
+	<title>zoeken5</title>
+	<link>plugin://plugin.video.youtube/search/?q=kodi</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+
+
 
 
 
