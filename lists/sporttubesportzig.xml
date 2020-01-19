@@ -14,58 +14,38 @@
 	<thumbnail></thumbnail>
 </item>
 
-<item>
+<item>	
 	<title>5 Exercises That Will Transform Your Body In Just 4 Weeks</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=aea-S3CtzIk</jsonrpc>
+	<link>plugin://plugin.video.youtube/play/?video_id=aea-S3CtzIk</link>
 	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>test3</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U/?page=0</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>test4</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/play/KKX3sYP3U4U/?page=0</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>test5</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/play/KKX3sYP3U4U</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-	<title>test6</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/video_id=KKX3sYP3U4U</jsonrpc>
-	<thumbnail></thumbnail>
-</item>
-
-<item>	
-	<title>[COLOR white][B]****[/B][/COLOR][COLOR lime][B] Fireplace  2 hours crackling - Merry Christmas![/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=ZW6NmUsok2c</link>
-	<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
 	<fanart></fanart>
 </item>
 
+
 <item>	
-	<title>test11</title>
+	<title>test1</title>
 	<link>plugin://plugin.video.youtube/play/?video_id=KKX3sYP3U4U</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>	
+	<title>test2</title>
+	<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ</link>
 	<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
 	<fanart></fanart>
 </item>
 
 <item>	
-	<title>test12</title>
-	<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ/?page=0</link>
+	<title>test3</title>
+	<link>Plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ/?page=0</link>
+	<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>	
+	<title>test2</title>
+	<link>Plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ</link>
 	<thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
 	<fanart></fanart>
 </item>
