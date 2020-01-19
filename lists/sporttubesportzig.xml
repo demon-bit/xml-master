@@ -21,6 +21,13 @@
 	<thumbnail>http://www.clker.com/cliparts/d/9/a/6/13665393891197772252free-red-cloud-sexy_girl-hi.png</thumbnail>
 </item>
 
+<item>	
+	<title>STRONG FEMALE FITNESS MOMENTS - HARD WORKOUT 2018</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=gdM5Bb5-PS0</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
 <item>
 	<title>PTV SPORTS</title>
 	<link>ignorme</link>
@@ -33,6 +40,13 @@
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/search/?q=red bull sports extreme</jsonrpc>
 	<thumbnail>http://7desktopthemes.com/images/red-bull-logo-transparent-background-wallpaper-4.jpg</thumbnail>
+</item>
+
+<item>
+	<title>FITNESSBLENDER</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/search/?q=Fitnessblender</jsonrpc>
+	<thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.fitnessblenderv2/icon/icon.png</thumbnail>
 </item>
 
 <item>	
