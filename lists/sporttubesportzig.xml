@@ -64,6 +64,13 @@
 	<fanart></fanart>
 </item>
 
+<item>
+	<title>zoeken6</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/search/?q=kodi</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
 
 
 
