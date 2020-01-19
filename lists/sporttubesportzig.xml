@@ -18,7 +18,21 @@
 	<title>HOT SPORTS</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/playlist/PL9yHlSk8_updhXjdN1Z0VrY-0NbcfeF5V/?page=0</jsonrpc>
-	<thumbnail></thumbnail>
+	<thumbnail>http://www.clker.com/cliparts/d/9/a/6/13665393891197772252free-red-cloud-sexy_girl-hi.png</thumbnail>
+</item>
+
+<item>
+	<title>PTV SPORTS</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/search/?q=ptp sports</jsonrpc>
+	<thumbnail>http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg</thumbnail>
+</item>
+
+<item>
+	<title>REDBULL SPORTS EXTREME</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/search/?q=red bull sports extreme</jsonrpc>
+	<thumbnail>http://7desktopthemes.com/images/red-bull-logo-transparent-background-wallpaper-4.jpg</thumbnail>
 </item>
 
 <item>	
