@@ -28,4 +28,13 @@
 	<thumbnail></thumbnail>
 </item>
 
+<item>
+	<title>test2</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://plugin.video.youtube/watch?v=qJYBBuuFfps</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
+
+
  	
