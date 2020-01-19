@@ -21,4 +21,11 @@
 	<thumbnail></thumbnail>
 </item>
 
+<item>
+	<title>test</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://plugin.video.youtube/play/aea-S3CtzIk/?page=0</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
  	
