@@ -42,6 +42,13 @@
 	<thumbnail></thumbnail>
 </item>
 
+<item>
+	<title>test6</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/video_id=KKX3sYP3U4U</jsonrpc>
+	<thumbnail></thumbnail>
+</item>
+
 
 
 
