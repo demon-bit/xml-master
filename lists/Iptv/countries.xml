@@ -3,6 +3,7 @@
 <layoutype>fuckOFF</layoutype>
 <item>
     <title> [B][COLOR orange]COUNTRIES[/COLOR][/B] </title>
+     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://swiftstreamz.com/SwiftPanel/api.php?get_channels_by_cat_id=8</link>
     <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/iptv.png</thumbnail>
     <fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/artwork.jpg</fanart>
 </item>
