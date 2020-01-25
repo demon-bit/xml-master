@@ -1,4 +1,4 @@
-name="[COLOR limegreen]***The Best of  ***[/COLOR]"
+name="[COLOR Red]***Testing  ***[/COLOR]"
 section="true"
 search="false"
 subid="false"
