@@ -29,7 +29,7 @@
 <plugin>
     <title>TVTap Sport-channels</title>
       <link>plugin://script.module.tt/list_channels/5</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+        <thumbnail>https://image.winudf.com/v2/image/Y29tLmFtaWVudGVydGFpbm1lbnQuVGFwVFZDb250cm9sbGVyX2ljb25fMF8zMmY5MjRmNg/icon.png?w=170&fakeurl=1&type=.png</thumbnail>
     </plugin>
 
 </xml>
