@@ -6,39 +6,13 @@
     <thumbnail>https://raw.githubusercontent.com/cy4root2/plugins/master/plugin.video.sportzig/icon.png</thumbnail>
    
 </plugin>
-     
-     
-<plugin>
-    <title>Swiftstreamz</title>
-    <link>plugin://script.module.swiftstreamz</link> 
-    <thumbnail>https://yourstreamingtv.org/wp-content/uploads/2017/12/Swift-Streamz-1.jpg</thumbnail>
-   
-</plugin>
-     
-<plugin>
-    <title>TVTap</title>
-      <link>plugin://script.module.tt</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-     
-<plugin>
-    <title>TVTap test</title>
-      <link>plugin://plugin.video.temptv/script.module.tt/list_channels/5</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-     
+          
 <plugin>
     <title>LaolaTv Sports</title>
   <thumbnail>https://vignette.wikia.nocookie.net/rom/images/d/dd/Bewahrer_Logo.png/revision/latest?cb=20091023155748&path-prefix=de</thumbnail>
  <link>plugin://script.module.laola1tv</link>
 </plugin>
-       
-<plugin>
-    <title>Sportoka(clone)</title>
-    <link>plugin://plugin.video.sportoka/?ex_link</link>
-    <thumbnail>https://www.minnetonkaschools.org/uploaded/photos/07/15-16/MHS/Athletics/Basketball/FallSportsIcon.png</thumbnail>
-</plugin>
-     
+          
 <plugin>
     <title>PLSportowo</title>
     <link>plugin://plugin.video.PLsportowo/?ex_link</link>
@@ -55,12 +29,6 @@
 <plugin>
     <title>TVTap Sport-channels</title>
       <link>plugin://script.module.tt/list_channels/5</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-    
-<plugin>
-    <title>TVTap Channels</title>
-      <link>plugin://script.module.tt/list_channels/6</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
 
