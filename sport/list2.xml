@@ -33,30 +33,19 @@ description="Famous Boxing matches"
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nhl_icon.png</thumbnail>
 </plugin>
 
+<plugin>
+	<title>WWE</title>
+        <link>plugin://plugin.video.youtube/user/WWEFanNation</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/wwe_icon.png</thumbnail>
+</plugin>
 
 
 
-name="NHL"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="NHLVideo"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nhl_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="NHL"
 
-name="WWE"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="WWEFanNation"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/wwe_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="WWE"
+
+
+
+
 
 name="ESPN"
 section="false"
