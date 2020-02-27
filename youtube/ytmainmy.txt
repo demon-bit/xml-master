@@ -132,11 +132,18 @@ icon="https://yt3.ggpht.com/a-/AAuE7mBBiiJXka1ZvzHPESBoBBX0OrHT5_X13of3hhrQ=s288
 fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
 description="channel"
 
-<plugin>
-<title>SEARCH YOUTUBE</title>
-<link>plugin://plugin.video.youtube/kodion/search/list/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/search.png</thumbnail>
-</plugin>
+name="Test Channel"
+section="false"
+search="false"
+subid="test"
+playlistid="false"
+channelid="false"
+videoid="false"
+icon="https://yt3.ggpht.com/a-/AAuE7mBBiiJXka1ZvzHPESBoBBX0OrHT5_X13of3hhrQ=s288-c-k-c0xffffffff-no-rj-mo"
+fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
+description="channel"
+
+
 
 
 
