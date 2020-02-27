@@ -25,12 +25,12 @@
 	<info> </info>
 </dir>
 
-<dir>
+<plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]LIST 2[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/list2.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
-</dir>
+</plugin>
 
 <plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 1[/COLOR][/B][/I]</title>
