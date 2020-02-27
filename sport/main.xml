@@ -6,7 +6,7 @@
 <plugin>
 	<title>[B][I][COLOR pink] ***Online Sports ***[/COLOR][/I][/B]</title>
 	<link>|</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 	
@@ -14,42 +14,42 @@
 <plugin>
 	<title>[B] [COLORgreen]SPORT[/COLOR][COLORorange][I]DEVIL[/COLOR][/B][/I]</title>
         <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>	
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 	
 <dir>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]LIST 1[/COLOR][/B][/I]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/list1.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </dir>
 
 <dir>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]LIST 2[/COLOR][/B][/I]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/list2.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </dir>
 	
 <plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 1[/COLOR][/B][/I]</title>
         <link>plugin://plugin.video.descent/?action=swiftCat&url=8</link>	
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 
 <plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 2[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 	
 <plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 3[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 	
@@ -58,25 +58,27 @@
 <dir>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]FITNESS[/COLOR][/B][/I]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/fitness.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </dir>
 	
 <dir>
 	<title>[B] [COLORgreen]ALL[/COLOR][COLORred][I]SPORTS REPLAY[/COLOR][/B][/I]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportreplay.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </dir>
 	
 <plugin>
    <title>[B] [COLORyellow]TAP[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
+   <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 </plugin>
 			
 <plugin>
    <title>[B] [COLORyellow]LAOLA[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>    
    <link>plugin://script.module.laola1tv</link>
+   <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 </plugin>
 		
 </xml>
