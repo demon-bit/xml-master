@@ -9,16 +9,12 @@ icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/
 fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
 description="Famous Boxing matches"
 
-name="MLB"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="MLB"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/sports/mlb_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="MLB"
+<plugin>
+	<title>MLB</title>
+        <link>plugin://plugin.video.youtube/user/MLB/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/sports/mlb_icon.png</thumbnail>
+</plugin>
+
 
 name="NBA"
 section="false"
