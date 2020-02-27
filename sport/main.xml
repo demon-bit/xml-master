@@ -10,6 +10,13 @@
 	<info> </info>
 </plugin>
 	
+
+<plugin>
+	<title>swift</title>
+        <link>plugin://plugin.video.descent/?action=swiftNavigator</link>	
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</plugin>	
 	
 <plugin>
 	<title>[B] [COLORgreen]SPORT[/COLOR][COLORorange][I]DEVIL[/COLOR][/B][/I]</title>
