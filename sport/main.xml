@@ -14,7 +14,7 @@
 	
 <plugin>
 	<title>[B] [COLORgreen]SPORT[/COLOR][COLORorange][I]DEVIL[/COLOR][/B][/I]</title>
-        <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>	
+        <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/sportdevil.xml</link>	
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/sportwallpaper.jpg</fanart>
 	<info> </info>
