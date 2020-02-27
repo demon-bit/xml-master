@@ -29,19 +29,19 @@
 
 <plugin>
 	<title>NHL</title>
-        <link>plugin://plugin.video.youtube/user/NHLVideo</link>
+        <link>plugin://plugin.video.youtube/user/NHLVideo/playlists</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nhl_icon.png</thumbnail>
 </plugin>
 
 <plugin>
 	<title>WWE</title>
-        <link>plugin://plugin.video.youtube/user/WWEFanNation</link>
+        <link>plugin://plugin.video.youtube/user/WWEFanNation/</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/wwe_icon.png</thumbnail>
 </plugin>
 
 <plugin>
 	<title>ESPN</title>
-        <link>plugin://plugin.video.youtube/user/ESPN</link>
+        <link>plugin://plugin.video.youtube/user/ESPN/</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/espn_icon.png</thumbnail>
 </plugin>
 
