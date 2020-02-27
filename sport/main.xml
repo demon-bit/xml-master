@@ -73,18 +73,11 @@
    <title>[B] [COLORyellow]TAP[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
 </plugin>
-	
-<plugin>
-   <title>[B] [COLORyellow]SWIFT[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
-   <link>plugin://script.module.swiftstreamz/list_channels/8</link>
-</plugin>
-		
+			
 <plugin>
    <title>[B] [COLORyellow]LAOLA[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>    
    <link>plugin://script.module.laola1tv</link>
 </plugin>
-	
-	
-	
+		
 </xml>
 
