@@ -56,27 +56,27 @@
 
 	
 <dir>
-	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]FITNESS[/COLOR][/B][/I]</title>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORorange][I]FITNESS[/COLOR][/B][/I]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/fitness.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </dir>
 	
 <dir>
-	<title>[B] [COLORgreen]ALL[/COLOR][COLORred][I]SPORTS REPLAY[/COLOR][/B][/I]</title>
+	<title>[B] [COLORgreen]ALL[/COLOR][COLORorange][I]SPORTS REPLAY[/COLOR][/B][/I]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportreplay.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </dir>
 	
 <plugin>
-   <title>[B] [COLORyellow]TAP[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
+   <title>[B] [COLORyellow]TAP[/COLOR][COLORorange][I]SPORTS[/COLOR][/B][/I]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
    <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 </plugin>
 			
 <plugin>
-   <title>[B] [COLORyellow]LAOLA[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>    
+   <title>[B] [COLORyellow]LAOLA[/COLOR][COLORorange][I]SPORTS[/COLOR][/B][/I]</title>    
    <link>plugin://script.module.laola1tv</link>
    <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 </plugin>
