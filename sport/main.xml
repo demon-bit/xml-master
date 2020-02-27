@@ -16,7 +16,16 @@
         <link>plugin://plugin.video.descent/?action=swiftNavigator</link>	
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
-</plugin>	
+</plugin>
+	
+<plugin>
+	<title>swift2</title>
+        <link>plugin://plugin.video.descent/?action=swiftCat&url=8</link>	
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</plugin>
+	
+plugin://script.module.swiftstreamz/list_channels/8
 	
 <plugin>
 	<title>[B] [COLORgreen]SPORT[/COLOR][COLORorange][I]DEVIL[/COLOR][/B][/I]</title>
