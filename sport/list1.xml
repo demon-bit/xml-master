@@ -12,6 +12,14 @@
 	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
 </plugin>
 
+<plugin>
+	<title>Test2</title>
+        <link>plugin://plugin.video.youtube/channel/UCoLrcjPV5PbUrUyXq5mjc_A/</link>
+	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
+</plugin>
+
+
+
 
 
 
