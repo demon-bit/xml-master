@@ -23,17 +23,16 @@
 <info>Muhammad Ali vs. Joe Frazier III - 1975 - Thrilla in Manila</info>
 </item>
 
+<item>
+<title>Larry Holmes vs. Ken Norton - 1978</title>
+<link>https://www.youtube.com/watch/LS8JXVpJDIk</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/LS8JXVpJDIk.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Larry Holmes vs. Ken Norton - 1978</info>
+</item>
 
-name="Larry Holmes vs. Ken Norton - 1978"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="LS8JXVpJDIk"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/LS8JXVpJDIk.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Larry Holmes vs. Ken Norton - 1978"
+
+
 
 name="Marvin Hagler vs. Tommy Hearns - 1985"
 section="false"
