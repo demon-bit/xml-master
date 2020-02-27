@@ -2,7 +2,6 @@
 	<title>Famous Boxing matches</title>
 	<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/boxing.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_icon.png</thumbnail>
-	<info> </info>
 </dir>
 
 <plugin>
