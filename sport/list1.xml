@@ -7,29 +7,6 @@
 </plugin>
 
 <plugin>
-	<title>Test0</title>
-        <link>plugin://plugin.video.youtube/user/MLB/playlist</link>
-	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
-</plugin>
-
-<plugin>
-	<title>Test</title>
-        <link>plugin://plugin.video.youtube/user/MLB/</link>
-	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
-</plugin>
-
-<plugin>
-	<title>Test2</title>
-        <link>plugin://plugin.video.youtube/channel/UCoLrcjPV5PbUrUyXq5mjc_A/</link>
-	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
-</plugin>
-
-
-
-
-
-
-<plugin>
 	<title>SPORT</title>
 	<link>plugin://plugin.video.youtube/search/?q=last sports</link>
 	<thumbnail>http://icons.iconarchive.com/icons/martz90/circle-addon1/512/ct-sport-icon.png</thumbnail>
@@ -88,28 +65,3 @@
 	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
 	<fanart></fanart>
 </item>
-
-
-<plugin>
-	<title>SEARCH YOUTUBE</title>
-	<link>plugin://plugin.video.youtube/kodion/search/list/</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/search.png</thumbnail>
-</plugin>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 	
-
