@@ -1,13 +1,9 @@
-name="Famous Boxing matches"
-section="false"
-search="false"
-subid="boxing"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Famous Boxing matches"
+<dir>
+	<title>Famous Boxing matches</title>
+	<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/boxing.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_icon.png</thumbnail>
+	<info> </info>
+</dir>
 
 <plugin>
 	<title>MLB</title>
