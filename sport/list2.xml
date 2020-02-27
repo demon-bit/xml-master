@@ -12,7 +12,7 @@ description="Famous Boxing matches"
 <plugin>
 	<title>MLB</title>
         <link>plugin://plugin.video.youtube/user/MLB/</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/sports/mlb_icon.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/mlb_icon.png</thumbnail>
 </plugin>
 
 
