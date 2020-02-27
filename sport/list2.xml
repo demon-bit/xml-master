@@ -21,28 +21,20 @@ description="Famous Boxing matches"
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nba_icon.png</thumbnail>
 </plugin>
 
+<plugin>
+	<title>NFL</title>
+        <link>plugin://plugin.video.youtube/user/NFL/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nfl_icon.png</thumbnail>
+</plugin>
 
-name="NBA"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="NBA"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nba_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="NBA"
+<plugin>
+	<title>NHL</title>
+        <link>plugin://plugin.video.youtube/user/NHLVideo</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nhl_icon.png</thumbnail>
+</plugin>
 
-name="NFL"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="NFL"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nfl_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="NFL"
+
+
 
 name="NHL"
 section="false"
