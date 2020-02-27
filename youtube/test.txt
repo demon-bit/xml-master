@@ -1,14 +1,3 @@
-name="[COLOR limegreen]*** YOUTBE CHANNEL ***[/COLOR]"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="UCFH5pF0pB4_yQYrqfpfImIQ"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/youtube.png"
-fanart="https://www.hdwallpaper.nu/wp-content/uploads/2015/04/11064-girl-listening-to-music-1920x1080-music-wallpaper.jpg"
-description="youtube"
-
 <plugin>
 	<title>LIVE SPORTS</title>
 	<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ/</link>
