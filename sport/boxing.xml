@@ -7,42 +7,22 @@
 <info>Cassius Clay vs. Sonny Liston - 1964</info>
 </item>
 
-			
+<item>
+<title>Muhammad Ali vs. Joe Frazier - 1971</title>
+<link>https://www.youtube.com/watch/RLm4FbfLSMI</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/RLm4FbfLSMI.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Muhammad Ali vs. Joe Frazier - 1971</info>
+</item>
 
-	
+<item>
+<title>Muhammad Ali vs. Joe Frazier III - 1975 - Thrilla in Manila</title>
+<link>https://www.youtube.com/watch/oNEfN2R4oRc</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/oNEfN2R4oRc.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Muhammad Ali vs. Joe Frazier III - 1975 - Thrilla in Manila</info>
+</item>
 
-name="Cassius Clay vs. Sonny Liston - 1964"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="W4IKMX-5JLk"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/W4IKMX-5JLk.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Cassius Clay vs. Sonny Liston - 1964"
-
-name="Muhammad Ali vs. Joe Frazier - 1971"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="RLm4FbfLSMI"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/RLm4FbfLSMI.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Muhammad Ali vs. Joe Frazier - 1971"
-
-name="Muhammad Ali vs. Joe Frazier III - 1975 - Thrilla in Manila"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="oNEfN2R4oRc"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/oNEfN2R4oRc.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Muhammad Ali vs. Joe Frazier III - 1975 - Thrilla in Manila"
 
 name="Larry Holmes vs. Ken Norton - 1978"
 section="false"
