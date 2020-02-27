@@ -39,6 +39,11 @@ description="Famous Boxing matches"
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/wwe_icon.png</thumbnail>
 </plugin>
 
+<plugin>
+	<title>ESPN</title>
+        <link>plugin://plugin.video.youtube/user/ESPN</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/espn_icon.png</thumbnail>
+</plugin>
 
 
 
@@ -47,16 +52,7 @@ description="Famous Boxing matches"
 
 
 
-name="ESPN"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="ESPN"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/espn_icon.png"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="ESPN"
+
 
 name="Live Now - Sports"
 section="false"
