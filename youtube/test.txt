@@ -1,0 +1,92 @@
+
+
+<plugin>
+	<title>LIVE SPORTS</title>
+	<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKLxxqAxVf3eEVitZr_fbQZ/</link>
+	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>SPORT</title>
+	<link>plugin://plugin.video.youtube/search/?q=last sports</link>
+	<thumbnail>http://icons.iconarchive.com/icons/martz90/circle-addon1/512/ct-sport-icon.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>HOT SPORTS</title>
+	<link>plugin://plugin.video.youtube/playlist/PL9yHlSk8_updhXjdN1Z0VrY-0NbcfeF5V/</link>
+	<thumbnail>http://www.clker.com/cliparts/d/9/a/6/13665393891197772252free-red-cloud-sexy_girl-hi.png</thumbnail>
+</plugin>
+
+<item>
+	<title>STRONG FEMALE FITNESS MOMENTS - HARD WORKOUT 2018</title>
+	<link>https://www.youtube.com/watch/gdM5Bb5-PS0</link>
+	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>20 MOST EMBARRASSING MOMENTS IN SPORTS</title>
+        <link>https://www.youtube.com/watch/_qyopTE7iFQ</link>	
+	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>LOOK AT THE FLEXIBILITY OF THIS INCREDIBLE MUSE</title>
+	<link>https://www.youtube.com/watch/aAQsURDkrns</link>
+	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>"LIKE A BOSS COMPILATION</title>
+	<link>https://www.youtube.com/watch/QOCoL_-0FEA</link>
+	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<plugin>
+	<title>PTV SPORTS</title>
+	<link>plugin://plugin.video.youtube/search/?q=ptp sports</link>
+	<thumbnail>http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>REDBULL SPORTS EXTREME</title>
+	<link>plugin://plugin.video.youtube/search/?q=red bull sports extreme</link>
+	<thumbnail>http://7desktopthemes.com/images/red-bull-logo-transparent-background-wallpaper-4.jpg</thumbnail>
+</plugin>
+
+
+<item>	
+	<title>5 Exercises That Will Transform Your Body In Just 4 Weeks</title>
+	<link>https://www.youtube.com/watch/aea-S3CtzIk</link>
+	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+
+<plugin>
+	<title>SEARCH YOUTUBE</title>
+	<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/search.png</thumbnail>
+</plugin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+
