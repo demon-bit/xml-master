@@ -29,7 +29,7 @@
 
 <plugin>
 	<title>NHL</title>
-        <link>plugin://plugin.video.youtube/user/NHLVideo/playlists</link>
+        <link>plugin://plugin.video.youtube/user/NHLVideo/</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nhl_icon.png</thumbnail>
 </plugin>
 
