@@ -45,22 +45,8 @@ description="Famous Boxing matches"
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/espn_icon.png</thumbnail>
 </plugin>
 
-
-
-
-
-
-
-
-
-
-name="Live Now - Sports"
-section="false"
-search="false"
-subid="false"
-playlistid="PL8fVUTBmJhHKq0MhIplzljtGhHN2E_jk0"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/livenow_sports_icon.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Live Now - Sports"
+<plugin>
+	<title>Live Now - Sports</title>
+        <link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKq0MhIplzljtGhHN2E_jk0/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/livenow_sports_icon.jpg</thumbnail>
+</plugin>
