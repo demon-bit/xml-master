@@ -4,10 +4,10 @@
 <xml>
 	
 <plugin>
-<title>TEST</title>
-<link>plugin://plugin.video.youtube/playlist/W4IKMX-5JLk/</link>
-<thumbnail>http://www.tantrumtv.com/wp-content/uploads/2017/10/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
+<title>Cassius Clay vs. Sonny Liston - 1964</title>
+<link>plugin://plugin.video.youtube/watch/gdM5Bb5-PS0</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/W4IKMX-5JLk.jpg</thumbnail>
+fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
 </plugin>
 			
 </xml>
