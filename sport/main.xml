@@ -10,22 +10,6 @@
 	<info> </info>
 </plugin>
 	
-
-<plugin>
-	<title>swift</title>
-        <link>plugin://plugin.video.descent/?action=swiftNavigator</link>	
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<info> </info>
-</plugin>
-	
-<plugin>
-	<title>swift2</title>
-        <link>plugin://plugin.video.descent/?action=swiftCat&url=8</link>	
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<info> </info>
-</plugin>
-	
-plugin://script.module.swiftstreamz/list_channels/8
 	
 <plugin>
 	<title>[B] [COLORgreen]SPORT[/COLOR][COLORorange][I]DEVIL[/COLOR][/B][/I]</title>
@@ -47,20 +31,29 @@ plugin://script.module.swiftstreamz/list_channels/8
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </dir>
-
+	
 <plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 1[/COLOR][/B][/I]</title>
+        <link>plugin://plugin.video.descent/?action=swiftCat&url=8</link>	
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</plugin>
+
+<plugin>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 2[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </plugin>
 	
 <plugin>
-	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 2[/COLOR][/B][/I]</title>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 3[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </plugin>
+	
+
 	
 <dir>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]FITNESS[/COLOR][/B][/I]</title>
