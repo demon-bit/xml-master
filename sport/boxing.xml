@@ -31,52 +31,48 @@
 <info>Larry Holmes vs. Ken Norton - 1978</info>
 </item>
 
+<item>
+<title>Marvin Hagler vs. Tommy Hearns - 1985</title>
+<link>https://www.youtube.com/watch/yqtiewLWEn4</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/yqtiewLWEn4.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Marvin Hagler vs. Tommy Hearns - 1985</info>
+</item>
+
+<item>
+<title>Sugar Ray Leonard vs. Marvin Hagler - 1987</title>
+<link>https://www.youtube.com/watch/F7BtibY7cns</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/F7BtibY7cns.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Sugar Ray Leonard vs. Marvin Hagler - 1987</info>
+</item>
+
+<item>
+<title>Roberto Duran vs. Sugar Ray Leonard I - 1980</title>
+<link>https://www.youtube.com/watch/ZuGZVkYuHM4</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/ZuGZVkYuHM4.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Roberto Duran vs. Sugar Ray Leonard I - 1980</info>
+</item>
+
+<item>
+<title>Sugar Ray Leonard vs. Tommy Hearns I - 1981</title>
+<link>https://www.youtube.com/watch/xeppeZ9u9xs</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/xeppeZ9u9xs.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg</fanart>
+<info>Sugar Ray Leonard vs. Tommy Hearns I - 1981</info>
+</item>
 
 
 
-name="Marvin Hagler vs. Tommy Hearns - 1985"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="yqtiewLWEn4"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/yqtiewLWEn4.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Marvin Hagler vs. Tommy Hearns - 1985"
 
-name="Sugar Ray Leonard vs. Marvin Hagler - 1987"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="F7BtibY7cns"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/F7BtibY7cns.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Sugar Ray Leonard vs. Marvin Hagler - 1987"
 
-name="Roberto Duran vs. Sugar Ray Leonard I - 1980"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="ZuGZVkYuHM4"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/ZuGZVkYuHM4.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Roberto Duran vs. Sugar Ray Leonard I- 1980"
 
-name="Sugar Ray Leonard vs. Tommy Hearns I - 1981"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="xeppeZ9u9xs"
-icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/xeppeZ9u9xs.jpg"
-fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
-description="Sugar Ray Leonard vs. Tommy Hearns I - 1981"
+
+
+
+
+
 
 name="Arturo Gatti vs. Micky Ward I - 2005"
 section="false"
