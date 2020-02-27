@@ -4,16 +4,11 @@
 <xml>
 	
 <plugin>
-	<title>MLB</title>
-        <link>plugin://plugin.video.youtube/user/MLB/</link>
-	<thumbnail>https://github.com/demon-bit/xml-master/raw/master/sport/icons/mlb_icon.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title>Cassius Clay vs. Sonny Liston - 1964<title>
-	<link>plugin://plugin.video.youtube/playlist/W4IKMX-5JLk/</link>
+	<title>Cassius Clay vs. Sonny Liston - 1964</title>
+        <link>plugin://plugin.video.youtube/playlist/W4IKMX-5JLk/</link>
 	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
 </plugin>
+
 		
 </xml>
 	
