@@ -7,6 +7,12 @@
 </plugin>
 
 <plugin>
+	<title>Test0</title>
+        <link>plugin://plugin.video.youtube/user/MLB/playlist</link>
+	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
+</plugin>
+
+<plugin>
 	<title>Test</title>
         <link>plugin://plugin.video.youtube/user/MLB/</link>
 	<thumbnail>https://pbs.twimg.com/profile_images/1681179270/live-icon_400x400.jpg</thumbnail>
