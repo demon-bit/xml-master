@@ -11,11 +11,11 @@
 </plugin>
 	
 	
-<dir>
+<plugin>
 	<title>[B] [COLORgreen]SPORT[/COLOR][COLORorange][I]DEVIL[/COLOR][/B][/I]</title>
         <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
-</dir>
+</plugin>
 	
 <dir>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</title>
