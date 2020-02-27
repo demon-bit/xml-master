@@ -15,6 +15,12 @@ description="Famous Boxing matches"
 	<thumbnail>https://github.com/demon-bit/xml-master/raw/master/sport/icons/mlb_icon.png</thumbnail>
 </plugin>
 
+<plugin>
+	<title>NBA</title>
+        <link>plugin://plugin.video.youtube/user/NBA/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/nba_icon.png</thumbnail>
+</plugin>
+
 
 name="NBA"
 section="false"
