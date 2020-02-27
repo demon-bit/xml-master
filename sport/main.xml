@@ -33,21 +33,21 @@
 </dir>
 	
 <plugin>
-	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 1[/COLOR][/B][/I]</title>
+	<title>[B] [COLORyellow]SWIFT[/COLOR][COLORgreen][I]CHANNELS[/COLOR][/B][/I]</title>
         <link>plugin://plugin.video.descent/?action=swiftCat&url=8</link>	
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 
 <plugin>
-	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 2[/COLOR][/B][/I]</title>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 1[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
 </plugin>
 	
 <plugin>
-	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 3[/COLOR][/B][/I]</title>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORgreen][I]CHANNELS 2[/COLOR][/B][/I]</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 	<info> </info>
