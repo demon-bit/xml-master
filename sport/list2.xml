@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<xml>
+
 <dir>
 	<title>Famous Boxing matches</title>
 	<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/boxing.xml</link>
@@ -45,3 +50,6 @@
         <link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKq0MhIplzljtGhHN2E_jk0/</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/livenow_sports_icon.jpg</thumbnail>
 </plugin>
+	
+</xml>
+
