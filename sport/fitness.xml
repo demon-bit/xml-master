@@ -57,10 +57,11 @@
 
 <plugin>
 <title>TestZone</title>
-<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/womanworkout.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
 </plugin>
+
 
 
 
