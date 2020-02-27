@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<xml>
+
 <plugin>
 	<title>Cassius Clay vs. Sonny Liston - 1964>
 	<link>plugin://plugin.video.youtube/playlist/W4IKMX-5JLk/</link>
@@ -234,3 +239,6 @@ videoid="wE2iHKed_4A"
 icon="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/wE2iHKed_4A.jpg"
 fanart="https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/boxing_fanart.jpg"
 description="TOP 20 Most Brutal One Punch Knockouts"
+	
+<xml>
+
