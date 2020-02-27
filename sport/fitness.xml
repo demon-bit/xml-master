@@ -1,22 +1,22 @@
 <plugin>
 <title>AMANDA RUSSEL</title>
 <link>plugin://plugin.video.youtube/channel/UCMTXToEZ6VT5k9GOCFNYjWA/playlists/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/Arussel.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/Arussel.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>ANGIE FITNESS TV</title>
 <link>plugin://plugin.video.youtube/channel/UCJkxjzp8DFadQRiJp3yUdKg/playlists/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/Angie.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/Angie.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>ATHLEAN-XX FOR WOMEN</title>
 <link>plugin://plugin.video.youtube/channel/UCy_cuwmA9gnABoe-YIT0tyQ/playlists/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/Athlean.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/Athlean.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
@@ -24,35 +24,35 @@
 <link>plugin://plugin.video.youtube/channel/UCiP6wD_tYlYLYh3agzbByWQ/playlists/</link>
 # plugin://plugin.video.youtube/search/?q=Fitnessblender
 <thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.fitnessblenderv2/icon/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>FITNESSZONE</title>
 <link>plugin://plugin.video.youtube/playlist/PLtORWwelA8bLT3QLL5cBD7YYSIVubQVpq/</link>
 <thumbnail>http://www.tantrumtv.com/wp-content/uploads/2017/10/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>OPTIMA VITA</title>
 <link>plugin://plugin.video.youtube/channel/UC_9u5L8pn1vAzqqrSv3CwnQ/playlists/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/marloes.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/marloes.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>RENEE AMBERG</title>
 <link>plugin://plugin.video.youtube/channel/UCwrck-lD9ERHLWxWDD8_uyA/playlists/</link>
 <thumbnail>https://i.ytimg.com/vi/VXpM220eTkE/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAFyPTjCbOfNdgFQFktu3d3fO_aSg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>WOMAN WORKOUT CHANNEL</title>
 <link>plugin://plugin.video.youtube/channel/UCmXGmgUgjEHwGq6NR9SSi6g/playlists/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/womanworkout.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/womanworkout.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/fitness-wallpaper.jpg</fanart>
 </plugin>
 
 
