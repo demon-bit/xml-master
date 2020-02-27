@@ -80,6 +80,12 @@
    <link>plugin://script.module.laola1tv</link>
    <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/sport/icons/icon.png</thumbnail>
 </plugin>
+	
+<plugin>
+	<title>[B][COLORred]SEARCH YOUTUBE[/COLOR][/B]</title>
+	<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/search.png</thumbnail>
+</plugin>
 		
 </xml>
 
